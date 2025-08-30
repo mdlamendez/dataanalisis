@@ -1,0 +1,770 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-26T14:26:29.371Z,-24.0999,-67.1301,162.925,4.3,mb,67,57,1.494,1.07,us,us7000qr0i,2025-08-26T16:18:58.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,7.63,6.925,0.068,61,reviewed,us,us
+2025-08-25T18:01:03.119Z,-21.7142,-68.4897,118.465,4.7,mb,44,63,0.704,1.19,us,us7000qqvr,2025-08-25T18:16:37.040Z,"59 km SSW of Ollagüe, Chile",earthquake,4.54,5.964,0.06,85,reviewed,us,us
+2025-08-25T02:41:38.058Z,-31.0634,-71.8563,26.142,4.2,mb,23,197,0.433,0.65,us,us6000r3k9,2025-08-25T02:50:18.040Z,"81 km SW of Ovalle, Chile",earthquake,4.15,9.264,0.304,3,reviewed,us,us
+2025-08-24T17:42:17.183Z,-32.4984,-71.4922,69.685,4.3,mb,31,136,0.539,0.47,us,us6000r3i2,2025-08-25T16:48:00.833Z,"25 km WSW of La Ligua, Chile",earthquake,3.54,5.47,0.169,10,reviewed,us,us
+2025-08-24T07:02:51.124Z,-23.1416,-67.8079,145.524,4.3,mb,31,46,0.39,1.04,us,us6000r3g2,2025-08-24T09:40:39.040Z,"47 km ESE of San Pedro de Atacama, Chile",earthquake,8.68,4.479,0.111,23,reviewed,us,us
+2025-08-24T03:44:08.460Z,-19.3888,-69.2674,100.534,5,mb,59,104,0.287,1.04,us,us6000r3fa,2025-08-24T15:32:52.214Z,"18 km ESE of Camiña, Chile",earthquake,6.76,5.716,0.029,391,reviewed,us,us
+2025-08-23T09:07:59.103Z,-32.5045,-71.5221,53.111,4.7,mb,49,133,0.527,0.84,us,us6000r3as,2025-08-24T15:09:12.040Z,"27 km WSW of La Ligua, Chile",earthquake,2.93,5.576,0.097,32,reviewed,us,us
+2025-08-23T03:01:31.055Z,-31.6516,-69.4547,111.473,4.2,mb,22,64,0.677,1.14,us,us6000r397,2025-08-23T23:48:21.040Z,"35 km S of Calingasta, Argentina",earthquake,6.3,7.859,0.237,5,reviewed,us,us
+2025-08-22T20:42:25.416Z,-30.2789,-67.4757,27.888,4.9,mww,94,31,1.628,1.26,us,us6000r37j,2025-08-23T01:14:41.022Z,"39 km N of San Agustín de Valle Fértil, Argentina",earthquake,4.48,4.958,0.089,12,reviewed,us,us
+2025-08-22T17:31:22.904Z,-57.1776,-67.21,10,4.8,mb,26,234,2.263,0.92,us,us6000r36r,2025-08-22T18:28:51.040Z,"272 km SSE of Ushuaia, Argentina",earthquake,9.37,2.002,0.121,21,reviewed,us,us
+2025-08-22T09:36:12.526Z,-15.3793,-73.6873,97.275,4.4,mb,29,142,4.371,0.56,us,us6000r309,2025-08-22T11:29:28.040Z,"19 km SW of Incuyo, Peru",earthquake,10.46,10.612,0.123,19,reviewed,us,us
+2025-08-22T08:12:30.132Z,-41.2888,-75.3135,10,4.4,mb,23,141,2.012,0.76,us,us6000r2zx,2025-08-22T20:15:34.736Z,"140 km WNW of Ancud, Chile",earthquake,7.21,1.916,0.149,13,reviewed,us,us
+2025-08-22T06:10:52.518Z,-24.0319,-66.5947,189.871,4.5,mb,45,70,1.808,1.15,us,us6000r2zf,2025-08-22T06:29:50.040Z,"34 km NW of San Antonio de los Cobres, Argentina",earthquake,9.82,6.938,0.047,135,reviewed,us,us
+2025-08-21T22:34:42.569Z,-57.3681,-67.358,10,4.7,mb,22,172,2.447,0.68,us,us6000r2v1,2025-08-21T23:31:11.040Z,"290 km SSE of Ushuaia, Argentina",earthquake,15.83,1.97,0.13,18,reviewed,us,us
+2025-08-21T08:57:21.322Z,-21.5995,-68.217,130.592,4.3,mb,19,68,0.973,0.61,us,us6000r2rc,2025-08-21T17:46:40.378Z,"41 km S of Ollagüe, Chile",earthquake,6.56,8.463,0.147,13,reviewed,us,us
+2025-08-19T22:49:28.250Z,-18.378,-71.344,59.014,4.3,mb,23,168,0.952,1.3,us,us6000r27f,2025-08-20T21:25:01.040Z,"81 km S of Pacocha, Peru",earthquake,8.55,9.281,0.132,16,reviewed,us,us
+2025-08-19T16:33:36.802Z,-30.5668,-70.822,81.115,4.1,mb,26,71,0.294,0.79,us,us6000r22b,2025-08-19T18:22:44.040Z,"19 km NE of Monte Patria, Chile",earthquake,6.72,7.14,0.37,2,reviewed,us,us
+2025-08-19T06:08:42.089Z,-57.1107,-67.0691,10,5.7,mb,73,131,2.207,0.88,us,us6000r201,2025-08-20T06:34:08.505Z,"267 km SSE of Ushuaia, Argentina",earthquake,9.69,1.876,0.056,112,reviewed,us,us
+2025-08-19T00:22:55.980Z,-29.6881,-71.3498,39.729,4.6,mb,32,151,0.249,0.53,us,us6000r1z2,2025-08-19T17:24:06.644Z,"25 km NNW of La Serena, Chile",earthquake,4.87,7.954,0.223,6,reviewed,us,us
+2025-08-18T18:22:28.617Z,-44.4356,-80.3011,10,4.8,mb,27,84,4.885,0.32,us,us6000r1x1,2025-08-18T18:41:44.040Z,"Off the coast of Aisen, Chile",earthquake,7.98,1.889,0.124,20,reviewed,us,us
+2025-08-18T12:47:02.344Z,-15.8782,-72.5659,92.165,4.9,mb,44,122,3.266,0.91,us,us6000r1vl,2025-08-18T13:05:31.040Z,"6 km ESE of Iray, Peru",earthquake,9.35,7.641,0.069,66,reviewed,us,us
+2025-08-18T07:10:11.293Z,-44.7953,-79.8476,10,5.6,mww,77,135,4.51,0.89,us,us6000r1ud,2025-08-19T07:37:16.312Z,"Off the coast of Aisen, Chile",earthquake,10.18,1.881,0.046,45,reviewed,us,us
+2025-08-17T21:41:13.431Z,-19.2315,-69.0247,114.315,4.3,mb,25,90,0.463,0.41,us,us6000r1rx,2025-08-18T01:20:40.040Z,"40 km W of Colchane, Chile",earthquake,5.95,1.801,0.147,13,reviewed,us,us
+2025-08-17T19:09:39.346Z,-22.789,-66.3936,265.221,5,mww,33,57,1.654,1.54,us,us6000r1ri,2025-08-17T19:18:45.040Z,"71 km W of Abra Pampa, Argentina",earthquake,8.09,10.154,0.071,19,reviewed,us,us
+2025-08-17T10:48:13.884Z,-57.3474,-66.9371,10,4.5,mb,40,143,2.452,0.51,us,us6000r1q2,2025-08-17T11:06:36.040Z,"295 km SSE of Ushuaia, Argentina",earthquake,13.46,1.927,0.088,38,reviewed,us,us
+2025-08-17T05:08:23.770Z,-29.8655,-71.6234,38.429,4.2,mb,29,148,0.338,0.61,us,us6000r1p2,2025-08-20T05:14:04.040Z,"29 km WNW of Coquimbo, Chile",earthquake,5.18,8.346,0.175,9,reviewed,us,us
+2025-08-16T08:08:29.763Z,-20.2248,-68.5922,136.001,4.3,mb,13,94,0.534,0.16,us,us6000r1kf,2025-08-16T09:20:56.040Z,"105 km S of Colchane, Chile",earthquake,7.48,6.662,0.2,7,reviewed,us,us
+2025-08-15T23:54:15.707Z,-34.4918,-73.9581,16.886,4.1,mb,29,192,2.116,0.71,us,us6000r1j4,2025-08-16T00:58:59.040Z,"169 km NW of Constitución, Chile",earthquake,8.12,6.696,0.233,5,reviewed,us,us
+2025-08-15T23:39:33.012Z,-25.7871,-69.2657,9.179,4.1,mb,15,140,0.688,1.02,us,us6000r1iz,2025-08-16T00:44:54.040Z,"102 km NE of Diego de Almagro, Chile",earthquake,5.32,5.983,0.301,3,reviewed,us,us
+2025-08-15T22:26:39.828Z,-31.8552,-68.358,114.963,4.5,mb,32,65,0.408,0.55,us,us6000r1it,2025-08-16T04:06:49.553Z,"20 km S of Nueve de Julio, Argentina",earthquake,7.55,6.346,0.18,9,reviewed,us,us
+2025-08-15T20:29:15.214Z,-18.3539,-69.7404,149.029,4.4,mb,28,77,0.571,0.9,us,us6000r1i9,2025-08-16T16:46:07.040Z,"60 km ENE of Arica, Chile",earthquake,5.87,6.076,0.123,19,reviewed,us,us
+2025-08-15T02:17:08.401Z,-29.9779,-71.1393,86.261,4.2,mb,20,92,0.104,0.37,us,us6000r0w1,2025-08-15T05:09:47.040Z,"13 km SE of La Serena, Chile",earthquake,4.63,6.866,0.263,4,reviewed,us,us
+2025-08-14T22:03:19.045Z,-57.1844,-67.8729,10,4.5,mb,17,152,2.262,0.67,us,us6000r0uw,2025-08-15T05:18:24.040Z,"265 km S of Ushuaia, Argentina",earthquake,11.27,1.965,0.163,11,reviewed,us,us
+2025-08-13T00:13:47.689Z,-24.5186,-67.9227,130,4.2,mb,25,96,1.577,0.73,us,us6000r085,2025-08-13T03:42:49.040Z,"166 km W of San Antonio de los Cobres, Argentina",earthquake,7.81,2.008,0.214,6,reviewed,us,us
+2025-08-12T03:30:55.845Z,-24.5794,-70.5464,23.543,4.3,mb,19,178,1.045,1.13,us,us6000r00i,2025-08-12T04:53:20.040Z,"91 km N of Taltal, Chile",earthquake,2.31,7.539,0.168,10,reviewed,us,us
+2025-08-11T23:38:01.535Z,-26.9327,-71.1682,20.62,4.4,mb,17,154,0.338,0.75,us,us6000qzzv,2025-08-12T03:04:34.040Z,"95 km WNW of Copiapó, Chile",earthquake,2.81,5.817,0.219,6,reviewed,us,us
+2025-08-11T20:37:01.061Z,-26.8612,-71.2042,19.69,4.1,mwr,32,142,0.407,0.94,us,us6000qzyw,2025-08-14T17:03:49.040Z,"103 km WNW of Copiapó, Chile",earthquake,4.4,4.337,0.05,38,reviewed,us,us
+2025-08-11T19:36:39.746Z,-26.8842,-71.1207,23.635,4.8,mwr,44,141,0.337,1,us,us6000qzvz,2025-08-11T23:38:21.836Z,"94 km NW of Copiapó, Chile",earthquake,4.63,4.732,0.043,53,reviewed,us,us
+2025-08-11T14:17:22.874Z,-30.5857,-71.8425,30.808,4.3,mb,34,157,0.199,0.67,us,us6000qzt6,2025-08-11T15:37:10.040Z,"61 km W of Ovalle, Chile",earthquake,5.74,4.338,0.189,8,reviewed,us,us
+2025-08-11T11:41:25.478Z,-14.6246,-76.656,10,4.5,mb,38,139,2.627,1.22,us,us6000qzsi,2025-08-11T11:57:59.040Z,"93 km SSW of Paracas, Peru",earthquake,8.67,1.821,0.093,34,reviewed,us,us
+2025-08-11T11:10:44.752Z,-21.795,-68.6525,142.469,4.9,mb,38,30,0.548,1.37,us,us6000qzsd,2025-08-11T11:23:25.040Z,"75 km SSW of Ollagüe, Chile",earthquake,6.57,7.195,0.14,16,reviewed,us,us
+2025-08-10T08:36:49.292Z,-15.7608,-70.8908,170.787,4.1,mb,11,170,2.266,0.86,us,us6000qzlb,2025-08-13T05:40:56.040Z,"6 km N of Hacienda Huancane, Peru",earthquake,8.14,12.274,0.158,11,reviewed,us,us
+2025-08-09T09:34:45.726Z,-17.2273,-69.4697,165.41,4.4,mb,39,108,0.36,0.87,us,us6000qzg1,2025-08-09T12:06:26.040Z,"59 km SSE of Mazo Cruz, Peru",earthquake,7.99,5.885,0.087,38,reviewed,us,us
+2025-08-09T04:29:42.689Z,-16.8349,-69.9131,192.493,4.3,mb,22,129,1.581,0.66,us,us6000qzew,2025-08-09T05:10:48.040Z,"23 km WSW of Mazo Cruz, Peru",earthquake,11.01,11.377,0.202,7,reviewed,us,us
+2025-08-08T18:02:20.352Z,-24.2216,-67.251,173.372,4.8,mb,35,66,1.524,1.08,us,us6000qz7k,2025-08-08T18:47:13.040Z,"94 km W of San Antonio de los Cobres, Argentina",earthquake,5.1,8.518,0.124,20,reviewed,us,us
+2025-08-07T02:12:45.176Z,-41.8429,-83.8838,10,5.3,mb,43,138,10.098,1.19,us,us6000qys2,2025-08-07T02:32:11.040Z,"West Chile Rise",earthquake,12.55,1.898,0.034,286,reviewed,us,us
+2025-08-06T23:51:54.314Z,-57.1319,-68.3972,10,4.9,mb,17,135,16.472,0.86,us,us6000qyrh,2025-08-07T00:21:19.040Z,"258 km S of Ushuaia, Argentina",earthquake,22.62,1.852,0.211,7,reviewed,us,us
+2025-08-06T16:40:42.480Z,-23.9806,-66.6872,204.332,4.5,mb,28,58,1.71,0.71,us,us6000qymz,2025-08-06T22:43:54.040Z,"45 km NW of San Antonio de los Cobres, Argentina",earthquake,8.99,3.866,0.125,19,reviewed,us,us
+2025-08-05T18:10:09.852Z,-22.2384,-68.568,142.402,4.3,mb,24,74,0.764,0.78,us,us6000qydl,2025-08-26T16:49:04.040Z,"43 km ENE of Calama, Chile",earthquake,6.8,7.482,0.217,6,reviewed,us,us
+2025-08-05T06:02:47.085Z,-38.6796,-74.9114,10,4.5,mb,29,148,1.663,0.73,us,us6000qy6n,2025-08-25T12:29:43.040Z,"152 km W of Carahue, Chile",earthquake,9.64,1.921,0.139,15,reviewed,us,us
+2025-08-05T04:59:07.781Z,-22.0242,-68.7126,108.92,4.7,mb,47,65,0.541,0.98,us,us6000qy6e,2025-08-05T05:19:02.040Z,"52 km NNE of Calama, Chile",earthquake,5.95,5.556,0.062,80,reviewed,us,us
+2025-08-03T12:07:53.506Z,-22.1214,-68.4799,115.825,4.4,mb,52,85,0.778,0.92,us,us6000qxuv,2025-08-26T07:01:09.040Z,"58 km NE of Calama, Chile",earthquake,5.59,6.115,0.081,44,reviewed,us,us
+2025-08-02T06:48:12.806Z,-29.0511,-71.5778,10.683,4.6,mb,18,147,0.769,0.88,us,us6000qxlg,2025-08-02T08:27:06.040Z,"95 km WSW of Vallenar, Chile",earthquake,3.6,2.63,0.136,16,reviewed,us,us
+2025-08-02T04:52:11.023Z,-29.7529,-71.8422,27.059,4.3,mb,32,145,0.55,0.82,us,us6000qxkw,2025-08-27T02:29:19.040Z,"53 km WNW of Coquimbo, Chile",earthquake,5.35,5.147,0.154,12,reviewed,us,us
+2025-08-01T22:03:21.614Z,-21.6632,-68.7085,106.73,4.5,mb,24,70,0.513,0.65,us,us6000qxj0,2025-08-25T23:33:14.040Z,"67 km SW of Ollagüe, Chile",earthquake,6.23,5.599,0.14,15,reviewed,us,us
+2025-08-01T08:46:17.445Z,-24.5207,-67.5714,178.807,4.2,mb,23,95,1.658,1.25,us,us6000qx8p,2025-08-24T08:29:13.040Z,"131 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.43,11.438,0.187,8,reviewed,us,us
+2025-08-01T04:13:56.721Z,-21.8,-68.6279,121.783,4.2,mb,21,54,0.571,0.68,us,us6000qx78,2025-08-23T03:40:33.040Z,"74 km SSW of Ollagüe, Chile",earthquake,6,5.948,0.186,8,reviewed,us,us
+2025-08-01T01:59:15.835Z,-16.6068,-69.9776,200.742,4.4,mb,22,112,1.087,0.52,us,us6000qx6j,2025-08-23T00:33:04.040Z,"31 km WNW of Mazo Cruz, Peru",earthquake,8.96,7.151,0.179,9,reviewed,us,us
+2025-07-31T21:34:30.202Z,-34.0393,-70.4073,7.24,5,mb,73,86,0.312,0.9,us,us6000qx3m,2025-08-25T22:15:10.057Z,"27 km NE of Machalí, Chile",earthquake,4.66,3.532,0.033,294,reviewed,us,us
+2025-07-31T06:17:56.268Z,-19.4395,-69.5259,96.593,4.2,mb,15,128,0.387,0.52,us,us6000qwun,2025-08-21T07:28:31.040Z,"17 km SW of Camiña, Chile",earthquake,5.56,4.763,0.176,9,reviewed,us,us
+2025-07-30T12:32:07.141Z,-24.0951,-66.7639,192.487,4.7,mb,90,58,1.727,1.1,us,us6000qwh7,2025-08-17T08:55:49.040Z,"47 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.25,6.916,0.033,275,reviewed,us,us
+2025-07-30T03:49:14.275Z,-17.4206,-69.4571,168.518,4.7,mb,66,97,0.169,0.79,us,us6000qw9m,2025-08-27T03:41:38.040Z,"61 km ENE of Estique, Peru",earthquake,7.37,4.112,0.031,311,reviewed,us,us
+2025-07-30T02:23:10.430Z,-23.9044,-66.7902,226.072,4.3,mb,25,82,1.589,1.1,us,us6000qw7x,2025-08-23T05:09:32.040Z,"59 km NW of San Antonio de los Cobres, Argentina",earthquake,10.33,8.481,0.147,13,reviewed,us,us
+2025-07-29T20:36:13.084Z,-23.7033,-66.7788,195.353,4.5,mb,57,60,1.488,0.81,us,us6000qw4s,2025-08-14T14:29:05.040Z,"73 km NW of San Antonio de los Cobres, Argentina",earthquake,8.48,6.028,0.108,25,reviewed,us,us
+2025-07-29T09:33:22.187Z,-23.3228,-67.9044,156.468,4.3,mb,40,88,0.447,0.67,us,us6000qvwn,2025-08-15T04:24:16.040Z,"54 km SSE of San Pedro de Atacama, Chile",earthquake,5.82,4.997,0.097,30,reviewed,us,us
+2025-07-29T01:43:03.541Z,-31.7668,-69.7166,113.316,4.5,mb,46,61,0.919,0.95,us,us6000qvuz,2025-08-20T02:03:20.040Z,"55 km SSW of Calingasta, Argentina",earthquake,4.59,6.758,0.125,19,reviewed,us,us
+2025-07-28T20:51:54.113Z,-32.1142,-70.0243,116.655,4.2,mb,32,94,0.786,0.68,us,us6000qvrv,2025-08-15T13:19:10.040Z,"96 km ESE of Salamanca, Chile",earthquake,5.32,6.149,0.167,10,reviewed,us,us
+2025-07-28T02:04:56.464Z,-57.3384,-67.3971,10,4.3,mb,22,151,2.416,1,us,us6000qvjn,2025-08-18T05:26:42.040Z,"287 km SSE of Ushuaia, Argentina",earthquake,12.08,1.938,0.13,17,reviewed,us,us
+2025-07-27T12:51:11.252Z,-32.7859,-71.9664,15.58,4.5,mb,43,138,0.357,1.34,us,us6000qvhp,2025-08-19T13:38:34.040Z,"41 km NW of Valparaíso, Chile",earthquake,3.56,4.089,0.124,19,reviewed,us,us
+2025-07-27T10:37:03.405Z,-29.2807,-71.833,18.954,4.6,mwr,86,133,0.82,0.87,us,us6000qvh8,2025-08-19T13:34:20.520Z,"88 km NNW of Coquimbo, Chile",earthquake,3.82,3.524,0.048,42,reviewed,us,us
+2025-07-27T08:03:30.143Z,-20.7057,-68.7581,128.91,4.5,mb,25,61,0.673,0.88,us,us6000qvgf,2025-08-13T12:35:10.040Z,"77 km NW of Ollagüe, Chile",earthquake,6.5,6.241,0.115,22,reviewed,us,us
+2025-07-27T06:36:37.716Z,-35.4292,-71.2382,99.625,4.2,mb,45,126,0.363,0.7,us,us6000qvfz,2025-08-13T12:05:44.040Z,"25 km ENE of San Clemente, Chile",earthquake,4.69,4.757,0.108,24,reviewed,us,us
+2025-07-27T06:21:19.706Z,-26.8252,-71.3494,10,4.6,mb,26,144,0.532,1.39,us,us6000qvfu,2025-08-16T22:58:52.040Z,"117 km WNW of Copiapó, Chile",earthquake,3.57,1.844,0.128,18,reviewed,us,us
+2025-07-27T04:28:59.943Z,-20.9565,-70.5112,29.639,4.3,mb,27,143,0.361,1.02,us,us6000qvfh,2025-08-16T22:31:48.040Z,"84 km SSW of La Tirana, Chile",earthquake,5.96,5.757,0.122,19,reviewed,us,us
+2025-07-27T04:11:40.629Z,-26.8262,-71.0132,22.223,4.7,mwr,75,140,0.332,1.04,us,us6000qvfe,2025-08-16T22:30:02.160Z,"90 km NW of Copiapó, Chile",earthquake,3.09,4.587,0.036,75,reviewed,us,us
+2025-07-26T18:38:34.158Z,-21.3156,-67.2314,177.186,4.4,mb,102,45,1.85,1.13,us,us6000qvd1,2025-08-20T18:37:44.040Z,"103 km SSW of Uyuni, Bolivia",earthquake,6.67,6.661,0.059,90,reviewed,us,us
+2025-07-25T03:05:15.378Z,-20.0895,-69.9267,27.769,2.9,ml,7,150,0.729,0.24,us,us6000quzl,2025-08-20T13:10:48.943Z,"19 km WSW of Huara, Chile",earthquake,3.41,11.028,0.085,18,reviewed,us,us
+2025-07-25T02:39:46.379Z,-22.2542,-68.4574,112.746,4.4,mb,32,94,0.741,0.95,us,us6000quz3,2025-08-16T21:25:10.040Z,"53 km ENE of Calama, Chile",earthquake,5.93,6.441,0.13,17,reviewed,us,us
+2025-07-24T00:46:20.620Z,-22.1968,-68.648,106.106,5.2,mww,174,70,0.68,0.69,us,us6000quiv,2025-08-13T03:42:28.635Z,"40 km NE of Calama, Chile",earthquake,5.96,4.214,0.068,21,reviewed,us,us
+2025-07-23T15:25:36.719Z,-21.4368,-66.7089,226.33,4.7,mb,114,55,2.032,1.13,us,us6000qudg,2025-08-14T00:49:37.040Z,"75 km SW of Atocha, Bolivia",earthquake,7.55,6.974,0.041,178,reviewed,us,us
+2025-07-23T12:15:35.471Z,-22.8642,-66.5065,208.166,4.4,mb,28,66,1.544,0.82,us,us6000qucj,2025-08-09T04:50:52.040Z,"84 km W of Abra Pampa, Argentina",earthquake,7.35,8.485,0.131,17,reviewed,us,us
+2025-07-23T02:20:20.975Z,-16.3174,-74.3872,39.37,4.4,mb,20,150,4.37,0.66,us,us6000qua8,2025-08-13T23:36:31.179Z,"57 km S of Atiquipa, Peru",earthquake,10.04,9.968,0.19,8,reviewed,us,us
+2025-07-22T18:37:02.975Z,-41.295,-91.3504,10,4.3,mb,19,134,13.565,0.69,us,us6000qyj8,2025-08-10T15:11:24.040Z,"southeast of Easter Island",earthquake,10.07,1.878,0.153,12,reviewed,us,us
+2025-07-22T14:55:07.154Z,-19.4061,-66.7365,248.695,4.3,mb,33,54,2.332,0.6,us,us6000qu5d,2025-08-14T13:45:50.040Z,"55 km S of Challapata, Bolivia",earthquake,3.42,9.435,0.116,21,reviewed,us,us
+2025-07-21T23:20:32.249Z,-26.1553,-69.1344,100.155,4.2,mwr,38,85,1.071,0.74,us,us6000qu1a,2025-08-14T07:44:38.040Z,"94 km ENE of Diego de Almagro, Chile",earthquake,4.51,5.82,0.093,11,reviewed,us,us
+2025-07-21T16:03:34.200Z,-41.195,-89.1036,10,4.8,mb,89,141,12.049,0.47,us,us6000qtwe,2025-08-24T13:50:38.040Z,"southeast of Easter Island",earthquake,10.77,1.88,0.043,167,reviewed,us,us
+2025-07-21T09:53:22.575Z,-22.9993,-69.2189,108.282,4.3,mb,28,78,0.96,0.93,us,us7000qe8i,2025-08-11T12:26:53.040Z,"67 km SSW of Calama, Chile",earthquake,6.09,5.891,0.143,14,reviewed,us,us
+2025-07-21T08:50:37.086Z,-20.0652,-70.2102,58.421,4.1,mb,26,140,0.996,0.88,us,us7000qe85,2025-08-13T06:51:13.669Z,"17 km NNW of Barrio Industrial, Chile",earthquake,5.17,9.736,0.14,14,reviewed,us,us
+2025-07-21T05:23:50.269Z,-33.1967,-70.1194,104.314,4.2,mb,38,79,0.208,0.56,us,us7000qe72,2025-08-13T02:15:54.040Z,"50 km E of Chicureo Abajo, Chile",earthquake,5.46,3.631,0.136,15,reviewed,us,us
+2025-07-21T04:39:40.573Z,-18.9602,-69.4287,116.834,4.4,mb,40,103,0.739,1.03,us,us7000qe6z,2025-08-10T11:25:32.040Z,"39 km N of Camiña, Chile",earthquake,5.57,3.922,0.105,28,reviewed,us,us
+2025-07-21T02:59:43.840Z,-23.8733,-68.3455,122.55,4.4,mb,32,57,0.93,0.63,us,us7000qe6c,2025-08-10T11:19:00.076Z,"107 km S of San Pedro de Atacama, Chile",earthquake,6.78,8.066,0.127,18,reviewed,us,us
+2025-07-21T01:37:05.666Z,-19.5757,-68.9497,122.804,4.5,mb,27,63,0.248,0.97,us,us7000qe64,2025-08-10T10:40:58.040Z,"46 km SW of Colchane, Chile",earthquake,3.94,4.324,0.14,15,reviewed,us,us
+2025-07-20T18:16:21.820Z,-20.2152,-69.1538,96.072,4.1,mb,20,80,0.074,0.78,us,us7000qe38,2025-08-09T17:15:45.878Z,"54 km ENE of La Tirana, Chile",earthquake,4.87,3.376,0.175,9,reviewed,us,us
+2025-07-20T12:36:23.768Z,-22.8648,-68.8907,102.385,4.5,mb,48,68,0.662,0.88,us,us7000qe1a,2025-08-12T13:59:00.040Z,"45 km S of Calama, Chile",earthquake,4.86,6.228,0.063,75,reviewed,us,us
+2025-07-20T02:43:12.565Z,-46.2484,-75.5636,10,4.5,mb,29,141,1.809,0.89,us,us7000qdx9,2025-08-08T23:05:14.040Z,"230 km WSW of Puerto Chacabuco, Chile",earthquake,6.87,1.913,0.118,21,reviewed,us,us
+2025-07-18T19:39:44.551Z,-24.2488,-67.2783,179.176,4.4,mb,31,70,1.533,1.17,us,us7000qdin,2025-08-12T22:04:34.040Z,"97 km W of San Antonio de los Cobres, Argentina",earthquake,8.94,9.026,0.144,14,reviewed,us,us
+2025-07-18T17:00:14.392Z,-56.9407,-67.1374,10,4.6,mb,28,131,2.032,0.76,us,us7000qdh6,2025-08-12T15:06:05.040Z,"248 km SSE of Ushuaia, Argentina",earthquake,6.9,1.926,0.114,25,reviewed,us,us
+2025-07-18T16:16:42.915Z,-27.8088,-66.3085,143.072,4.7,mb,51,46,3.619,0.72,us,us7000qdgt,2025-08-08T12:55:45.040Z,"25 km S of Andalgalá, Argentina",earthquake,7.8,6.782,0.043,162,reviewed,us,us
+2025-07-18T09:35:31.085Z,-22.7269,-68.3365,111.872,4.2,mb,46,48,0.267,1.12,us,us7000qddv,2025-08-12T22:51:26.040Z,"24 km NW of San Pedro de Atacama, Chile",earthquake,6.75,4.209,0.092,33,reviewed,us,us
+2025-07-17T20:31:30.957Z,-24.2908,-69.552,83.535,5.1,mww,79,89,0.869,1.1,us,us7000qdaj,2025-08-22T14:26:33.040Z,"111 km SE of Antofagasta, Chile",earthquake,2.4,5.361,0.073,18,reviewed,us,us
+2025-07-17T13:02:33.460Z,-23.9969,-66.7009,196.538,4.4,mb,33,63,1.71,0.84,us,us7000qd7b,2025-08-07T19:41:57.040Z,"45 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.66,8.223,0.107,25,reviewed,us,us
+2025-07-16T13:52:18.374Z,-14.8495,-70.6926,199.908,4.3,mb,19,138,2.853,0.87,us,us6000qvyu,2025-08-12T04:28:42.040Z,"6 km E of Umachiri, Peru",earthquake,12.75,8.959,0.13,17,reviewed,us,us
+2025-07-16T12:42:47.470Z,-28.1395,-70.8273,60.1,4.7,mwr,103,68,0.227,0.69,us,us7000qcz9,2025-08-22T04:28:35.040Z,"48 km N of Vallenar, Chile",earthquake,5.31,5.16,0.071,19,reviewed,us,us
+2025-07-16T12:03:11.107Z,-37.9039,-73.6818,16.673,4.1,mwr,27,148,1.983,1,us,us7000qcz4,2025-08-02T05:26:20.040Z,"27 km WSW of Cañete, Chile",earthquake,8.25,4.98,0.075,17,reviewed,us,us
+2025-07-16T11:10:31.472Z,-21.4276,-68.6174,126.387,4.2,mb,22,73,0.687,0.81,us,us7000qcyy,2025-08-02T05:10:04.040Z,"43 km WSW of Ollagüe, Chile",earthquake,5.27,6.198,0.14,14,reviewed,us,us
+2025-07-15T21:53:50.965Z,-24.31,-67.2445,187.979,4.5,mb,23,67,1.601,0.73,us,us7000qcvy,2025-07-28T23:28:31.040Z,"94 km W of San Antonio de los Cobres, Argentina",earthquake,10.94,10.213,0.128,18,reviewed,us,us
+2025-07-15T20:47:53.741Z,-22.2697,-66.1409,238.209,4.2,mb,48,30,2.002,1.15,us,us7000qcvr,2025-07-28T21:27:43.040Z,"59 km WSW of La Quiaca, Argentina",earthquake,8.44,7.98,0.124,18,reviewed,us,us
+2025-07-15T10:07:34.631Z,-17.4423,-71.2192,86.241,4.1,mb,21,141,1.245,0.48,us,us7000qcrx,2025-08-07T11:27:04.287Z,"20 km NNE of El Algarrobal, Peru",earthquake,9.39,8.282,0.15,12,reviewed,us,us
+2025-07-14T19:37:04.482Z,-17.7979,-70.1269,112.26,4.6,mb,61,120,0.605,0.71,us,us7000qcn7,2025-07-26T13:37:44.040Z,"17 km NNE of Calana, Peru",earthquake,8.48,5.484,0.067,68,reviewed,us,us
+2025-07-13T20:10:59.456Z,-22.5717,-67.6221,164.474,4.5,mb,60,41,0.638,0.76,us,us7000qcgs,2025-07-27T14:40:46.040Z,"70 km ENE of San Pedro de Atacama, Chile",earthquake,6.42,4.954,0.064,71,reviewed,us,us
+2025-07-13T19:35:16.557Z,-20.0941,-69.0459,110.96,4.2,mb,22,64,0.111,0.55,us,us7000qcgg,2025-07-27T14:33:46.040Z,"69 km ENE of La Tirana, Chile",earthquake,5.66,4.453,0.167,10,reviewed,us,us
+2025-07-13T05:56:58.916Z,-24.1879,-66.7496,182.238,5,mb,75,48,1.798,1.11,us,us7000qcd6,2025-07-27T12:12:09.040Z,"43 km W of San Antonio de los Cobres, Argentina",earthquake,8.94,6.031,0.022,663,reviewed,us,us
+2025-07-13T03:02:17.889Z,-22.5933,-68.0144,153.524,4.4,mb,29,89,0.388,0.87,us,us7000qccj,2025-08-02T22:30:27.040Z,"40 km NNE of San Pedro de Atacama, Chile",earthquake,7.46,5.557,0.138,15,reviewed,us,us
+2025-07-12T06:52:33.631Z,-32.1158,-68.3992,126.63,4.9,mb,201,42,0.614,0.6,us,us7000qc7z,2025-07-26T06:56:27.454Z,"49 km S of Nueve de Julio, Argentina",earthquake,7.1,5.814,0.038,214,reviewed,us,us
+2025-07-12T03:41:30.004Z,-21.1525,-68.5408,118.959,4.1,mb,20,48,0.89,0.94,us,us7000qc6v,2025-08-02T22:16:52.040Z,"30 km WNW of Ollagüe, Chile",earthquake,6.37,8.106,0.185,8,reviewed,us,us
+2025-07-10T23:16:19.442Z,-23.4655,-66.409,207.267,4.3,mb,34,61,1.707,1.01,us,us7000qbxu,2025-07-27T02:27:39.040Z,"79 km WSW of El Aguilar, Argentina",earthquake,8.64,7.523,0.147,13,reviewed,us,us
+2025-07-10T09:26:05.437Z,-18.9676,-69.059,122.615,5,mww,105,38,0.709,1.41,us,us7000qbrz,2025-08-04T11:41:32.819Z,"54 km NE of Camiña, Chile",earthquake,5.68,3.019,0.066,22,reviewed,us,us
+2025-07-10T03:58:23.090Z,-14.5885,-76.5399,10,4.2,mb,16,148,2.602,0.78,us,us7000qbqz,2025-07-26T05:23:14.040Z,"85 km SSW of Paracas, Peru",earthquake,10.68,1.933,0.146,13,reviewed,us,us
+2025-07-09T19:11:59.442Z,-27.1666,-63.3263,575.164,5.2,mww,151,30,5.424,0.78,us,us7000qbn2,2025-07-21T20:14:08.040Z,"17 km SSW of El Hoyo, Argentina",earthquake,10.15,5.29,0.086,13,reviewed,us,us
+2025-07-09T09:50:27.777Z,-22.9061,-66.7678,213.249,4.2,mb,20,113,1.302,1.06,us,us7000qbjg,2025-07-23T05:32:31.040Z,"111 km W of Abra Pampa, Argentina",earthquake,10.3,8.258,0.159,11,reviewed,us,us
+2025-07-08T21:32:53.740Z,-14.762,-75.4116,53.337,4.5,mb,20,137,3.089,0.47,us,us7000qbfs,2025-08-01T01:20:54.040Z,"22 km WSW of Changuillo, Peru",earthquake,8.63,8.798,0.115,22,reviewed,us,us
+2025-07-08T11:40:06.707Z,-13.6775,-76.4345,47.252,5,mb,103,137,1.726,0.7,us,us7000qbba,2025-08-12T01:36:28.239Z,"25 km W of Pisco, Peru",earthquake,6.85,7.287,0.03,367,reviewed,us,us
+2025-07-08T03:13:48.446Z,-16.5547,-69.9025,178.966,4.3,mb,28,123,1.105,0.76,us,us7000qb9y,2025-07-25T04:28:12.040Z,"28 km NW of Mazo Cruz, Peru",earthquake,9.67,7.52,0.129,17,reviewed,us,us
+2025-07-07T23:30:58.260Z,-15.9149,-69.6124,222.783,4.7,mb,67,104,1.472,0.87,us,us7000qb8z,2025-08-01T00:25:34.040Z,"18 km SSE of Taquile, Peru",earthquake,9.5,5.559,0.029,361,reviewed,us,us
+2025-07-07T17:18:36.028Z,-19.2936,-66.8751,245.363,4.5,mb,59,57,2.219,0.81,us,us7000qb7e,2025-07-18T17:53:35.040Z,"44 km SSW of Challapata, Bolivia",earthquake,8.04,7.016,0.039,190,reviewed,us,us
+2025-07-07T13:11:24.847Z,-43.3222,-82.3094,10,4.3,mb,18,138,8.297,0.62,us,us7000qdg1,2025-07-20T16:12:20.040Z,"West Chile Rise",earthquake,13.9,1.895,0.177,9,reviewed,us,us
+2025-07-07T04:38:48.200Z,-22.413,-68.6547,109.114,4.2,mb,30,57,0.693,0.69,us,us7000qb34,2025-07-22T00:27:13.040Z,"28 km E of Calama, Chile",earthquake,5.45,5.334,0.115,21,reviewed,us,us
+2025-07-06T16:20:15.658Z,-31.7194,-71.7969,32.539,4.4,mb,39,146,0.77,0.64,us,us7000qb1f,2025-07-28T15:33:12.040Z,"60 km W of Illapel, Chile",earthquake,5.31,5.877,0.154,12,reviewed,us,us
+2025-07-05T19:17:42.430Z,-18.8887,-69.122,127.099,4.2,mb,28,79,0.661,0.85,us,us7000qav9,2025-07-20T03:24:59.040Z,"56 km NE of Camiña, Chile",earthquake,4.87,4.205,0.128,17,reviewed,us,us
+2025-07-05T16:19:32.451Z,-21.2729,-68.6471,115.328,4.1,mb,25,62,0.76,0.49,us,us7000qaur,2025-07-31T16:44:22.040Z,"41 km W of Ollagüe, Chile",earthquake,5.62,4.527,0.157,12,reviewed,us,us
+2025-07-05T14:47:33.593Z,-24.8235,-70.2634,61.143,4.5,mwr,33,134,0.698,0.91,us,us7000qaud,2025-07-28T13:01:17.040Z,"68 km NNE of Taltal, Chile",earthquake,6.45,6.048,0.055,32,reviewed,us,us
+2025-07-04T15:47:45.649Z,-57.0542,-67.4161,10,5.6,mww,91,53,2.131,0.66,us,us7000qamr,2025-07-27T20:14:56.121Z,"256 km SSE of Ushuaia, Argentina",earthquake,10.26,1.747,0.08,15,reviewed,us,us
+2025-07-04T09:00:10.261Z,-13.7578,-75.8997,41.384,4.2,mb,18,142,1.985,0.46,us,us7000qcu0,2025-08-02T08:08:17.040Z,"4 km SSW of Humay, Peru",earthquake,9.89,9.574,0.153,12,reviewed,us,us
+2025-07-04T08:55:11.713Z,-14.5639,-76.5587,10,5,mww,51,153,2.576,1.06,us,us7000qalz,2025-07-22T21:15:43.655Z,"83 km SSW of Paracas, Peru",earthquake,9.38,1.897,0.093,11,reviewed,us,us
+2025-07-04T05:31:11.331Z,-23.207,-67.8723,135.65,4.5,mb,41,83,0.38,0.9,us,us7000qal4,2025-07-16T06:55:04.040Z,"47 km SE of San Pedro de Atacama, Chile",earthquake,9.22,4.477,0.053,103,reviewed,us,us
+2025-07-03T22:42:57.095Z,-20.6062,-66.723,231.896,4.6,mb,54,43,2.326,1.04,us,us7000qajk,2025-07-14T21:45:07.040Z,"19 km SSE of Uyuni, Bolivia",earthquake,7.84,7.393,0.057,92,reviewed,us,us
+2025-07-03T09:50:11.427Z,-13.5898,-75.781,66.695,4.3,mb,32,139,1.899,0.82,us,us7000qaea,2025-08-13T12:06:08.040Z,"17 km W of Huancano, Peru",earthquake,10.13,9.681,0.125,18,reviewed,us,us
+2025-07-03T06:13:57.017Z,-27.2389,-63.2084,552.378,5,mb,123,45,5.201,0.75,us,us7000qade,2025-07-19T05:35:30.040Z,"23 km S of El Hoyo, Argentina",earthquake,11.82,8.309,0.042,178,reviewed,us,us
+2025-07-03T05:41:43.206Z,-21.3567,-67.2971,194.757,5.4,mww,121,44,1.786,1.11,us,us7000qad7,2025-07-19T05:30:43.367Z,"100 km E of Ollagüe, Chile",earthquake,8.22,5.792,0.05,38,reviewed,us,us
+2025-07-02T11:11:26.029Z,-22.9512,-66.7768,197.503,4.4,mb,42,89,1.292,0.71,us,us7000qa6c,2025-07-17T05:07:08.040Z,"113 km WSW of Abra Pampa, Argentina",earthquake,10,7.714,0.095,32,reviewed,us,us
+2025-07-02T01:46:58.390Z,-33.6161,-72.6841,10,4.3,mb,26,197,0.893,0.93,us,us7000qc32,2025-07-12T03:01:54.040Z,"99 km W of San Antonio, Chile",earthquake,4.57,1.772,0.217,6,reviewed,us,us
+2025-07-02T01:39:39.205Z,-33.6025,-72.5628,10,5.5,mww,91,132,0.793,1.09,us,us7000qa3y,2025-07-24T02:35:29.292Z,"88 km W of San Antonio, Chile",earthquake,4.13,1.824,0.071,19,reviewed,us,us
+2025-07-01T19:44:13.317Z,-30.8453,-71.233,59.005,4.5,mb,53,105,0.386,0.77,us,us7000qa1z,2025-07-13T14:26:12.040Z,"27 km S of Ovalle, Chile",earthquake,4.26,4.29,0.125,19,reviewed,us,us
+2025-07-01T09:09:30.306Z,-14.2239,-72.8924,84.332,4.2,mb,34,119,4.444,0.73,us,us7000q9xz,2025-07-23T16:00:48.040Z,"11 km NNE of Sabaino, Peru",earthquake,8.74,7.929,0.097,30,reviewed,us,us
+2025-06-30T23:47:53.174Z,-17.1913,-65.68,38.032,4.4,mwr,35,53,2.055,0.98,us,us7000q9vt,2025-08-03T20:42:28.040Z,"26 km NE of Colomi, Bolivia",earthquake,7.08,6.405,0.063,24,reviewed,us,us
+2025-06-30T19:30:07.707Z,-32.8172,-70.8678,78.377,4.1,mb,37,77,0.272,0.65,us,us7000q9ui,2025-07-11T17:25:43.965Z,"8 km ENE of Llaillay, Chile",earthquake,5.21,6.214,0.213,6,reviewed,us,us
+2025-06-30T08:44:08.122Z,-12.7592,-73.9049,84.212,4.5,mb,64,93,2.97,0.71,us,us7000q9pv,2025-07-23T17:15:00.040Z,"12 km S of Ayna, Peru",earthquake,4.66,7.533,0.071,58,reviewed,us,us
+2025-06-30T08:12:28.959Z,-31.9438,-71.342,49.072,4.5,mb,80,128,0.327,0.65,us,us7000q9pn,2025-07-24T12:18:58.031Z,"38 km SSW of Illapel, Chile",earthquake,4.35,6.369,0.072,57,reviewed,us,us
+2025-06-29T23:59:51.065Z,-22.6251,-66.3753,247.528,4.2,mb,19,89,1.696,0.7,us,us7000q9mu,2025-07-23T00:38:45.040Z,"70 km W of Abra Pampa, Argentina",earthquake,9.05,8.417,0.153,12,reviewed,us,us
+2025-06-28T09:58:40.077Z,-29.7175,-71.2545,50.446,4.8,mb,50,123,0.201,0.7,us,us7000q9cc,2025-07-10T06:59:53.812Z,"20 km N of La Serena, Chile",earthquake,3.34,5.935,0.032,296,reviewed,us,us
+2025-06-27T05:54:03.048Z,-21.55,-67.0122,229.476,4.3,mb,23,47,1.765,0.81,us,us7000q91q,2025-07-09T07:09:39.040Z,"106 km SW of Atocha, Bolivia",earthquake,8.37,7.179,0.116,21,reviewed,us,us
+2025-06-27T05:21:19.760Z,-39.6702,-75.1516,10,4.3,mb,24,142,1.346,0.66,us,us7000q91n,2025-07-09T07:07:46.040Z,"149 km W of Corral, Chile",earthquake,8.88,1.92,0.138,15,reviewed,us,us
+2025-06-26T05:08:28.336Z,-15.3566,-72.037,118.506,4.3,mb,18,125,3.309,1.38,us,us7000q8vf,2025-07-13T05:13:54.040Z,"26 km NNE of Choco, Peru",earthquake,8.75,9.624,0.101,28,reviewed,us,us
+2025-06-25T19:26:32.563Z,-19.4544,-70.2198,38.372,4.3,mb,18,170,0.816,0.53,us,us7000q8sg,2025-06-26T02:09:10.424Z,"32 km S of Cuya, Chile",earthquake,2.54,13.703,0.237,5,reviewed,us,us
+2025-06-25T03:34:29.929Z,-24.1237,-67.0744,188.778,4.2,mb,14,111,1.545,0.77,us,us7000q8li,2025-07-12T05:14:05.040Z,"77 km W of San Antonio de los Cobres, Argentina",earthquake,7.94,13.711,0.263,4,reviewed,us,us
+2025-06-24T22:49:04.884Z,-21.3096,-67.1753,192.127,4.6,mb,51,62,1.881,0.68,us,us7000q8js,2025-07-16T00:01:02.040Z,"100 km SSW of Uyuni, Bolivia",earthquake,7.4,6.957,0.052,109,reviewed,us,us
+2025-06-24T07:42:40.104Z,-22.1525,-67.3866,182.56,4.4,mb,85,69,1.081,0.71,us,us7000q8di,2025-07-16T14:08:00.040Z,"118 km NE of San Pedro de Atacama, Chile",earthquake,6.78,6.78,0.056,92,reviewed,us,us
+2025-06-24T05:07:59.090Z,-31.6344,-72.6673,10,4.3,mwr,48,141,1.304,1.04,us,us7000q8cu,2025-07-26T13:16:39.040Z,"142 km W of Illapel, Chile",earthquake,5.85,1.828,0.057,30,reviewed,us,us
+2025-06-24T02:58:26.850Z,-29.2958,-71.7148,32.778,4.2,mb,23,150,0.747,0.65,us,us7000q8bz,2025-07-15T23:31:06.040Z,"81 km NNW of La Serena, Chile",earthquake,4.37,8.025,0.373,2,reviewed,us,us
+2025-06-24T01:53:16.206Z,-29.2746,-68.3171,51.587,4.8,mww,101,28,1.698,0.46,us,us7000q8bc,2025-08-24T21:08:44.040Z,"58 km S of Vinchina, Argentina",earthquake,6.64,5.558,0.098,10,reviewed,us,us
+2025-06-23T21:10:17.591Z,-23.8589,-67.7832,152.805,4.5,mb,24,73,0.973,1.07,us,us7000q89v,2025-07-15T22:46:26.040Z,"113 km SSE of San Pedro de Atacama, Chile",earthquake,7.71,7.8,0.135,16,reviewed,us,us
+2025-06-23T13:06:02.703Z,-12.5691,-71.1653,10,4.7,mb,78,53,4.723,0.75,us,us6000qly4,2025-07-07T21:15:43.040Z,"36 km NE of Salvación, Peru",earthquake,8.58,1.808,0.047,140,reviewed,us,us
+2025-06-23T04:38:24.045Z,-29.3547,-68.2498,24.5,4.3,mb,27,148,1.721,0.63,us,us6000qlwr,2025-07-25T23:05:54.040Z,"66 km S of Vinchina, Argentina",earthquake,5.75,6.438,0.267,4,reviewed,us,us
+2025-06-23T01:40:34.202Z,-22.9566,-68.5438,115.506,4.4,mb,27,66,0.336,0.73,us,us6000qlvt,2025-07-14T04:52:49.040Z,"35 km W of San Pedro de Atacama, Chile",earthquake,6.14,5.432,0.123,19,reviewed,us,us
+2025-06-22T23:34:09.625Z,-38.0854,-74.0264,10,4.3,mb,31,188,1.852,0.36,us,us6000qlv9,2025-07-05T00:57:05.040Z,"62 km SSW of Lebu, Chile",earthquake,8.17,1.953,0.218,6,reviewed,us,us
+2025-06-22T20:46:16.575Z,-21.7213,-68.8386,122.143,4.5,mb,27,38,0.382,0.63,us,us6000qlug,2025-07-05T17:12:40.040Z,"81 km SW of Ollagüe, Chile",earthquake,6.03,4.825,0.118,21,reviewed,us,us
+2025-06-22T18:01:38.132Z,-21.6492,-68.5175,132.928,4.3,mb,21,87,0.689,0.48,us,us6000qlu1,2025-07-05T16:48:28.040Z,"54 km SSW of Ollagüe, Chile",earthquake,5.98,6.567,0.154,12,reviewed,us,us
+2025-06-22T14:46:06.106Z,-31.6817,-69.3335,121.016,4.7,mb,52,41,0.582,0.81,us,us6000qlti,2025-07-14T13:19:07.040Z,"39 km SSE of Calingasta, Argentina",earthquake,5.1,5.376,0.047,137,reviewed,us,us
+2025-06-22T05:36:28.315Z,-45.5349,-76.795,10,4.4,mb,24,149,2.347,0.71,us,us6000qlqr,2025-07-16T05:52:04.040Z,"Off the coast of Aisen, Chile",earthquake,10.85,1.924,0.115,22,reviewed,us,us
+2025-06-22T03:19:43.238Z,-36.529,-73.0687,35,4.1,mb,22,188,1.539,0.41,us,us6000qlq4,2025-07-10T23:39:35.040Z,"14 km NW of Tomé, Chile",earthquake,6.73,1.984,0.234,5,reviewed,us,us
+2025-06-21T15:36:26.163Z,-57.1047,-66.6962,10,4.9,mb,65,106,3.904,0.87,us,us6000qlmu,2025-07-16T16:19:11.040Z,"274 km SSE of Ushuaia, Argentina",earthquake,11.22,1.885,0.075,61,reviewed,us,us
+2025-06-21T08:00:49.665Z,-33.632,-70.3934,106.948,4.4,mb,39,87,0.143,0.43,us,us6000qll6,2025-07-09T04:54:00.990Z,"17 km E of Puente Alto, Chile",earthquake,5.96,4.722,0.127,19,reviewed,us,us
+2025-06-21T03:26:01.846Z,-29.1431,-68.8739,22.369,4.1,mb,18,74,1.349,1,us,us6000qlk8,2025-08-19T21:12:56.040Z,"77 km WSW of Vinchina, Argentina",earthquake,5.81,6.278,0.302,3,reviewed,us,us
+2025-06-21T01:18:41.927Z,-13.0353,-74.503,76.246,4.6,mb,45,114,2.51,0.68,us,us6000qlju,2025-07-10T23:17:46.040Z,"6 km WSW of Julcamarca, Peru",earthquake,8.96,7.691,0.064,73,reviewed,us,us
+2025-06-20T02:52:50.001Z,-20.7288,-69.1677,103.92,4.3,mb,17,75,0.432,0.85,us,us6000qldc,2025-07-10T23:01:32.040Z,"67 km SE of La Tirana, Chile",earthquake,4.82,2.847,0.178,9,reviewed,us,us
+2025-06-19T20:37:54.991Z,-57.223,-67.0247,10,4.6,mb,33,127,2.321,0.54,us,us6000qlbs,2025-07-05T16:37:37.040Z,"280 km SSE of Ushuaia, Argentina",earthquake,7.43,1.92,0.109,25,reviewed,us,us
+2025-06-19T06:08:22.488Z,-32.4483,-68.071,144.202,4.6,mb,57,72,1.034,0.59,us,us6000ql6l,2025-07-06T09:14:32.040Z,"79 km NNE of San Martín, Argentina",earthquake,6.39,6.884,0.098,31,reviewed,us,us
+2025-06-19T04:33:10.890Z,-21.2285,-68.7168,117.126,4.2,mb,18,53,0.743,0.49,us,us6000ql67,2025-08-20T21:19:05.040Z,"48 km W of Ollagüe, Chile",earthquake,6.41,11.685,0.263,4,reviewed,us,us
+2025-06-18T22:45:16.481Z,-22.7481,-66.3292,245.534,4.3,mb,19,137,1.718,0.4,us,us6000ql4b,2025-07-10T04:49:31.040Z,"65 km W of Abra Pampa, Argentina",earthquake,9.75,13.36,0.188,8,reviewed,us,us
+2025-06-18T09:14:10.497Z,-28.0423,-66.8839,172.204,4.2,mb,22,159,3.152,0.6,us,us6000qkzc,2025-07-06T05:53:07.040Z,"43 km SE of Londres, Argentina",earthquake,8.67,10.772,0.2,7,reviewed,us,us
+2025-06-18T05:02:49.610Z,-21.0773,-69.0136,108.812,4.1,mb,25,60,0.444,1.07,us,us6000qkyp,2025-07-15T13:45:26.040Z,"80 km WNW of Ollagüe, Chile",earthquake,5.9,5.937,0.174,9,reviewed,us,us
+2025-06-17T03:06:47.496Z,-24.0319,-66.6751,190.999,4.4,mb,30,69,1.75,0.79,us,us6000qkr2,2025-08-22T20:26:03.040Z,"41 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.2,8.135,0.117,21,reviewed,us,us
+2025-06-16T23:47:40.918Z,-20.7698,-69.7412,49.405,3.7,ml,11,151,0.361,0.69,us,us6000qkqk,2025-08-22T20:26:03.040Z,"48 km S of La Tirana, Chile",earthquake,3.38,7.248,0.077,22,reviewed,us,us
+2025-06-16T09:52:15.882Z,-15.8562,-70.2729,227.492,4.2,mb,22,140,1.884,0.89,us,us6000qkkd,2025-08-22T20:26:02.040Z,"8 km WSW of Tiquillaca, Peru",earthquake,7.91,9.731,0.2,7,reviewed,us,us
+2025-06-16T09:07:25.334Z,-23.028,-66.0735,241.227,4.6,mb,52,49,1.941,0.9,us,us6000qkjx,2025-08-22T20:26:02.040Z,"45 km WNW of El Aguilar, Argentina",earthquake,6.49,5.964,0.114,23,reviewed,us,us
+2025-06-16T08:19:27.879Z,-22.4878,-67.7596,160.357,4.3,mb,48,49,0.603,0.75,us,us6000qkjt,2025-08-22T20:26:02.040Z,"65 km NE of San Pedro de Atacama, Chile",earthquake,7.35,6.112,0.094,32,reviewed,us,us
+2025-06-16T07:44:58.933Z,-38.9228,-91.3771,10,4.5,mb,44,80,11.411,0.54,us,us7000q9kp,2025-08-22T20:26:05.040Z,"West Chile Rise",earthquake,13.11,1.889,0.084,42,reviewed,us,us
+2025-06-16T00:51:16.773Z,-20.3151,-70.2925,42.628,4.4,mb,19,174,1.045,0.59,us,us6000qkhr,2025-08-22T20:26:01.040Z,"17 km WSW of La Tirana, Chile",earthquake,4.81,10.901,0.309,3,reviewed,us,us
+2025-06-15T17:31:03.307Z,-24.4489,-66.8963,170.88,5.2,mww,90,41,1.898,0.98,us,us6000qkge,2025-08-22T20:26:01.040Z,"63 km WSW of San Antonio de los Cobres, Argentina",earthquake,7.05,5.938,0.054,33,reviewed,us,us
+2025-06-15T16:35:29.241Z,-12.1764,-77.4434,40,5.6,mww,102,44,0.617,1.04,us,us6000qkg7,2025-08-22T20:26:01.040Z,"37 km WSW of Callao, Peru",earthquake,7.35,1.897,0.075,17,reviewed,us,us
+2025-06-15T13:30:09.702Z,-22.2504,-68.6311,113.427,4.3,mb,22,54,0.725,0.68,us,us6000qkfl,2025-08-22T20:26:01.040Z,"37 km NE of Calama, Chile",earthquake,5.39,5.492,0.129,21,reviewed,us,us
+2025-06-15T05:42:39.232Z,-20.875,-66.7739,217.89,4.5,mb,44,66,2.347,1.02,us,us6000qke5,2025-08-22T20:26:01.040Z,"46 km S of Uyuni, Bolivia",earthquake,7.89,8.724,0.048,125,reviewed,us,us
+2025-06-13T15:33:10.294Z,-20.6041,-70.2517,32.696,2.5,ml,10,191,0.351,0.41,us,us6000qk8i,2025-08-22T20:26:00.040Z,"37 km SSW of La Tirana, Chile",earthquake,5.44,11.844,0.081,20,reviewed,us,us
+2025-06-13T04:55:56.820Z,-31.9385,-69.9338,108.723,4.2,mb,40,63,0.891,0.69,us,us6000qk12,2025-08-22T20:26:00.040Z,"82 km SW of Calingasta, Argentina",earthquake,5.44,6.489,0.128,18,reviewed,us,us
+2025-06-13T01:06:39.489Z,-32.6819,-71.8419,27.573,4.1,mb,27,181,0.972,1,us,us6000qk02,2025-08-22T20:26:00.040Z,"44 km NNW of Valparaíso, Chile",earthquake,3.68,7.513,0.262,4,reviewed,us,us
+2025-06-11T23:53:42.401Z,-21.716,-69.086,94.089,4.1,mb,16,65,0.165,0.41,us,us6000qjpw,2025-08-22T20:25:59.040Z,"83 km NNW of Calama, Chile",earthquake,3.96,8.008,0.213,6,reviewed,us,us
+2025-06-11T03:04:19.182Z,-16.2776,-73.1591,56.23,4.3,mb,23,145,3.402,1.13,us,us6000qjh8,2025-08-22T20:25:58.040Z,"27 km S of Urasqui, Peru",earthquake,12.42,9.796,0.106,25,reviewed,us,us
+2025-06-10T17:55:34.725Z,-28.6565,-67.5824,122.516,4.1,mb,17,176,2.558,0.92,us,us6000qjeh,2025-08-20T16:09:00.040Z,"56 km N of Chilecito, Argentina",earthquake,5.32,11.846,0.303,3,reviewed,us,us
+2025-06-10T10:17:22.063Z,-31.7788,-69.3489,111.909,4.5,mwr,74,60,0.623,0.71,us,us6000qjc1,2025-08-20T16:09:00.040Z,"49 km S of Calingasta, Argentina",earthquake,4.96,4.248,0.062,25,reviewed,us,us
+2025-06-09T00:59:17.234Z,-32.2417,-71.0736,84.337,4.1,mb,31,117,0.215,0.34,us,us6000qj2v,2025-08-20T16:08:59.040Z,"27 km NNE of La Ligua, Chile",earthquake,4.29,5.506,0.186,8,reviewed,us,us
+2025-06-08T19:46:14.879Z,-27.8354,-66.9033,147.458,4.7,mb,64,43,3.1,0.72,us,us6000qizy,2025-08-20T16:08:58.040Z,"26 km ESE of Londres, Argentina",earthquake,7.18,7.309,0.032,304,reviewed,us,us
+2025-06-08T10:59:59.027Z,-57.1929,-67.9056,10,4.3,mb,25,164,2.271,0.53,us,us6000qixb,2025-08-20T16:08:58.040Z,"266 km S of Ushuaia, Argentina",earthquake,12.28,1.971,0.122,19,reviewed,us,us
+2025-06-08T02:28:06.271Z,-22.7353,-66.6143,224.953,4.2,mb,29,49,1.459,0.96,us,us6000qivj,2025-08-20T16:08:58.040Z,"94 km W of Abra Pampa, Argentina",earthquake,9.28,8.483,0.152,12,reviewed,us,us
+2025-06-07T23:46:13.786Z,-34.4679,-70.387,10,4.1,mb,26,91,0.459,1.14,us,us6000qiu3,2025-08-20T16:08:58.040Z,"39 km SE of Machalí, Chile",earthquake,2.12,1.904,0.185,8,reviewed,us,us
+2025-06-07T14:01:36.101Z,-21.0683,-68.9398,114.043,4.7,mb,98,46,0.512,0.83,us,us6000qiqd,2025-08-20T16:08:57.040Z,"73 km WNW of Ollagüe, Chile",earthquake,5.16,5.146,0.034,278,reviewed,us,us
+2025-06-07T11:06:04.640Z,-57.2756,-66.8962,10,5.3,mww,62,102,2.385,0.82,us,us6000qipm,2025-08-20T16:08:57.040Z,"288 km SSE of Ushuaia, Argentina",earthquake,9.75,1.859,0.083,14,reviewed,us,us
+2025-06-07T02:34:58.690Z,-42.6422,-74.2493,36.411,4.5,mwr,44,148,1.847,1.13,us,us6000qiln,2025-08-20T16:08:57.040Z,"38 km W of Chonchi, Chile",earthquake,6.24,7.068,0.053,34,reviewed,us,us
+2025-06-06T17:15:06.807Z,-26.639,-70.4039,75,6.4,mww,320,16,0.519,0.67,us,us6000qigd,2025-08-20T16:08:56.040Z,"45 km SW of Diego de Almagro, Chile",earthquake,6.38,1.804,0.036,73,reviewed,us,us
+2025-06-06T07:28:16.799Z,-23.3999,-67.1219,213.09,4.1,mb,21,90,1.07,1.22,us,us6000qid1,2025-08-20T16:08:56.040Z,"122 km NW of San Antonio de los Cobres, Argentina",earthquake,10.1,5.405,0.145,13,reviewed,us,us
+2025-06-06T02:43:36.922Z,-24.1022,-66.8069,208.368,4.2,mb,24,91,1.702,0.75,us,us6000qic2,2025-08-20T16:08:56.040Z,"51 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.87,10.805,0.263,5,reviewed,us,us
+2025-06-05T09:45:01.132Z,-27.9589,-71.4412,33.268,4.1,mb,27,145,0.406,0.97,us,us6000qi3h,2025-08-20T16:08:55.040Z,"95 km NW of Vallenar, Chile",earthquake,3.84,4.65,0.214,6,reviewed,us,us
+2025-06-04T23:04:14.647Z,-24.2229,-67.0357,184.514,4.3,mb,23,71,1.643,0.76,us,us6000qi0p,2025-08-20T16:08:55.040Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,10.73,9.674,0.138,15,reviewed,us,us
+2025-06-04T19:12:51.121Z,-20.9406,-67.5152,188.964,4.2,mb,26,61,1.729,0.9,us,us6000qhyd,2025-08-20T16:08:54.040Z,"82 km ENE of Ollagüe, Chile",earthquake,6.1,10.798,0.235,5,reviewed,us,us
+2025-06-03T22:09:47.067Z,-21.4351,-70.3704,27.604,3.9,mwr,26,138,0.457,0.81,us,us6000qhsr,2025-08-16T21:54:16.040Z,"74 km NNW of Tocopilla, Chile",earthquake,4.13,5.026,0.056,31,reviewed,us,us
+2025-06-03T11:29:53.362Z,-33.0054,-70.4629,104.373,4.2,mb,29,77,0.225,0.4,us,us6000qhmb,2025-08-16T21:54:15.040Z,"22 km SSE of Los Andes, Chile",earthquake,4.21,4.871,0.236,5,reviewed,us,us
+2025-06-02T23:45:30.619Z,-16.0544,-71.3476,157.298,4.2,mb,12,264,2.351,0.62,us,us6000qhiv,2025-08-16T21:54:14.040Z,"14 km SE of Pucara, Peru",earthquake,10.89,12.465,0.159,11,reviewed,us,us
+2025-06-02T12:46:16.091Z,-16.4505,-70.5971,127.75,4.1,mb,21,149,2.144,0.78,us,us6000qhek,2025-08-16T21:54:14.040Z,"15 km ESE of Chojata, Peru",earthquake,12.43,11.165,0.197,7,reviewed,us,us
+2025-06-01T22:03:32.934Z,-14.6367,-71.7839,124.435,4.3,mb,13,147,3.677,0.32,us,us6000qkus,2025-08-16T21:54:19.040Z,"25 km E of Cayarani, Peru",earthquake,12.23,12.734,0.177,9,reviewed,us,us
+2025-06-01T07:33:48.353Z,-32.0064,-69.265,118.123,4.5,mb,58,41,0.683,0.92,us,us6000qh7k,2025-08-16T21:54:12.040Z,"71 km SW of Villa Basilio Nievas, Argentina",earthquake,4.97,5.805,0.056,95,reviewed,us,us
+2025-05-30T09:16:27.079Z,-22.5416,-68.7556,111.176,4.3,mb,18,68,0.671,0.78,us,us6000qgui,2025-08-16T21:54:10.040Z,"19 km ESE of Calama, Chile",earthquake,4.86,6.456,0.238,5,reviewed,us,us
+2025-05-29T19:26:44.867Z,-20.2359,-70.1992,42.701,3.5,ml,12,188,0.073,0.63,us,us6000qgqy,2025-08-16T21:54:10.040Z,"5 km WSW of Puerto, Chile",earthquake,4.44,3.04,0.074,24,reviewed,us,us
+2025-05-29T16:48:10.498Z,-21.3603,-66.7017,218.337,4.9,mww,73,49,2.094,0.96,us,us6000qgpx,2025-08-16T21:54:10.040Z,"68 km SW of Atocha, Bolivia",earthquake,8.29,6.171,0.073,18,reviewed,us,us
+2025-05-29T08:39:55.275Z,-21.8039,-68.4989,124.019,4.6,mb,102,61,0.69,1.18,us,us6000qglj,2025-08-16T21:54:10.040Z,"68 km SSW of Ollagüe, Chile",earthquake,5.99,5.794,0.055,98,reviewed,us,us
+2025-05-29T00:40:14.713Z,-23.1647,-68.6869,101.551,4.1,mb,16,107,0.514,0.68,us,us6000qgjn,2025-08-16T21:54:09.040Z,"57 km WSW of San Pedro de Atacama, Chile",earthquake,5.51,5.52,0.197,7,reviewed,us,us
+2025-05-28T23:19:38.676Z,-16.1467,-72.0309,116.035,4.4,mb,28,126,2.738,1.01,us,us6000qjv0,2025-08-16T21:54:17.040Z,"14 km S of Lluta, Peru",earthquake,7.96,9.54,0.139,15,reviewed,us,us
+2025-05-28T23:11:36.450Z,-20.9301,-67.4047,187.696,4.6,mb,45,51,1.817,1.13,us,us6000qgja,2025-08-16T21:54:09.040Z,"79 km SW of Uyuni, Bolivia",earthquake,7.1,7.433,0.093,35,reviewed,us,us
+2025-05-28T16:44:52.855Z,-14.966,-75.9119,10,4.3,mb,20,143,3.096,1.13,us,us6000qjum,2025-08-16T21:54:17.040Z,"81 km WSW of Changuillo, Peru",earthquake,10.9,1.913,0.2,7,reviewed,us,us
+2025-05-28T15:08:53.601Z,-17.4593,-69.7316,174.678,4.2,mb,23,173,0.273,0.68,us,us6000qgg7,2025-08-16T21:54:09.040Z,"31 km ENE of Estique, Peru",earthquake,6.3,5.078,0.141,14,reviewed,us,us
+2025-05-28T14:34:19.236Z,-14.8801,-75.7267,37.337,5.1,mww,209,68,3.073,0.67,us,us6000qgf5,2025-08-16T21:54:09.040Z,"59 km WSW of Changuillo, Peru",earthquake,7.73,4.748,0.093,11,reviewed,us,us
+2025-05-28T13:38:37.490Z,-24.1077,-67.082,217.96,4.4,mb,25,92,1.529,0.71,us,us6000qger,2025-08-16T21:54:09.040Z,"78 km W of San Antonio de los Cobres, Argentina",earthquake,3.81,8.488,0.189,8,reviewed,us,us
+2025-05-28T05:45:29.931Z,-20.2508,-68.6433,115.696,4.1,mb,31,59,0.491,1.12,us,us6000qgbz,2025-08-16T21:54:08.040Z,"106 km E of La Tirana, Chile",earthquake,6.9,7.449,0.175,11,reviewed,us,us
+2025-05-28T01:57:44.758Z,-14.9242,-75.7626,35,5.1,mb,100,131,3.102,0.69,us,us6000qgb9,2025-08-16T21:54:08.040Z,"64 km WSW of Changuillo, Peru",earthquake,8.75,1.909,0.038,221,reviewed,us,us
+2025-05-28T00:19:39.349Z,-23.6029,-68.0798,137.382,4,mb,22,87,0.654,0.58,us,us6000qgaw,2025-08-16T21:54:08.040Z,"77 km S of San Pedro de Atacama, Chile",earthquake,5.43,7.364,0.258,4,reviewed,us,us
+2025-05-28T00:03:22.390Z,-24.5497,-68.1048,135.332,4.2,mb,23,78,1.481,0.46,us,us6000qgat,2025-08-16T21:54:08.040Z,"181 km NNW of Antofagasta de la Sierra, Argentina",earthquake,6.73,7.725,0.153,12,reviewed,us,us
+2025-05-26T13:06:48.676Z,-22.2645,-68.5286,114.878,4.1,mb,23,47,0.757,0.7,us,us7000q1jb,2025-08-13T15:14:33.040Z,"45 km ENE of Calama, Chile",earthquake,4.01,6.09,0.151,12,reviewed,us,us
+2025-05-26T11:56:12.820Z,-22.8151,-66.4749,258.607,4.3,mb,24,132,1.577,1.4,us,us7000q1iy,2025-08-13T15:14:33.040Z,"80 km W of Abra Pampa, Argentina",earthquake,9.81,7.92,0.142,14,reviewed,us,us
+2025-05-26T04:30:14.433Z,-22.9075,-68.7146,98.798,4.2,mb,20,65,0.496,0.78,us,us7000q1hb,2025-08-13T15:14:32.040Z,"52 km W of San Pedro de Atacama, Chile",earthquake,4.69,6.047,0.176,9,reviewed,us,us
+2025-05-26T03:50:25.655Z,-19.6168,-69.4505,105,5.7,mww,276,34,0.247,0.85,us,us7000q1h3,2025-08-13T15:14:32.040Z,"33 km S of Camiña, Chile",earthquake,5.77,1.778,0.041,58,reviewed,us,us
+2025-05-26T03:43:32.258Z,-24.2019,-67.1947,199.752,4.3,mb,28,74,1.537,1.32,us,us7000q1h1,2025-08-13T15:14:32.040Z,"89 km W of San Antonio de los Cobres, Argentina",earthquake,11.15,8.032,0.122,19,reviewed,us,us
+2025-05-25T23:33:26.441Z,-20.1939,-67.2311,209.797,4.4,mb,24,65,1.806,0.8,us,us7000q1gg,2025-08-13T15:14:32.040Z,"33 km WNW of Colchani, Bolivia",earthquake,8.71,2.868,0.134,16,reviewed,us,us
+2025-05-24T11:17:09.811Z,-57.2189,-67.2903,10,5.1,mb,67,124,2.3,1.2,us,us7000q19u,2025-08-13T15:14:31.040Z,"275 km SSE of Ushuaia, Argentina",earthquake,8.51,1.882,0.065,76,reviewed,us,us
+2025-05-24T11:12:30.763Z,-57.2527,-67.3642,10,5,mb,34,159,2.331,0.67,us,us7000q19r,2025-08-13T15:14:31.040Z,"278 km SSE of Ushuaia, Argentina",earthquake,8.64,1.919,0.082,47,reviewed,us,us
+2025-05-24T08:21:56.223Z,-17.5392,-69.3885,151.621,4.4,mb,18,84,0.101,0.8,us,us6000qj6k,2025-08-13T15:14:28.040Z,"66 km ENE of Palca, Peru",earthquake,5.86,6.211,0.17,11,reviewed,us,us
+2025-05-24T05:32:15.039Z,-56.8159,-68.4705,10,5,mb,66,146,1.947,0.52,us,us7000q18v,2025-08-13T15:14:31.040Z,"223 km S of Ushuaia, Argentina",earthquake,9.49,1.893,0.074,58,reviewed,us,us
+2025-05-23T20:10:20.128Z,-31.6158,-67.6694,10,4,mwr,53,89,0.857,1.29,us,us7000q16k,2025-08-13T15:14:31.040Z,"58 km E of Caucete, Argentina",earthquake,5.43,1.888,0.083,14,reviewed,us,us
+2025-05-23T13:50:08.839Z,-22.2016,-68.8202,120.811,4.5,mb,46,45,0.562,1.04,us,us7000q12c,2025-08-13T15:14:31.040Z,"30 km NNE of Calama, Chile",earthquake,3.56,4.877,0.096,32,reviewed,us,us
+2025-05-23T12:44:06.138Z,-16.675,-71.5137,99.305,4.2,mb,27,140,2.023,0.69,us,us7000q126,2025-08-13T15:14:31.040Z,"14 km SSW of Quequeña, Peru",earthquake,9.88,9.205,0.128,17,reviewed,us,us
+2025-05-23T01:36:35.116Z,-19.9329,-69.3401,103.094,4.3,mb,18,133,0.271,0.64,us,us7000q0zp,2025-08-13T15:14:30.040Z,"45 km E of Huara, Chile",earthquake,6.33,3.687,0.238,5,reviewed,us,us
+2025-05-22T14:21:36.867Z,-24.1457,-67.0807,222.72,4.4,mb,24,83,1.558,0.64,us,us7000q0t0,2025-08-13T15:14:30.040Z,"77 km W of San Antonio de los Cobres, Argentina",earthquake,10.57,9.613,0.269,4,reviewed,us,us
+2025-05-22T02:33:07.521Z,-24.2946,-67.2128,170.193,4.2,mb,41,55,1.604,0.73,us,us7000q0ph,2025-08-13T15:14:30.040Z,"91 km W of San Antonio de los Cobres, Argentina",earthquake,4.46,8.822,0.147,13,reviewed,us,us
+2025-05-21T22:33:54.601Z,-22.3771,-66.1533,262.276,4.3,mb,31,71,1.956,0.84,us,us7000q0nf,2025-08-13T15:14:29.040Z,"60 km NW of Abra Pampa, Argentina",earthquake,9.29,8.66,0.116,21,reviewed,us,us
+2025-05-21T05:51:11.477Z,-21.5136,-67.3356,202.909,4.3,mb,37,72,1.631,0.81,us,us7000q0hu,2025-08-13T15:14:29.040Z,"100 km ESE of Ollagüe, Chile",earthquake,7.25,10.475,0.178,9,reviewed,us,us
+2025-05-21T02:02:58.150Z,-28.6305,-71.2952,38.432,4.4,mwr,54,140,0.467,0.53,us,us7000q0gy,2025-08-13T15:14:29.040Z,"52 km W of Vallenar, Chile",earthquake,4.3,5.701,0.055,32,reviewed,us,us
+2025-05-21T01:38:34.161Z,-57.1894,-67.574,10,4.1,mb,17,150,2.263,0.6,us,us7000q0gx,2025-08-13T15:14:29.040Z,"268 km S of Ushuaia, Argentina",earthquake,10.58,1.899,0.145,13,reviewed,us,us
+2025-05-21T00:38:12.308Z,-56.9634,-67.0983,10,5.2,mwb,89,93,2.058,0.62,us,us7000q0gl,2025-08-13T15:14:29.040Z,"251 km SSE of Ushuaia, Argentina",earthquake,10.62,1.756,0.11,8,reviewed,us,us
+2025-05-20T21:57:35.354Z,-24.1591,-67.1015,183.203,4.1,mb,24,102,1.556,0.7,us,us7000q0g2,2025-07-25T17:06:20.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,9.43,9.832,0.212,6,reviewed,us,us
+2025-05-20T18:44:39.091Z,-56.7749,-67.6093,10,4.6,mb,27,184,1.847,0.37,us,us7000q0ei,2025-07-25T17:06:20.040Z,"223 km SSE of Ushuaia, Argentina",earthquake,13.67,1.95,0.122,20,reviewed,us,us
+2025-05-20T06:29:30.206Z,-18.131,-69.5308,129.101,4.4,mb,37,65,0.541,0.68,us,us7000q0a6,2025-07-25T17:06:20.040Z,"60 km SE of Palca, Peru",earthquake,4.32,5.352,0.104,27,reviewed,us,us
+2025-05-20T03:13:02.092Z,-21.1102,-68.5409,129.945,4.3,mb,25,82,0.886,0.99,us,us7000q09n,2025-07-25T17:06:20.040Z,"32 km WNW of Ollagüe, Chile",earthquake,6.18,7.598,0.147,13,reviewed,us,us
+2025-05-19T22:28:45.292Z,-24.9691,-70.0925,74.889,4.3,mb,16,155,0.494,0.54,us,us7000q08u,2025-07-25T17:06:20.040Z,"62 km NE of Taltal, Chile",earthquake,5.25,5.022,0.188,8,reviewed,us,us
+2025-05-19T22:27:47.535Z,-23.9974,-66.862,199.784,4.5,mb,28,69,1.595,0.83,us,us7000q08s,2025-07-25T17:06:20.040Z,"60 km WNW of San Antonio de los Cobres, Argentina",earthquake,10.64,8.5,0.119,21,reviewed,us,us
+2025-05-19T11:17:08.157Z,-17.9768,-69.8892,115.162,4.4,mb,50,109,0.548,0.72,us,us7000q050,2025-07-25T17:06:19.040Z,"23 km SSE of Palca, Peru",earthquake,6.92,5.416,0.084,42,reviewed,us,us
+2025-05-19T09:45:31.986Z,-18.7191,-67.2855,237.965,4.3,mb,29,87,2.036,1.22,us,us7000q04n,2025-07-25T17:06:19.040Z,"49 km WSW of Totoral, Bolivia",earthquake,7.95,9.088,0.143,14,reviewed,us,us
+2025-05-18T23:58:01.564Z,-18.5469,-71.3182,25.071,4,mwr,16,153,0.943,0.72,us,us7000q02t,2025-07-25T17:06:19.040Z,"99 km S of Pacocha, Peru",earthquake,7.76,6.743,0.083,14,reviewed,us,us
+2025-05-18T18:20:21.350Z,-34.7762,-71.6909,44.336,3.9,mwr,39,130,0.63,0.53,us,us7000q01w,2025-07-25T17:06:19.040Z,"33 km WSW of Santa Cruz, Chile",earthquake,4.39,6.923,0.089,12,reviewed,us,us
+2025-05-18T03:24:03.960Z,-20.8957,-68.9598,103.122,4.2,mb,31,51,0.514,0.85,us,us7000pzyb,2025-07-25T17:06:18.040Z,"81 km WNW of Ollagüe, Chile",earthquake,5.2,6.378,0.132,16,reviewed,us,us
+2025-05-17T16:38:19.073Z,-30.3899,-72.1556,16.765,4.4,mb,34,142,0.531,0.72,us,us7000pzv9,2025-07-25T17:06:18.040Z,"92 km WSW of Coquimbo, Chile",earthquake,4.39,4.955,0.19,8,reviewed,us,us
+2025-05-17T10:22:14.394Z,-14.7608,-74.1437,101,5.9,mww,106,65,3.807,0.69,us,us7000pztw,2025-07-25T17:06:17.040Z,"5 km W of San Pedro, Peru",earthquake,8.63,1.943,0.04,61,reviewed,us,us
+2025-05-17T09:45:03.469Z,-39.7842,-75.1812,10,4.2,mb,16,191,1.355,0.56,us,us7000pztn,2025-07-25T17:06:17.040Z,"150 km W of Corral, Chile",earthquake,5.54,1.949,0.304,3,reviewed,us,us
+2025-05-17T06:11:39.565Z,-51.466,-71.8477,10,4.1,mb,20,147,1.404,0.69,us,us7000pzsu,2025-07-25T17:06:17.040Z,"28 km ENE of 28 de Noviembre, Argentina",earthquake,9.8,1.937,0.131,16,reviewed,us,us
+2025-05-17T01:11:24.432Z,-57.0609,-67.3268,10,4.4,mb,28,144,2.141,0.76,us,us7000pzrr,2025-07-25T17:06:17.040Z,"258 km SSE of Ushuaia, Argentina",earthquake,10.26,1.943,0.118,22,reviewed,us,us
+2025-05-16T21:26:24.523Z,-57.3559,-67.9582,10,4.4,mb,23,167,3.415,1.37,us,us7000pzqr,2025-07-25T17:06:17.040Z,"284 km S of Ushuaia, Argentina",earthquake,8.25,1.912,0.134,16,reviewed,us,us
+2025-05-16T19:07:59.296Z,-24.1575,-67.1577,176.206,4.3,mb,30,69,1.522,0.93,us,us7000pzpf,2025-07-25T17:06:17.040Z,"85 km W of San Antonio de los Cobres, Argentina",earthquake,8.25,8.517,0.153,13,reviewed,us,us
+2025-05-14T07:24:59.064Z,-24.194,-67.5143,206.826,4.1,mb,15,179,1.379,0.63,us,us7000pz52,2025-07-25T17:06:14.040Z,"121 km W of San Antonio de los Cobres, Argentina",earthquake,5.7,10.44,0.235,5,reviewed,us,us
+2025-05-13T07:10:52.572Z,-14.7622,-72.3745,93.382,4.2,mb,33,124,4.083,1.08,us,us7000pyy8,2025-07-24T21:30:16.040Z,"39 km WSW of Cayarani, Peru",earthquake,7.36,13.612,0.122,19,reviewed,us,us
+2025-05-13T02:19:59.194Z,-51.3702,-72.0163,16.445,4.1,mb,9,165,1.515,0.59,us,us7000pyxp,2025-07-24T21:30:16.040Z,"27 km NNE of 28 de Noviembre, Argentina",earthquake,8.26,5.973,0.234,5,reviewed,us,us
+2025-05-13T00:48:00.569Z,-51.3717,-71.8409,10,5.2,mww,72,100,1.497,0.64,us,us7000pyxf,2025-07-24T21:30:16.040Z,"35 km NE of 28 de Noviembre, Argentina",earthquake,7.73,1.686,0.083,14,reviewed,us,us
+2025-05-12T23:08:02.828Z,-32.5307,-71.4171,67.499,4,mb,31,152,0.528,0.57,us,us7000pyx1,2025-07-24T21:30:16.040Z,"19 km WSW of La Ligua, Chile",earthquake,4.45,5.511,0.195,7,reviewed,us,us
+2025-05-12T21:30:52.672Z,-24.0159,-67.3347,217.018,4.2,mb,19,145,1.312,0.78,us,us7000pywq,2025-07-24T21:30:15.040Z,"105 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.49,7.035,0.2,7,reviewed,us,us
+2025-05-12T17:33:19.963Z,-33.7125,-72.237,19.9,3.8,mwr,34,141,0.835,0.54,us,us7000pyvx,2025-07-24T21:30:09.040Z,"59 km WSW of San Antonio, Chile",earthquake,4.9,4.615,0.057,30,reviewed,us,us
+2025-05-12T14:57:50.921Z,-18.299,-69.2257,137.81,5,mww,123,45,0.27,0.78,us,us7000pytn,2025-07-24T21:30:15.040Z,"96 km WSW of Curahuara de Carangas, Bolivia",earthquake,6.75,3.631,0.069,20,reviewed,us,us
+2025-05-12T09:15:53.646Z,-21.5471,-69.1139,95.992,4.3,mb,28,58,0.275,1.24,us,us7000pysp,2025-07-24T21:30:15.040Z,"96 km WSW of Ollagüe, Chile",earthquake,4.46,3.805,0.16,11,reviewed,us,us
+2025-05-12T01:13:39.717Z,-45.2025,-81.6384,10,4.4,mb,14,146,7.247,0.82,us,us6000qg7g,2025-07-24T21:30:09.040Z,"Off the coast of Aisen, Chile",earthquake,14.96,1.464,0.17,10,reviewed,us,us
+2025-05-11T17:05:24.538Z,-44.3418,-82.2968,10,4.7,mb,47,137,6.309,0.63,us,us7000pypd,2025-07-24T21:30:14.040Z,"West Chile Rise",earthquake,11.71,1.903,0.078,49,reviewed,us,us
+2025-05-11T16:56:32.799Z,-56.8826,-67.4457,10,4.3,mb,13,135,1.958,1.19,us,us7000pypa,2025-07-24T21:30:14.040Z,"237 km SSE of Ushuaia, Argentina",earthquake,10.96,1.941,0.154,12,reviewed,us,us
+2025-05-11T09:46:51.568Z,-24.3058,-67.1976,166.252,4.5,mb,26,72,1.62,1.36,us,us7000pymb,2025-07-24T21:30:14.040Z,"89 km W of San Antonio de los Cobres, Argentina",earthquake,9.27,9.105,0.121,20,reviewed,us,us
+2025-05-11T06:43:27.110Z,-33.7941,-71.5126,53.057,4.6,mb,48,144,0.161,0.66,us,us7000pyiu,2025-07-24T21:30:14.040Z,"23 km SSE of San Antonio, Chile",earthquake,3.25,3.91,0.111,24,reviewed,us,us
+2025-05-11T06:25:26.284Z,-16.0027,-74.7107,39.903,4.3,mb,24,143,4.495,0.87,us,us7000pyit,2025-07-24T21:30:14.040Z,"43 km WSW of Atiquipa, Peru",earthquake,10.54,7.664,0.111,23,reviewed,us,us
+2025-05-10T17:30:00.928Z,-24.3135,-67.3394,177.294,4.2,mb,31,60,1.559,1.03,us,us7000pyfw,2025-07-24T21:30:13.040Z,"104 km W of San Antonio de los Cobres, Argentina",earthquake,4.46,7.968,0.121,20,reviewed,us,us
+2025-05-10T05:07:15.225Z,-20.7248,-68.9776,100.041,4.1,mb,18,87,0.572,0.62,us,us7000pydt,2025-07-24T21:30:13.040Z,"82 km ESE of La Tirana, Chile",earthquake,4.23,5.79,0.174,9,reviewed,us,us
+2025-05-10T03:34:07.470Z,-15.9025,-74.4726,19.118,5.1,mww,99,71,4.521,0.82,us,us7000pydf,2025-07-24T21:30:13.040Z,"16 km SW of Atiquipa, Peru",earthquake,9.54,3.992,0.089,12,reviewed,us,us
+2025-05-10T02:11:40.923Z,-24.2183,-67.0475,175.824,4.2,mb,17,93,1.633,1.13,us,us7000pyd0,2025-07-24T21:30:13.040Z,"74 km W of San Antonio de los Cobres, Argentina",earthquake,10.81,11.537,0.2,7,reviewed,us,us
+2025-05-09T18:11:41.656Z,-27.8687,-71.0579,55.218,4.4,mb,22,138,0.335,0.7,us,us7000pyb2,2025-07-24T21:30:13.040Z,"83 km NNW of Vallenar, Chile",earthquake,5.37,6.023,0.219,6,reviewed,us,us
+2025-05-09T13:31:55.813Z,-20.9163,-65.1486,314.573,4.1,mb,32,84,3.832,0.56,us,us7000py8h,2025-07-24T21:30:12.040Z,"31 km SSE of Camargo, Bolivia",earthquake,11.06,13.118,0.151,12,reviewed,us,us
+2025-05-09T03:22:50.049Z,-21.4726,-68.5154,144.143,4.2,mb,20,52,1.002,1.14,us,us7000py5b,2025-07-24T21:30:12.040Z,"38 km SW of Ollagüe, Chile",earthquake,6.68,8.469,0.2,7,reviewed,us,us
+2025-05-08T16:16:58.829Z,-24.3097,-67.0909,168.776,4.5,mb,30,66,1.68,0.82,us,us7000pxzj,2025-07-24T21:30:12.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,6.03,9.629,0.144,14,reviewed,us,us
+2025-05-08T14:26:36.664Z,-56.86,-68.1108,10,4.1,mb,12,136,1.951,0.73,us,us7000pxye,2025-07-24T21:30:11.040Z,"228 km S of Ushuaia, Argentina",earthquake,14.63,1.628,0.213,7,reviewed,us,us
+2025-05-08T07:36:12.016Z,-57.2423,-67.0049,10,4.7,mb,39,144,2.342,0.57,us,us7000pxwc,2025-07-24T21:30:11.040Z,"282 km SSE of Ushuaia, Argentina",earthquake,15.61,1.94,0.096,33,reviewed,us,us
+2025-05-08T03:41:26.676Z,-23.1856,-69.2088,90.73,4.4,mwr,33,71,0.583,1.2,us,us7000pxvf,2025-07-24T21:30:11.040Z,"85 km SSW of Calama, Chile",earthquake,2.35,5.549,0.066,22,reviewed,us,us
+2025-05-08T00:36:15.525Z,-57.1832,-67.2854,10,4.8,mb,36,133,2.265,0.58,us,us7000pxuz,2025-07-24T21:30:11.040Z,"271 km SSE of Ushuaia, Argentina",earthquake,12.78,1.937,0.093,36,reviewed,us,us
+2025-05-08T00:01:03.328Z,-31.0509,-72.6317,10,4.4,mb,31,146,0.936,0.77,us,us7000pxur,2025-07-24T21:30:11.040Z,"145 km WSW of Ovalle, Chile",earthquake,4.66,1.517,0.203,7,reviewed,us,us
+2025-05-07T23:04:51.200Z,-19.3779,-67.9592,190.074,4.3,mb,41,70,1.2,0.7,us,us7000pxud,2025-07-24T21:30:11.040Z,"72 km E of Colchane, Chile",earthquake,7.23,7.06,0.1,28,reviewed,us,us
+2025-05-07T18:47:16.155Z,-57.3909,-67.7026,10,4.5,mb,28,148,2.465,0.62,us,us7000pxsr,2025-07-24T21:30:11.040Z,"289 km S of Ushuaia, Argentina",earthquake,12.68,1.923,0.124,19,reviewed,us,us
+2025-05-07T10:06:54.059Z,-57.246,-67.7348,10,4.5,mb,19,151,2.32,0.52,us,us7000q0ul,2025-07-24T21:30:17.040Z,"273 km S of Ushuaia, Argentina",earthquake,6.31,1.953,0.15,13,reviewed,us,us
+2025-05-06T16:25:30.574Z,-21.0423,-69.6073,62.136,4.4,mb,30,69,0.112,0.49,us,us7000pxi5,2025-07-12T16:30:47.040Z,"78 km S of La Tirana, Chile",earthquake,3.82,4.109,0.112,23,reviewed,us,us
+2025-05-06T11:03:33.237Z,-24.0167,-66.976,210.738,4.4,mb,64,118,1.531,1.1,us,us7000pxgt,2025-07-12T16:30:47.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.73,7.017,0.06,81,reviewed,us,us
+2025-05-06T08:28:01.954Z,-24.2456,-67.1726,166.888,4.4,mb,49,43,1.584,1.15,us,us7000pxga,2025-07-12T16:30:47.040Z,"86 km W of San Antonio de los Cobres, Argentina",earthquake,4.46,8.15,0.11,28,reviewed,us,us
+2025-05-06T06:51:57.968Z,-21.926,-68.5995,113.773,4.2,mb,24,116,0.61,0.61,us,us7000pxfw,2025-07-12T16:30:46.040Z,"67 km NNE of Calama, Chile",earthquake,4.35,5.87,0.132,16,reviewed,us,us
+2025-05-06T02:33:02.617Z,-57.0537,-68.6834,10,4.4,mb,14,154,2.207,0.58,us,us7000pxet,2025-07-12T16:30:46.040Z,"250 km S of Ushuaia, Argentina",earthquake,10.49,1.873,0.19,8,reviewed,us,us
+2025-05-05T22:43:12.183Z,-57.283,-68.045,10,4.5,mb,24,139,3.706,0.5,us,us7000pxdq,2025-07-12T16:30:46.040Z,"275 km S of Ushuaia, Argentina",earthquake,15.11,1.942,0.124,19,reviewed,us,us
+2025-05-05T16:58:47.474Z,-19.6387,-69.9926,60.403,3.9,ml,11,153,0.642,0.19,us,us7000pxa4,2025-07-12T16:30:46.040Z,"45 km NNW of Huara, Chile",earthquake,3.35,9.709,0.074,24,reviewed,us,us
+2025-05-05T09:46:46.882Z,-29.4675,-71.9242,22.933,5.1,mww,125,71,0.747,0.98,us,us7000px85,2025-07-12T16:30:45.040Z,"78 km NW of Coquimbo, Chile",earthquake,4.03,3.521,0.083,14,reviewed,us,us
+2025-05-05T08:50:00.063Z,-57.1198,-67.7989,10,4.5,mb,20,151,2.195,0.57,us,us7000px7t,2025-07-12T16:30:45.040Z,"259 km S of Ushuaia, Argentina",earthquake,6.61,1.956,0.145,14,reviewed,us,us
+2025-05-05T08:42:33.333Z,-57.016,-67.9676,10,4.2,mb,16,136,2.098,0.43,us,us7000px7r,2025-07-12T16:30:45.040Z,"246 km S of Ushuaia, Argentina",earthquake,11.17,1.94,0.166,10,reviewed,us,us
+2025-05-05T04:55:06.818Z,-57.1735,-68.0369,10,4.7,mb,35,105,3.607,0.58,us,us7000px70,2025-07-12T16:30:45.040Z,"263 km S of Ushuaia, Argentina",earthquake,11.95,1.918,0.1,30,reviewed,us,us
+2025-05-05T03:13:01.684Z,-15.7357,-69.761,239.624,4.2,mb,15,120,1.661,0.8,us,us7000px6p,2025-07-12T16:30:45.040Z,"9 km WNW of Taquile, Peru",earthquake,7.8,11.061,0.125,18,reviewed,us,us
+2025-05-05T02:17:48.611Z,-31.8815,-70.8971,96.805,4.7,mb,89,120,0.174,0.62,us,us7000px6k,2025-07-12T16:30:45.040Z,"12 km SSE of Salamanca, Chile",earthquake,4.98,5.448,0.069,65,reviewed,us,us
+2025-05-04T23:27:41.607Z,-33.4179,-72.241,20.288,3.7,mwr,32,185,0.575,0.76,us,us7000px5r,2025-07-12T16:30:45.040Z,"60 km WNW of Cartagena, Chile",earthquake,3.82,6.857,0.071,19,reviewed,us,us
+2025-05-04T23:24:25.382Z,-56.7928,-67.7967,10,4.4,mb,29,134,3.321,0.76,us,us7000px5s,2025-07-12T16:30:45.040Z,"223 km S of Ushuaia, Argentina",earthquake,11.18,1.924,0.11,24,reviewed,us,us
+2025-05-04T20:47:03.896Z,-22.2804,-67.6673,177.467,4.4,mb,45,53,0.818,0.96,us,us7000px56,2025-07-12T16:30:45.040Z,"88 km NE of San Pedro de Atacama, Chile",earthquake,6.66,7.015,0.1,29,reviewed,us,us
+2025-05-04T19:36:15.864Z,-57.204,-67.4911,10,4.4,mb,24,134,3.764,0.67,us,us7000q0dg,2025-07-12T16:30:50.040Z,"271 km SSE of Ushuaia, Argentina",earthquake,11.66,1.93,0.126,19,reviewed,us,us
+2025-05-04T15:56:10.379Z,-33.4047,-72.2629,18.006,4.5,mwr,42,159,0.597,0.63,us,us7000px3w,2025-07-12T16:30:45.040Z,"63 km WNW of Cartagena, Chile",earthquake,4.23,4.283,0.04,60,reviewed,us,us
+2025-05-04T15:25:25.254Z,-57.1158,-66.8149,10,4.5,mb,23,141,3.877,0.63,us,us7000px3t,2025-07-12T16:30:45.040Z,"273 km SSE of Ushuaia, Argentina",earthquake,11.52,1.917,0.121,24,reviewed,us,us
+2025-05-04T14:59:29.996Z,-22.0725,-68.6977,113.326,4.6,mwr,45,39,0.575,0.82,us,us7000px3i,2025-07-12T16:30:44.040Z,"48 km NNE of Calama, Chile",earthquake,5.5,5.071,0.075,17,reviewed,us,us
+2025-05-04T14:25:24.236Z,-33.3905,-72.3805,20.666,4.3,mwr,36,159,0.693,0.85,us,us7000px3e,2025-07-12T16:30:44.040Z,"74 km WNW of Cartagena, Chile",earthquake,5.14,5.817,0.052,35,reviewed,us,us
+2025-05-04T11:59:19.278Z,-57.138,-67.3515,10,4.7,mb,32,133,3.742,0.45,us,us7000px2n,2025-07-12T16:30:44.040Z,"266 km SSE of Ushuaia, Argentina",earthquake,15.78,1.938,0.105,29,reviewed,us,us
+2025-05-04T11:26:56.559Z,-57.2861,-67.4268,10,4.5,mb,28,145,3.853,0.37,us,us7000px2k,2025-07-12T16:30:44.040Z,"281 km SSE of Ushuaia, Argentina",earthquake,12.73,1.932,0.111,24,reviewed,us,us
+2025-05-04T11:26:03.941Z,-57.17,-67.5117,10,4.7,mb,38,145,3.728,0.5,us,us7000px2f,2025-07-12T16:30:44.040Z,"267 km S of Ushuaia, Argentina",earthquake,7.12,1.878,0.094,34,reviewed,us,us
+2025-05-04T11:12:34.426Z,-57.1148,-67.0746,10,4.7,mb,39,143,3.799,0.66,us,us7000px2e,2025-07-12T16:30:44.040Z,"267 km SSE of Ushuaia, Argentina",earthquake,11.47,1.802,0.093,35,reviewed,us,us
+2025-05-04T08:49:50.934Z,-57.1671,-67.9544,10,4.3,mb,16,152,2.248,0.54,us,us7000px21,2025-07-12T16:30:44.040Z,"263 km S of Ushuaia, Argentina",earthquake,15.83,1.974,0.161,11,reviewed,us,us
+2025-05-04T07:26:52.778Z,-57.1602,-67.1911,10,4.4,mb,25,144,3.805,1.05,us,us7000px1n,2025-07-12T16:30:44.040Z,"270 km SSE of Ushuaia, Argentina",earthquake,15.25,1.941,0.118,21,reviewed,us,us
+2025-05-04T04:55:07.374Z,-24.1764,-66.9706,211.576,4.3,mb,20,114,1.648,0.7,us,us7000px0z,2025-07-12T16:30:44.040Z,"66 km W of San Antonio de los Cobres, Argentina",earthquake,10.52,9.218,0.16,11,reviewed,us,us
+2025-05-04T04:53:27.847Z,-57.1167,-67.1627,10,5,mb,68,135,3.776,0.95,us,us7000px11,2025-07-12T16:30:44.040Z,"266 km SSE of Ushuaia, Argentina",earthquake,11.13,1.747,0.063,80,reviewed,us,us
+2025-05-04T04:52:20.361Z,-57.1564,-67.257,10,4.3,mb,21,147,2.24,0.84,us,us7000pxuq,2025-07-12T16:30:47.040Z,"269 km SSE of Ushuaia, Argentina",earthquake,11.77,1.946,0.122,19,reviewed,us,us
+2025-05-04T04:38:06.857Z,-57.5433,-67.6987,10,5.3,mb,87,60,2.618,0.76,us,us7000px0y,2025-07-12T16:30:44.040Z,"Drake Passage",earthquake,9.62,1.794,0.058,100,reviewed,us,us
+2025-05-04T03:10:54.543Z,-57.4591,-67.5666,10,4.7,mb,28,148,3.974,0.87,us,us7000px0d,2025-07-12T16:30:44.040Z,"298 km S of Ushuaia, Argentina",earthquake,8.28,1.886,0.115,23,reviewed,us,us
+2025-05-04T01:14:01.236Z,-57.3194,-67.296,10,4.8,mb,31,145,3.916,0.66,us,us7000pwzm,2025-07-12T16:30:44.040Z,"286 km SSE of Ushuaia, Argentina",earthquake,15.54,1.948,0.107,27,reviewed,us,us
+2025-05-03T20:03:39.760Z,-56.8248,-67.5154,10,4.4,mb,29,132,3.425,0.66,us,us7000pwyb,2025-07-12T16:30:43.040Z,"229 km SSE of Ushuaia, Argentina",earthquake,13.35,1.929,0.11,24,reviewed,us,us
+2025-05-03T17:23:00.121Z,-57.1215,-67.4936,10,4.6,mb,35,103,2.196,0.75,us,us7000q06w,2025-07-12T16:30:49.040Z,"262 km SSE of Ushuaia, Argentina",earthquake,11.09,1.92,0.101,32,reviewed,us,us
+2025-05-03T17:05:13.007Z,-45.5336,-76.6072,10,4.4,mb,31,142,2.216,0.68,us,us7000pwxk,2025-07-12T16:30:43.040Z,"296 km W of Puerto Chacabuco, Chile",earthquake,8.6,1.897,0.117,23,reviewed,us,us
+2025-05-03T15:52:54.266Z,-15.073,-72.8987,92.256,4.4,mb,80,128,4.093,1.11,us,us7000pwx5,2025-07-12T16:30:43.040Z,"12 km N of Mungui, Peru",earthquake,8.73,7.767,0.061,79,reviewed,us,us
+2025-05-03T15:12:27.280Z,-57.0346,-67.2063,10,4.2,mb,22,143,3.693,0.72,us,us7000pwx1,2025-07-12T16:30:43.040Z,"257 km SSE of Ushuaia, Argentina",earthquake,10.77,1.92,0.141,15,reviewed,us,us
+2025-05-03T14:41:31.953Z,-57.1272,-67.6127,10,4.5,mb,26,146,3.665,1.04,us,us7000pwwx,2025-07-12T16:30:43.040Z,"261 km S of Ushuaia, Argentina",earthquake,14.37,1.906,0.121,24,reviewed,us,us
+2025-05-03T14:07:50.993Z,-57.0227,-66.9741,10,4.5,mb,27,142,3.751,1.14,us,us7000pwwr,2025-07-12T16:30:43.040Z,"260 km SSE of Ushuaia, Argentina",earthquake,11,1.535,0.124,24,reviewed,us,us
+2025-05-03T11:54:40.025Z,-56.9009,-68.0524,10,4.7,mb,26,136,4.131,1.25,us,us7000pwvl,2025-07-12T16:30:43.040Z,"233 km S of Ushuaia, Argentina",earthquake,7.5,1.901,0.108,26,reviewed,us,us
+2025-05-03T11:31:42.343Z,-21.4779,-68.7967,124.434,4,mb,19,81,0.521,0.7,us,us7000pwvh,2025-07-12T16:30:43.040Z,"62 km WSW of Ollagüe, Chile",earthquake,5.07,5.798,0.196,7,reviewed,us,us
+2025-05-03T10:50:43.400Z,-57.1802,-67.204,10,4.9,mb,44,133,4.56,0.86,us,us7000pwvf,2025-07-12T16:30:43.040Z,"272 km SSE of Ushuaia, Argentina",earthquake,13.66,1.916,0.079,50,reviewed,us,us
+2025-05-03T10:10:58.426Z,-56.9117,-67.5706,10,4.5,mb,30,119,4.249,1.01,us,us7000q06n,2025-07-12T16:30:49.040Z,"238 km SSE of Ushuaia, Argentina",earthquake,8.74,1.917,0.104,27,reviewed,us,us
+2025-05-03T10:06:32.805Z,-57.0716,-67.7127,10,5,mb,52,119,4.368,0.98,us,us7000pwvb,2025-07-12T16:30:43.040Z,"254 km S of Ushuaia, Argentina",earthquake,9,1.878,0.085,44,reviewed,us,us
+2025-05-03T08:00:29.823Z,-19.9548,-70.8776,26.547,4.2,mb,16,153,1.097,0.87,us,us7000pwuy,2025-07-12T16:30:43.040Z,"81 km WNW of Puerto, Chile",earthquake,7.3,7.058,0.187,8,reviewed,us,us
+2025-05-03T07:48:04.241Z,-57.1139,-67.0964,10,4.9,mb,57,146,4.512,0.52,us,us7000pwuu,2025-07-12T16:30:43.040Z,"267 km SSE of Ushuaia, Argentina",earthquake,12.58,1.929,0.08,49,reviewed,us,us
+2025-05-03T07:18:12.885Z,-57.2297,-66.8301,10,4.8,mb,34,131,4.667,0.44,us,us7000pwuw,2025-07-12T16:30:43.040Z,"284 km SSE of Ushuaia, Argentina",earthquake,14.71,1.925,0.101,30,reviewed,us,us
+2025-05-03T06:26:27.064Z,-57.0492,-66.8631,10,4,mb,20,141,3.807,0.63,us,us7000q070,2025-07-12T16:30:49.040Z,"265 km SSE of Ushuaia, Argentina",earthquake,9.63,1.865,0.134,15,reviewed,us,us
+2025-05-03T05:17:53.841Z,-57.2014,-67.2058,10,4.5,mb,24,144,3.837,0.67,us,us7000q071,2025-07-12T16:30:49.040Z,"275 km SSE of Ushuaia, Argentina",earthquake,13.11,1.95,0.131,17,reviewed,us,us
+2025-05-03T04:57:51.464Z,-57.1609,-66.7884,10,4.5,mb,22,141,2.283,0.91,us,us7000q06h,2025-07-12T16:30:49.040Z,"278 km SSE of Ushuaia, Argentina",earthquake,11.29,1.937,0.14,15,reviewed,us,us
+2025-05-03T04:20:54.279Z,-56.8848,-68.0441,10,4.4,mb,23,147,1.971,1.08,us,us7000pwu4,2025-07-12T16:30:43.040Z,"231 km S of Ushuaia, Argentina",earthquake,11.57,1.835,0.13,17,reviewed,us,us
+2025-05-03T03:17:06.129Z,-57.0493,-68.3896,10,4.3,mb,9,151,2.165,0.71,us,us7000pwtp,2025-07-12T16:30:43.040Z,"249 km S of Ushuaia, Argentina",earthquake,13.14,1.972,0.266,4,reviewed,us,us
+2025-05-03T02:51:47.259Z,-56.7459,-68.4848,10,4.5,mb,18,150,1.881,1.03,us,us7000pxmh,2025-07-12T16:30:47.040Z,"215 km S of Ushuaia, Argentina",earthquake,6.04,1.923,0.157,12,reviewed,us,us
+2025-05-03T02:51:10.486Z,-57.0816,-67.2882,10,4.3,mb,12,149,2.163,0.77,us,us7000pwtl,2025-07-12T16:30:43.040Z,"260 km SSE of Ushuaia, Argentina",earthquake,14.54,1.809,0.177,9,reviewed,us,us
+2025-05-03T01:13:25.957Z,-57.1338,-66.9563,10,4.5,mb,17,146,2.239,1.09,us,us7000pwt6,2025-07-12T16:30:43.040Z,"272 km SSE of Ushuaia, Argentina",earthquake,8.07,1.953,0.156,12,reviewed,us,us
+2025-05-02T22:06:56.139Z,-57.2369,-67.5057,10,4.3,mb,22,145,2.311,0.73,us,us7000pzn7,2025-07-12T16:30:49.040Z,"274 km S of Ushuaia, Argentina",earthquake,11.75,1.924,0.142,14,reviewed,us,us
+2025-05-02T21:09:41.347Z,-57.3035,-67.719,10,4.6,mb,26,148,3.797,0.6,us,us7000pws6,2025-07-12T16:30:42.040Z,"280 km S of Ushuaia, Argentina",earthquake,15.8,1.95,0.117,22,reviewed,us,us
+2025-05-02T20:34:55.643Z,-56.9926,-67.3281,10,4.4,mb,32,143,3.623,0.92,us,us7000pwrt,2025-07-12T16:30:42.040Z,"250 km SSE of Ushuaia, Argentina",earthquake,12.67,1.899,0.114,24,reviewed,us,us
+2025-05-02T20:14:15.352Z,-57.1328,-67.2677,10,5.3,mb,131,89,3.76,0.54,us,us7000pwrl,2025-07-12T16:30:42.040Z,"266 km SSE of Ushuaia, Argentina",earthquake,10.03,1.754,0.05,140,reviewed,us,us
+2025-05-02T19:57:58.541Z,-57.3753,-66.863,10,5,mb,116,102,4.082,0.51,us,us7000pwr3,2025-07-12T16:30:42.040Z,"299 km SSE of Ushuaia, Argentina",earthquake,10.71,1.745,0.061,90,reviewed,us,us
+2025-05-02T19:56:22.846Z,-57.2099,-67.1362,10,4.2,mb,23,133,3.863,0.53,us,us7000pzna,2025-07-12T16:30:49.040Z,"277 km SSE of Ushuaia, Argentina",earthquake,11.78,1.688,0.146,14,reviewed,us,us
+2025-05-02T19:42:29.446Z,-57.1819,-67.0715,10,4.8,mb,83,132,3.857,0.63,us,us7000pwqt,2025-07-12T16:30:42.040Z,"275 km SSE of Ushuaia, Argentina",earthquake,11.05,1.831,0.068,70,reviewed,us,us
+2025-05-02T19:33:49.191Z,-57.3958,-67.2137,10,5.1,mb,120,95,4.004,0.77,us,us7000pwqr,2025-07-12T16:30:42.040Z,"295 km SSE of Ushuaia, Argentina",earthquake,7.89,1.758,0.058,104,reviewed,us,us
+2025-05-02T19:17:42.572Z,-57.1162,-67.3476,10,4.6,mb,36,144,3.724,0.68,us,us7000pwqj,2025-07-12T16:30:42.040Z,"263 km SSE of Ushuaia, Argentina",earthquake,10.54,1.899,0.107,26,reviewed,us,us
+2025-05-02T18:58:14.181Z,-57.165,-67.4107,10,4.4,mb,29,145,2.242,0.59,us,us7000pwqh,2025-07-12T16:30:42.040Z,"268 km SSE of Ushuaia, Argentina",earthquake,10.41,1.817,0.121,20,reviewed,us,us
+2025-05-02T18:25:32.326Z,-57.3731,-67.0119,10,4.5,mb,34,146,4.039,1.02,us,us7000pwq7,2025-07-12T16:30:42.040Z,"296 km SSE of Ushuaia, Argentina",earthquake,14.08,1.94,0.099,30,reviewed,us,us
+2025-05-02T18:20:31.281Z,-57.3925,-67.1308,10,5.1,mb,119,95,4.023,0.54,us,us7000pwq4,2025-07-12T16:30:42.040Z,"296 km SSE of Ushuaia, Argentina",earthquake,9.04,1.739,0.06,97,reviewed,us,us
+2025-05-02T18:09:30.603Z,-57.1817,-67.5354,10,4.2,mb,20,136,2.256,0.79,us,us7000pwqa,2025-07-12T16:30:42.040Z,"268 km S of Ushuaia, Argentina",earthquake,8.25,1.921,0.176,10,reviewed,us,us
+2025-05-02T18:07:37.385Z,-57.418,-67.0406,10,5,mb,73,104,4.07,0.5,us,us7000px5q,2025-07-12T16:30:45.040Z,"Drake Passage",earthquake,9.19,1.85,0.075,57,reviewed,us,us
+2025-05-02T17:59:07.662Z,-57.304,-67.0168,8,6.4,mww,287,16,2.402,0.57,us,us7000pwpu,2025-07-12T16:30:42.040Z,"289 km SSE of Ushuaia, Argentina",earthquake,6.92,1.657,0.071,19,reviewed,us,us
+2025-05-02T17:44:41.352Z,-57.191,-67.0738,10,4.4,mb,22,146,3.865,0.66,us,us7000pwpi,2025-07-12T16:30:42.040Z,"276 km SSE of Ushuaia, Argentina",earthquake,14.6,1.952,0.12,21,reviewed,us,us
+2025-05-02T17:08:39.291Z,-56.8262,-68.3646,10,4,mb,12,149,1.943,0.57,us,us7000pwph,2025-07-12T16:30:42.040Z,"224 km S of Ushuaia, Argentina",earthquake,9.2,1.943,0.259,6,reviewed,us,us
+2025-05-02T16:48:33.458Z,-57.3577,-67.2414,10,5.3,mb,145,61,3.964,0.63,us,us7000pwp8,2025-07-12T16:30:42.040Z,"291 km SSE of Ushuaia, Argentina",earthquake,8.95,1.356,0.053,122,reviewed,us,us
+2025-05-02T16:43:47.112Z,-56.9967,-67.0093,10,4.7,mb,41,74,3.719,0.72,us,us7000pwp6,2025-07-12T16:30:42.040Z,"256 km SSE of Ushuaia, Argentina",earthquake,6.69,1.863,0.096,40,reviewed,us,us
+2025-05-02T16:38:29.079Z,-56.9895,-68.4274,10,4.2,mb,15,150,2.11,0.77,us,us7000pwp5,2025-07-12T16:30:42.040Z,"242 km S of Ushuaia, Argentina",earthquake,10.23,1.934,0.199,7,reviewed,us,us
+2025-05-02T16:25:25.066Z,-57.4151,-68.0233,10,4.4,mb,32,145,3.833,0.57,us,us7000pwp2,2025-07-12T16:30:42.040Z,"290 km S of Ushuaia, Argentina",earthquake,15.11,1.932,0.112,26,reviewed,us,us
+2025-05-02T16:13:03.208Z,-56.9655,-67.2579,10,4.6,mb,20,143,3.619,0.69,us,us7000pzn4,2025-07-12T16:30:49.040Z,"248 km SSE of Ushuaia, Argentina",earthquake,9.49,1.939,0.125,19,reviewed,us,us
+2025-05-02T16:06:41.918Z,-56.8792,-68.6297,10,4.1,mb,17,151,3.213,0.95,us,us7000pwn1,2025-07-12T16:30:42.040Z,"231 km S of Ushuaia, Argentina",earthquake,7.52,1.912,0.15,13,reviewed,us,us
+2025-05-02T15:59:06.135Z,-57.0923,-67.6611,10,4.3,mb,20,146,2.165,1.1,us,us7000pzn2,2025-07-12T16:30:49.040Z,"257 km S of Ushuaia, Argentina",earthquake,7.77,1.958,0.148,16,reviewed,us,us
+2025-05-02T15:42:52.815Z,-57.1594,-67.1788,10,4.9,mb,82,98,3.808,0.64,us,us7000pwmq,2025-07-12T16:30:42.040Z,"270 km SSE of Ushuaia, Argentina",earthquake,11.15,1.846,0.066,76,reviewed,us,us
+2025-05-02T15:29:42.967Z,-56.8957,-68.0066,10,4.4,mb,11,138,1.98,0.83,us,us7000px5a,2025-07-12T16:30:45.040Z,"232 km S of Ushuaia, Argentina",earthquake,10.8,1.716,0.219,7,reviewed,us,us
+2025-05-02T15:27:52.532Z,-57.2865,-67.0282,10,4.8,mb,28,157,2.384,1,us,us7000pzng,2025-07-12T16:30:49.040Z,"287 km SSE of Ushuaia, Argentina",earthquake,12.31,1.922,0.111,28,reviewed,us,us
+2025-05-02T15:27:37.935Z,-57.2227,-67.5801,10,4.9,mb,27,150,3.758,0.52,us,us7000pwmy,2025-07-12T16:30:42.040Z,"272 km S of Ushuaia, Argentina",earthquake,9.24,1.936,0.116,24,reviewed,us,us
+2025-05-02T15:25:37.849Z,-57.2136,-67.3395,10,4.9,mb,50,123,3.811,0.43,us,us7000pwmu,2025-07-12T16:30:42.040Z,"274 km SSE of Ushuaia, Argentina",earthquake,9.85,1.838,0.085,46,reviewed,us,us
+2025-05-02T15:24:10.764Z,-28.9988,-71.657,26.015,4.8,mb,93,140,0.838,0.83,us,us7000pwml,2025-07-12T16:30:42.040Z,"99 km WSW of Vallenar, Chile",earthquake,4.1,5.044,0.059,92,reviewed,us,us
+2025-05-02T15:18:05.230Z,-56.913,-68.3331,10,4.6,mb,36,78,3.303,0.63,us,us7000pwmk,2025-07-12T16:30:42.040Z,"234 km S of Ushuaia, Argentina",earthquake,10.1,1.803,0.102,31,reviewed,us,us
+2025-05-02T15:10:01.922Z,-56.9316,-67.574,10,4.8,mb,42,122,3.502,0.59,us,us7000pwmh,2025-07-12T16:30:42.040Z,"240 km SSE of Ushuaia, Argentina",earthquake,12.77,1.917,0.088,40,reviewed,us,us
+2025-05-02T15:08:45.912Z,-57.1172,-68.0486,10,4.9,mb,64,79,3.553,0.82,us,us7000pwmm,2025-07-12T16:30:42.040Z,"257 km S of Ushuaia, Argentina",earthquake,9.26,1.847,0.079,57,reviewed,us,us
+2025-05-02T14:48:51.259Z,-57.2225,-67.6331,10,4.8,mb,46,129,3.745,0.53,us,us7000pwld,2025-07-12T16:30:42.040Z,"271 km S of Ushuaia, Argentina",earthquake,10.96,1.895,0.086,42,reviewed,us,us
+2025-05-02T14:45:13.775Z,-57.3426,-67.3596,10,4.7,mb,27,148,2.421,0.67,us,us7000pwmi,2025-07-12T16:30:42.040Z,"288 km SSE of Ushuaia, Argentina",earthquake,14.23,1.949,0.111,25,reviewed,us,us
+2025-05-02T14:43:45.630Z,-57.2601,-67.7447,10,4.9,mb,54,123,3.752,0.47,us,us7000pwlb,2025-07-12T16:30:42.040Z,"275 km S of Ushuaia, Argentina",earthquake,12.48,1.893,0.078,52,reviewed,us,us
+2025-05-02T14:38:06.272Z,-57.065,-67.6032,10,5.1,mb,103,132,3.612,0.54,us,us7000pwl9,2025-07-12T16:30:42.040Z,"254 km S of Ushuaia, Argentina",earthquake,10.19,1.847,0.059,92,reviewed,us,us
+2025-05-02T14:14:37.378Z,-57.4121,-68.0535,10,4.5,mb,17,154,2.497,0.51,us,us7000pzmq,2025-07-12T16:30:49.040Z,"290 km S of Ushuaia, Argentina",earthquake,10.62,1.947,0.15,13,reviewed,us,us
+2025-05-02T14:12:28.107Z,-57.1218,-67.6914,10,4.8,mb,48,128,2.195,0.51,us,us7000pwl7,2025-07-12T16:30:42.040Z,"260 km S of Ushuaia, Argentina",earthquake,10.46,1.898,0.087,41,reviewed,us,us
+2025-05-02T14:03:42.880Z,-57.2262,-67.5154,10,4.5,mb,23,135,2.301,0.62,us,us7000pznf,2025-07-12T16:30:49.040Z,"273 km S of Ushuaia, Argentina",earthquake,7.14,1.914,0.135,16,reviewed,us,us
+2025-05-02T13:57:55.678Z,-57.0812,-67.7374,10,4.7,mb,20,143,2.155,0.93,us,us7000pwz7,2025-07-12T16:30:44.040Z,"255 km S of Ushuaia, Argentina",earthquake,5.73,1.932,0.137,16,reviewed,us,us
+2025-05-02T13:55:02.779Z,-57.2793,-67.5325,10,5.3,mb,91,62,3.82,0.62,us,us7000pwl6,2025-07-12T16:30:42.040Z,"279 km S of Ushuaia, Argentina",earthquake,8.38,1.854,0.059,98,reviewed,us,us
+2025-05-02T13:51:10.888Z,-56.6932,-68.1288,10,4.9,mb,26,167,3.149,0.46,us,us7000px3p,2025-07-12T16:30:45.040Z,"209 km S of Ushuaia, Argentina",earthquake,8.49,1.897,0.119,22,reviewed,us,us
+2025-05-02T13:49:29.850Z,-57.1576,-67.2617,10,4.9,mb,55,114,3.783,1.17,us,us7000px3n,2025-07-12T16:30:44.040Z,"269 km SSE of Ushuaia, Argentina",earthquake,10.57,1.79,0.09,39,reviewed,us,us
+2025-05-02T13:29:00.413Z,-57.0638,-67.2837,10,4.6,mb,30,144,2.146,1.07,us,us7000pwyz,2025-07-12T16:30:44.040Z,"258 km SSE of Ushuaia, Argentina",earthquake,12.77,1.959,0.173,10,reviewed,us,us
+2025-05-02T13:24:34.822Z,-57.3445,-67.5307,10,4.5,mb,30,145,2.419,0.73,us,us7000pwyq,2025-07-12T16:30:44.040Z,"286 km S of Ushuaia, Argentina",earthquake,6.22,1.927,0.18,9,reviewed,us,us
+2025-05-02T13:17:31.716Z,-57.1618,-66.9519,10,4.7,mb,31,132,2.267,0.58,us,us7000pwyl,2025-07-12T16:30:44.040Z,"275 km SSE of Ushuaia, Argentina",earthquake,9.7,1.926,0.167,11,reviewed,us,us
+2025-05-02T13:14:02.062Z,-57.1873,-68.1611,10,4.7,mb,12,141,2.28,1.43,us,us7000pznd,2025-07-12T16:30:49.040Z,"264 km S of Ushuaia, Argentina",earthquake,10.12,1.8,0.389,2,reviewed,us,us
+2025-05-02T13:13:45.299Z,-56.9938,-67.0375,10,4.9,mb,30,122,2.093,0.65,us,us7000pznc,2025-07-12T16:30:49.040Z,"255 km SSE of Ushuaia, Argentina",earthquake,11.97,1.908,0.188,9,reviewed,us,us
+2025-05-02T13:10:08.321Z,-57.121,-67.4986,10,5.6,mb,76,41,3.688,0.7,us,us7000pwl0,2025-07-12T16:30:42.040Z,"262 km SSE of Ushuaia, Argentina",earthquake,3.69,1.833,0.071,70,reviewed,us,us
+2025-05-02T13:09:40.634Z,-57.2358,-67.2023,10,5.7,mb,140,101,2.322,0.65,us,us7000pwkz,2025-07-12T16:30:42.040Z,"278 km SSE of Ushuaia, Argentina",earthquake,6.05,1.749,0.053,126,reviewed,us,us
+2025-05-02T13:07:45.852Z,-56.8541,-68.5794,10,5.4,mb,94,111,2.389,0.8,us,us7000pwl1,2025-07-12T16:30:42.040Z,"228 km S of Ushuaia, Argentina",earthquake,8.54,1.857,0.064,84,reviewed,us,us
+2025-05-02T13:03:16.417Z,-57.0575,-67.3954,10,5.5,mb,31,170,2.135,0.55,us,us7000pwt4,2025-07-12T16:30:43.040Z,"256 km SSE of Ushuaia, Argentina",earthquake,8.89,1.94,0.12,25,reviewed,us,us
+2025-05-02T12:58:26.014Z,-56.8094,-68.1019,10,7.4,mww,284,20,1.9,0.75,us,us7000pwkn,2025-07-12T16:30:42.040Z,"2025 Drake Passage Earthquake",earthquake,7.58,1.441,0.038,68,reviewed,us,us
+2025-05-02T10:46:35.384Z,-41.1474,-73.9731,43.167,4.4,mb,20,155,1.186,0.57,us,us7000pwju,2025-07-12T16:30:41.040Z,"73 km WSW of Purranque, Chile",earthquake,5.87,9.762,0.178,10,reviewed,us,us
+2025-05-02T07:08:29.132Z,-29.6516,-71.3596,47.485,4.4,mb,27,176,0.286,0.55,us,us7000pwiv,2025-07-12T16:30:41.040Z,"30 km NNW of La Serena, Chile",earthquake,3.9,4.416,0.149,13,reviewed,us,us
+2025-05-01T16:04:52.814Z,-28.5676,-67.4699,11,5.4,mww,126,18,2.822,0.83,us,us7000pwdl,2025-07-12T16:30:41.040Z,"56 km S of Tinogasta, Argentina",earthquake,6.38,1.731,0.083,14,reviewed,us,us
+2025-05-01T10:24:18.552Z,-24.147,-66.9081,189.438,4.5,mb,40,74,1.666,0.71,us,us7000pwc5,2025-07-12T16:30:40.040Z,"60 km W of San Antonio de los Cobres, Argentina",earthquake,8.7,9.304,0.172,14,reviewed,us,us
+2025-05-01T02:29:37.588Z,-22.3322,-67.5327,176.026,4.4,mb,33,87,0.858,0.7,us,us7000pwa7,2025-07-12T16:30:40.040Z,"93 km NE of San Pedro de Atacama, Chile",earthquake,8.65,6.796,0.117,21,reviewed,us,us
+2025-05-01T00:11:20.797Z,-23.9725,-66.7777,201.061,4.8,mww,146,41,1.639,0.83,us,us7000pw9w,2025-07-12T16:30:40.040Z,"54 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.56,6.278,0.069,20,reviewed,us,us
+2025-04-30T17:10:25.856Z,-30.6714,-71.7024,26.014,4.3,mwr,40,145,0.058,0.73,us,us7000pw5b,2025-07-12T16:30:40.040Z,"48 km W of Ovalle, Chile",earthquake,4.79,5.337,0.045,48,reviewed,us,us
+2025-04-30T06:07:06.891Z,-21.622,-68.4279,109.905,4.3,mb,39,47,0.776,0.7,us,us7000pw17,2025-07-12T16:30:39.040Z,"47 km SSW of Ollagüe, Chile",earthquake,5.77,7.28,0.107,25,reviewed,us,us
+2025-04-30T05:58:55.780Z,-20.5897,-69.7525,25.484,4.1,mb,20,93,0.44,0.69,us,us7000pw16,2025-07-12T16:30:39.040Z,"29 km SSW of La Tirana, Chile",earthquake,3.86,4.715,0.158,11,reviewed,us,us
+2025-04-29T15:11:07.922Z,-41.2437,-87.131,10,4.9,mb,68,146,10.681,0.69,us,us7000pvuy,2025-07-11T15:46:24.040Z,"West Chile Rise",earthquake,12.03,1.894,0.068,71,reviewed,us,us
+2025-04-29T13:36:29.262Z,-18.0116,-68.3625,208.113,4.4,mb,17,76,1.135,0.77,us,us7000pvtb,2025-07-11T15:46:23.040Z,"17 km SSE of Curahuara de Carangas, Bolivia",earthquake,9.2,12.02,0.268,5,reviewed,us,us
+2025-04-29T11:30:33.530Z,-22.1803,-68.7614,108.382,4.2,mb,24,96,0.587,0.45,us,us7000pvsr,2025-07-11T15:46:23.040Z,"34 km NNE of Calama, Chile",earthquake,4.85,4.527,0.175,9,reviewed,us,us
+2025-04-29T07:51:23.036Z,-20.7896,-68.7709,100.347,4.8,mb,56,50,0.716,0.92,us,us7000pvrq,2025-07-11T15:46:23.040Z,"72 km NW of Ollagüe, Chile",earthquake,6.25,6.366,0.034,272,reviewed,us,us
+2025-04-29T07:48:23.782Z,-24.2262,-67.1397,178.536,4.3,mb,32,78,1.587,0.92,us,us7000pvrp,2025-07-11T15:46:23.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,6.28,10.255,0.168,10,reviewed,us,us
+2025-04-29T01:43:22.972Z,-22.5013,-70.1725,37.514,3.9,mb,14,161,0.591,0.69,us,us7000pvpy,2025-07-11T15:46:23.040Z,"45 km S of Tocopilla, Chile",earthquake,3.39,18.958,0.256,4,reviewed,us,us
+2025-04-28T11:13:32.251Z,-21.6942,-68.5199,133.469,4.3,mb,36,68,0.679,0.91,us,us7000pviq,2025-07-11T15:46:22.040Z,"58 km SSW of Ollagüe, Chile",earthquake,5.4,5.562,0.122,19,reviewed,us,us
+2025-04-28T02:18:32.668Z,-21.6365,-66.8577,225.112,4.5,mb,27,68,1.792,0.98,us,us7000pvhc,2025-07-11T15:46:22.040Z,"101 km SW of Atocha, Bolivia",earthquake,9.89,11.375,0.145,14,reviewed,us,us
+2025-04-27T20:13:56.629Z,-14.3526,-73.772,88.71,4.4,mb,29,123,3.804,1.02,us,us7000pz0f,2025-07-11T15:46:25.040Z,"23 km SSE of Huacaña, Peru",earthquake,7.9,6.937,0.086,39,reviewed,us,us
+2025-04-27T20:10:21.930Z,-30.9147,-71.4415,48.003,4.5,mb,34,140,0.292,0.33,us,us7000pvg1,2025-07-11T15:46:22.040Z,"41 km SW of Ovalle, Chile",earthquake,6.39,6.923,0.221,6,reviewed,us,us
+2025-04-27T18:21:15.376Z,-34.0979,-69.1956,167.959,4.3,mb,42,88,0.973,0.6,us,us7000pvfm,2025-07-11T15:46:22.040Z,"98 km NW of San Rafael, Argentina",earthquake,6.41,6.525,0.122,19,reviewed,us,us
+2025-04-27T11:36:18.754Z,-34.0359,-68.8467,10,4.5,mwr,49,93,1.232,1.01,us,us7000pve6,2025-07-11T15:46:21.040Z,"80 km NW of San Rafael, Argentina",earthquake,5.03,1.88,0.066,22,reviewed,us,us
+2025-04-27T11:09:28.091Z,-19.9361,-69.7919,48.611,3.6,ml,12,140,0.623,0.97,us,us7000pve3,2025-07-11T15:46:21.040Z,"6 km NNW of Huara, Chile",earthquake,4.24,11.543,0.074,24,reviewed,us,us
+2025-04-26T19:11:28.166Z,-19.0714,-70.0864,69.782,4.3,mb,31,139,0.738,0.91,us,us7000pv9r,2025-07-11T15:46:21.040Z,"13 km NE of Cuya, Chile",earthquake,4.71,7.862,0.125,18,reviewed,us,us
+2025-04-26T06:22:37.566Z,-22.8041,-63.7251,529.419,4.3,mb,67,36,4.11,0.75,us,us7000pv6x,2025-07-11T15:46:20.040Z,"24 km SSE of General Mosconi, Argentina",earthquake,11.07,7.091,0.089,36,reviewed,us,us
+2025-04-25T16:35:21.192Z,-21.4144,-68.9345,119.748,4.2,mb,28,55,0.476,0.75,us,us7000pv1p,2025-07-11T15:46:20.040Z,"73 km WSW of Ollagüe, Chile",earthquake,6.18,6.396,0.146,13,reviewed,us,us
+2025-04-25T04:16:39.337Z,-21.5998,-66.7532,211.079,4.1,mb,25,110,1.885,0.95,us,us7000puyi,2025-07-11T15:46:20.040Z,"91 km SW of Atocha, Bolivia",earthquake,10.48,8.883,0.13,17,reviewed,us,us
+2025-04-25T04:14:06.342Z,-24.2653,-67.3062,193.018,4,mb,15,111,1.533,1.06,us,us7000puyh,2025-07-11T15:46:20.040Z,"100 km W of San Antonio de los Cobres, Argentina",earthquake,12.32,8.678,0.258,4,reviewed,us,us
+2025-04-24T15:12:39.751Z,-32.7702,-70.1324,110.937,4.1,mb,29,123,0.352,0.57,us,us7000pur7,2025-07-11T15:46:19.040Z,"44 km E of Los Andes, Chile",earthquake,6.8,7.191,0.174,9,reviewed,us,us
+2025-04-24T04:22:54.663Z,-30.7521,-71.8845,25.226,4,mwr,33,145,0.229,1.08,us,us7000punj,2025-07-11T15:46:19.040Z,"67 km WSW of Ovalle, Chile",earthquake,4.65,2.539,0.086,13,reviewed,us,us
+2025-04-24T03:20:08.685Z,-30.7311,-71.8782,28.582,5.1,mww,69,145,0.217,0.78,us,us7000pun2,2025-07-11T15:46:19.040Z,"66 km WSW of Ovalle, Chile",earthquake,3.9,4.462,0.062,25,reviewed,us,us
+2025-04-24T00:24:10.109Z,-30.7444,-71.4103,62.11,4.2,mb,25,104,0.206,0.64,us,us7000pumj,2025-07-11T15:46:19.040Z,"25 km SW of Ovalle, Chile",earthquake,3.74,5.038,0.305,3,reviewed,us,us
+2025-04-23T14:56:22.795Z,-21.4935,-67.1966,233.814,4.2,mb,20,179,1.713,0.4,us,us7000puhb,2025-07-11T15:46:19.040Z,"113 km ESE of Ollagüe, Chile",earthquake,11.66,10.736,0.186,8,reviewed,us,us
+2025-04-23T13:26:26.873Z,-21.4475,-66.935,219.954,4.3,mb,32,80,1.889,0.78,us,us7000pugx,2025-07-11T15:46:19.040Z,"93 km SW of Atocha, Bolivia",earthquake,7,7.507,0.122,19,reviewed,us,us
+2025-04-23T13:11:01.623Z,-15.2298,-71.4522,139.928,4.4,mb,24,117,3.299,1.25,us,us7000py7c,2025-07-11T15:46:25.040Z,"12 km N of Tisco, Peru",earthquake,8.11,10.801,0.162,11,reviewed,us,us
+2025-04-23T09:06:38.293Z,-21.9353,-68.5518,127.972,4.6,mb,51,54,0.656,1.25,us,us7000puff,2025-07-11T15:46:18.040Z,"69 km NNE of Calama, Chile",earthquake,5.71,5.33,0.086,40,reviewed,us,us
+2025-04-22T20:59:11.695Z,-30.9161,-71.5788,59.111,4.1,mb,30,164,0.246,0.89,us,us7000pucf,2025-06-27T00:34:52.040Z,"50 km SW of Ovalle, Chile",earthquake,5.99,5.04,0.233,5,reviewed,us,us
+2025-04-22T12:04:55.547Z,-30.5285,-72.1129,19.303,4.4,mb,30,146,0.437,0.63,us,us7000pu78,2025-06-27T00:34:50.040Z,"88 km W of Ovalle, Chile",earthquake,3.03,4.525,0.202,7,reviewed,us,us
+2025-04-22T05:54:04.542Z,-27.528,-69.329,101.002,4.5,mb,99,70,0.927,0.88,us,us7000pu4z,2025-06-27T00:34:48.040Z,"100 km E of Copiapó, Chile",earthquake,5.81,7.042,0.049,125,reviewed,us,us
+2025-04-21T08:22:02.951Z,-31.8692,-68.3235,106.707,4.3,mb,47,156,0.438,0.62,us,us6000q7iz,2025-06-27T00:34:43.040Z,"23 km SSE of Nueve de Julio, Argentina",earthquake,8.99,3.471,0.108,24,reviewed,us,us
+2025-04-20T22:03:29.836Z,-14.2434,-76.3565,35,4.4,mb,17,154,2.292,0.61,us,us7000pxj1,2025-06-27T00:35:09.040Z,"42 km SSW of Paracas, Peru",earthquake,11.25,1.961,0.268,4,reviewed,us,us
+2025-04-20T12:48:58.135Z,-42.5007,-74.1944,44.807,4.5,mb,18,161,1.325,0.61,us,us6000q7dw,2025-06-27T00:34:39.040Z,"34 km W of Castro, Chile",earthquake,7.17,7.833,0.171,10,reviewed,us,us
+2025-04-20T11:02:48.755Z,-14.9542,-72.663,98.356,4.4,mb,32,121,4.061,0.9,us,us7000pxir,2025-06-27T00:35:09.040Z,"12 km NNE of Puyca, Peru",earthquake,7.08,8.387,0.138,15,reviewed,us,us
+2025-04-20T06:35:38.429Z,-19.1231,-70.4494,54.147,4.2,mb,18,184,0.755,0.57,us,us6000q7cp,2025-06-27T00:34:38.040Z,"28 km W of Cuya, Chile",earthquake,5.26,10.676,0.167,10,reviewed,us,us
+2025-04-20T03:48:58.964Z,-42.8364,-73.8548,46.215,4.3,mb,27,166,1.159,0.85,us,us6000q7bs,2025-06-27T00:34:37.040Z,"24 km SSW of Chonchi, Chile",earthquake,7.52,8.164,0.133,16,reviewed,us,us
+2025-04-19T23:30:14.382Z,-15.5486,-74.0092,71.888,4.2,mb,24,137,4.484,0.67,us,us6000q7ab,2025-06-27T00:34:36.040Z,"15 km NE of Tocota, Peru",earthquake,10.83,10.14,0.121,19,reviewed,us,us
+2025-04-19T04:51:56.457Z,-21.3991,-66.7918,216.93,4.6,mb,44,68,2.01,0.83,us,us6000q75s,2025-06-27T00:34:30.040Z,"78 km SW of Atocha, Bolivia",earthquake,8.57,8.406,0.093,35,reviewed,us,us
+2025-04-18T19:54:39.685Z,-33.1972,-70.1231,7.716,4.1,mb,36,102,0.208,0.84,us,us6000q730,2025-06-27T00:34:27.040Z,"50 km E of Chicureo Abajo, Chile",earthquake,1.83,4.732,0.145,15,reviewed,us,us
+2025-04-18T17:14:25.059Z,-41.3987,-72.2965,9.459,4.3,mb,31,137,0.272,0.8,us,us6000q723,2025-06-27T00:34:26.040Z,"29 km SE of La Ensenada, Chile",earthquake,2.87,4.199,0.119,20,reviewed,us,us
+2025-04-18T16:50:05.696Z,-38.5752,-74.1854,22.365,4.5,mb,27,194,1.43,0.71,us,us6000q720,2025-06-27T00:34:26.040Z,"90 km W of Carahue, Chile",earthquake,7.59,8.03,0.191,8,reviewed,us,us
+2025-04-18T03:59:39.018Z,-36.3892,-70.9651,128.364,4.7,mb,56,107,0.369,0.82,us,us6000q6yn,2025-06-27T00:34:22.040Z,"69 km NNW of Las Ovejas, Argentina",earthquake,7.99,5.249,0.064,74,reviewed,us,us
+2025-04-18T01:53:43.585Z,-23.1895,-63.9622,10,4.3,mb,21,76,4.595,1.17,us,us6000q6ya,2025-06-27T00:34:21.040Z,"14 km E of Embarcación, Argentina",earthquake,8.3,1.934,0.177,9,reviewed,us,us
+2025-04-18T00:10:18.965Z,-23.4826,-67.9999,137,5.6,mww,135,65,0.553,0.75,us,us6000q6xh,2025-06-27T00:34:21.040Z,"66 km SSE of San Pedro de Atacama, Chile",earthquake,9.39,1.876,0.039,62,reviewed,us,us
+2025-04-17T03:56:43.202Z,-19.0258,-67.3649,233.705,4.4,mb,79,37,1.842,0.92,us,us6000q6nc,2025-06-27T00:34:16.040Z,"64 km WSW of Challapata, Bolivia",earthquake,7.82,7.386,0.078,49,reviewed,us,us
+2025-04-17T03:03:54.469Z,-20.658,-69.7854,40.538,3.4,ml,12,102,0.38,0.58,us,us6000q6p1,2025-06-27T00:34:16.040Z,"38 km SSW of La Tirana, Chile",earthquake,2.42,10.017,0.077,22,reviewed,us,us
+2025-04-16T09:45:38.429Z,-24.5832,-68.5389,100.314,4.1,mb,32,114,1.116,1.08,us,us6000q6ey,2025-06-27T00:34:10.040Z,"188 km S of San Pedro de Atacama, Chile",earthquake,6.92,7.284,0.114,21,reviewed,us,us
+2025-04-15T10:29:06.134Z,-22.3822,-68.822,117.7,4.5,mb,58,45,0.701,1.15,us,us6000q64k,2025-06-14T18:26:44.040Z,"13 km NE of Calama, Chile",earthquake,4.44,5.197,0.064,72,reviewed,us,us
+2025-04-15T06:47:15.766Z,-21.1292,-68.866,131.292,4,mb,20,99,0.586,0.46,us,us6000q644,2025-06-14T18:26:44.040Z,"64 km W of Ollagüe, Chile",earthquake,5.34,5.237,0.173,9,reviewed,us,us
+2025-04-14T22:04:50.171Z,-20.2745,-69.1161,95.645,4.2,mb,30,53,0.137,0.65,us,us6000q623,2025-06-14T18:26:43.040Z,"56 km E of La Tirana, Chile",earthquake,4.77,4.998,0.147,13,reviewed,us,us
+2025-04-14T09:11:46.286Z,-27.1403,-69.674,131.524,4.2,mb,23,88,0.643,1.01,us,us6000q5x5,2025-06-14T18:26:43.040Z,"69 km ENE of Copiapó, Chile",earthquake,6.14,9.006,0.264,4,reviewed,us,us
+2025-04-13T17:15:02.778Z,-44.1216,-82.0566,10,5.1,mww,51,143,6.183,0.82,us,us6000q5t8,2025-06-14T18:26:42.040Z,"West Chile Rise",earthquake,10.81,1.904,0.066,22,reviewed,us,us
+2025-04-13T15:32:29.180Z,-21.6764,-70.2921,60.044,4.5,mwr,48,133,0.512,1.11,us,us6000q5sj,2025-06-14T18:26:42.040Z,"47 km NNW of Tocopilla, Chile",earthquake,5.41,5.404,0.058,29,reviewed,us,us
+2025-04-12T22:49:57.342Z,-31.5208,-71.4935,41.917,4.5,mb,44,138,0.527,0.8,us,us6000q5nv,2025-06-14T18:26:41.040Z,"33 km WNW of Illapel, Chile",earthquake,5.12,7.174,0.131,17,reviewed,us,us
+2025-04-12T12:09:09.059Z,-29.6615,-72.0685,10,4.6,mwr,39,148,0.766,1.08,us,us6000q5m7,2025-06-14T18:26:41.040Z,"77 km WNW of Coquimbo, Chile",earthquake,2.33,1.852,0.042,55,reviewed,us,us
+2025-04-11T23:39:09.566Z,-31.8071,-67.7338,10,4,mwr,39,49,0.84,1.45,us,us6000q5is,2025-06-14T18:26:41.040Z,"54 km ESE of Caucete, Argentina",earthquake,5.06,1.875,0.044,49,reviewed,us,us
+2025-04-11T20:12:24.162Z,-21.9849,-68.6835,132.64,4.2,mb,25,49,0.551,0.49,us,us6000q5hi,2025-06-14T18:26:41.040Z,"57 km NNE of Calama, Chile",earthquake,4.16,7.386,0.159,12,reviewed,us,us
+2025-04-11T13:10:05.417Z,-21.2281,-68.878,102.883,4.1,mb,25,65,0.598,0.93,us,us6000q5d6,2025-06-14T18:26:40.040Z,"64 km W of Ollagüe, Chile",earthquake,5.15,5.816,0.158,11,reviewed,us,us
+2025-04-10T15:40:22.364Z,-22.2228,-71.6357,10,4.5,mb,30,137,1.626,1.02,us,us6000q54q,2025-06-14T18:26:40.040Z,"149 km W of Tocopilla, Chile",earthquake,6.2,1.805,0.135,16,reviewed,us,us
+2025-04-10T10:16:55.793Z,-39.5745,-74.9178,20.668,4.3,mwr,47,99,1.19,0.63,us,us6000q53h,2025-06-14T18:26:39.040Z,"132 km WNW of Corral, Chile",earthquake,7.6,4.966,0.098,10,reviewed,us,us
+2025-04-10T02:55:07.122Z,-15.1244,-75.788,40.131,4.2,mb,13,188,7.464,0.43,us,us6000q51c,2025-06-14T18:26:39.040Z,"72 km WNW of San Juan, Peru",earthquake,11.57,10.617,0.146,13,reviewed,us,us
+2025-04-10T01:39:20.912Z,-19.9711,-69.8998,50.973,3.3,ml,9,149,0.722,0.52,us,us6000q510,2025-06-14T18:26:39.040Z,"13 km WNW of Huara, Chile",earthquake,3.42,16.571,0.085,18,reviewed,us,us
+2025-04-09T22:30:13.328Z,-32.96,-70.0906,113.014,4.1,mb,27,112,0.434,0.26,us,us6000q50f,2025-06-14T18:26:39.040Z,"49 km ESE of Los Andes, Chile",earthquake,5.24,5.693,0.234,5,reviewed,us,us
+2025-04-09T10:31:05.663Z,-22.9818,-66.8983,205.707,4.3,mb,21,93,1.181,0.85,us,us6000q4wc,2025-06-14T18:26:38.040Z,"126 km WSW of Abra Pampa, Argentina",earthquake,10.82,7.879,0.143,14,reviewed,us,us
+2025-04-09T06:00:43.289Z,-27.9517,-66.8653,144.24,4.2,mb,29,46,3.475,0.78,us,us6000q4vm,2025-06-14T18:26:38.040Z,"37 km SE of Londres, Argentina",earthquake,7.37,9.758,0.141,14,reviewed,us,us
+2025-04-09T00:58:28.561Z,-35.0973,-74.036,10,4.5,mb,29,193,2.239,0.47,us,us6000q4uw,2025-06-14T18:26:38.040Z,"150 km W of Constitución, Chile",earthquake,7.77,1.955,0.18,9,reviewed,us,us
+2025-04-08T22:30:44.413Z,-21.0931,-68.3874,120.995,5,mww,115,40,1.028,0.69,us,us6000q4ui,2025-06-09T13:38:44.040Z,"20 km NW of Ollagüe, Chile",earthquake,5.76,3.344,0.062,25,reviewed,us,us
+2025-04-08T21:13:39.051Z,-24.3689,-67.433,209.561,4.4,mb,22,103,1.568,0.73,us,us6000q4ua,2025-06-09T13:38:44.040Z,"114 km W of San Antonio de los Cobres, Argentina",earthquake,8.7,7.874,0.189,8,reviewed,us,us
+2025-04-08T20:11:07.288Z,-24.1385,-66.8722,190.322,4.1,mb,30,112,1.683,0.92,us,us6000q4t8,2025-06-09T13:38:44.040Z,"56 km W of San Antonio de los Cobres, Argentina",earthquake,10.31,9.26,0.174,9,reviewed,us,us
+2025-04-08T10:28:42.869Z,-17.9112,-69.8159,135.305,4.8,mb,151,87,0.678,0.78,us,us6000q4q9,2025-06-09T13:38:44.040Z,"21 km SE of Palca, Peru",earthquake,7.08,5.874,0.032,296,reviewed,us,us
+2025-04-08T08:43:28.025Z,-16.9705,-72.6554,56.975,4.2,mb,34,140,2.608,1.17,us,us6000q4q0,2025-06-09T13:38:44.040Z,"36 km SW of Quilca, Peru",earthquake,7.86,9.827,0.128,17,reviewed,us,us
+2025-04-07T15:53:49.493Z,-19.9528,-68.903,113.504,4,mb,20,93,0.301,0.43,us,us6000q4j0,2025-06-09T13:38:43.040Z,"79 km SSW of Colchane, Chile",earthquake,5.79,4.106,0.195,7,reviewed,us,us
+2025-04-06T11:34:58.026Z,-22.8463,-66.2954,250.492,4.2,mb,40,84,1.74,0.64,us,us6000q4dn,2025-06-09T13:38:42.040Z,"63 km WSW of Abra Pampa, Argentina",earthquake,5.08,8.617,0.118,20,reviewed,us,us
+2025-04-05T11:22:06.656Z,-33.7547,-72.129,26.938,4.1,mwr,31,139,0.44,0.79,us,us6000q48b,2025-06-09T13:38:41.040Z,"51 km WSW of San Antonio, Chile",earthquake,3.47,4.458,0.047,43,reviewed,us,us
+2025-04-05T10:12:43.966Z,-46.0708,-75.2496,10,4.3,mb,18,249,1.528,0.47,us,us6000q482,2025-06-09T13:38:41.040Z,"200 km WSW of Puerto Chacabuco, Chile",earthquake,8.15,1.998,0.148,13,reviewed,us,us
+2025-04-05T04:02:31.502Z,-23.9672,-66.6419,198.677,4.2,mb,28,83,1.736,0.86,us,us6000q46n,2025-06-09T13:38:41.040Z,"43 km NW of San Antonio de los Cobres, Argentina",earthquake,10.19,9.176,0.199,7,reviewed,us,us
+2025-04-05T01:28:28.696Z,-17.4398,-70.509,91.841,4.4,mb,30,160,0.939,0.86,us,us6000q465,2025-06-09T13:38:41.040Z,"2 km SSE of Ilabaya, Peru",earthquake,10.72,8.935,0.117,21,reviewed,us,us
+2025-04-04T10:35:19.280Z,-21.5919,-68.6738,114.486,4.4,mb,59,79,0.566,0.43,us,us6000q3wt,2025-06-09T13:38:40.040Z,"59 km SW of Ollagüe, Chile",earthquake,5.02,5.227,0.078,48,reviewed,us,us
+2025-04-04T08:29:02.156Z,-22.2474,-68.8767,110.5,4.2,mb,19,49,0.562,0.47,us,us6000q3wf,2025-06-09T13:38:40.040Z,"23 km NNE of Calama, Chile",earthquake,4.72,4.812,0.176,9,reviewed,us,us
+2025-04-04T03:07:51.680Z,-21.1572,-68.6999,123.928,4.2,mb,28,53,0.744,0.91,us,us6000q3v6,2025-06-09T13:38:40.040Z,"46 km W of Ollagüe, Chile",earthquake,5.29,7.36,0.153,12,reviewed,us,us
+2025-04-04T01:37:04.622Z,-16.2093,-72.6003,81.611,4.9,mb,47,145,3.045,0.98,us,us6000q3ux,2025-06-09T13:38:39.040Z,"39 km S of Iray, Peru",earthquake,10.71,7.672,0.087,42,reviewed,us,us
+2025-04-03T20:58:01.971Z,-22.0429,-68.5919,112.773,4.8,mwr,82,38,0.651,0.89,us,us6000q3t7,2025-06-09T13:38:39.040Z,"57 km NE of Calama, Chile",earthquake,5.17,4.76,0.065,23,reviewed,us,us
+2025-04-03T03:46:33.092Z,-29.7373,-71.8266,44.955,4.2,mb,33,177,0.542,0.81,us,us6000q3kx,2025-06-09T13:38:39.040Z,"52 km WNW of Coquimbo, Chile",earthquake,4.34,8.356,0.159,11,reviewed,us,us
+2025-04-02T15:35:33.163Z,-22.8756,-66.5681,221.305,4.2,mb,58,72,1.487,1,us,us7000ppg5,2025-06-09T13:38:49.040Z,"91 km W of Abra Pampa, Argentina",earthquake,8.91,6.841,0.082,42,reviewed,us,us
+2025-04-01T20:37:03.803Z,-15.5795,-70.2385,221.613,4.2,mb,27,171,2.147,0.65,us,us6000q5es,2025-06-06T21:12:23.040Z,"11 km NE of Cabana, Peru",earthquake,11.82,11.299,0.137,15,reviewed,us,us
+2025-03-31T17:49:39.637Z,-21.6425,-68.6241,119.459,4.4,mb,28,84,0.594,1.09,us,us7000pp2r,2025-06-06T21:12:29.040Z,"60 km SW of Ollagüe, Chile",earthquake,4.46,4.276,0.139,15,reviewed,us,us
+2025-03-31T15:58:26.800Z,-23.7114,-66.7717,203.712,4.5,mb,52,52,1.498,1.14,us,us7000pp14,2025-06-06T21:12:29.040Z,"72 km NW of San Antonio de los Cobres, Argentina",earthquake,9.25,7.397,0.06,83,reviewed,us,us
+2025-03-31T12:14:17.416Z,-25.7365,-71.0501,19.149,4.5,mb,37,133,0.577,0.67,us,us7000pp0k,2025-06-06T21:12:29.040Z,"67 km WSW of Taltal, Chile",earthquake,5.25,4.711,0.116,22,reviewed,us,us
+2025-03-31T05:59:21.285Z,-17.7148,-69.659,160.009,4.4,mb,63,99,0.921,0.72,us,us7000pnz7,2025-06-06T21:12:28.040Z,"32 km ENE of Palca, Peru",earthquake,7.62,7.112,0.075,52,reviewed,us,us
+2025-03-30T23:41:47.755Z,-18.404,-71.3551,27.468,4,mwr,25,135,0.963,0.77,us,us7000pnxw,2025-06-06T21:12:28.040Z,"83 km S of Pacocha, Peru",earthquake,5.41,5.066,0.083,14,reviewed,us,us
+2025-03-30T17:17:53.889Z,-22.442,-66.0571,272.203,4.4,mb,28,75,2.024,0.88,us,us7000pnwa,2025-06-06T21:12:28.040Z,"48 km NW of Abra Pampa, Argentina",earthquake,7.53,8.784,0.169,10,reviewed,us,us
+2025-03-30T11:09:06.485Z,-22.8053,-70.5312,26.709,4.1,mb,40,152,0.891,0.8,us,us7000pntb,2025-06-06T21:12:28.040Z,"33 km NNW of Mejillones, Chile",earthquake,5.1,7.972,0.165,10,reviewed,us,us
+2025-03-30T07:31:36.144Z,-24.024,-66.9717,202.252,4.2,mb,33,73,1.539,1.22,us,us7000pnsc,2025-06-06T21:12:27.040Z,"69 km WNW of San Antonio de los Cobres, Argentina",earthquake,5.69,7.816,0.137,15,reviewed,us,us
+2025-03-29T20:37:56.620Z,-22.2556,-67.665,194.304,4.4,mb,23,72,0.84,0.36,us,us7000pnpt,2025-06-06T21:12:27.040Z,"91 km NE of San Pedro de Atacama, Chile",earthquake,9.22,9.14,0.269,4,reviewed,us,us
+2025-03-29T08:17:13.052Z,-22.9402,-66.3768,229.305,4.3,mb,58,49,1.661,0.77,us,us7000pnk7,2025-06-06T21:12:27.040Z,"73 km WSW of Abra Pampa, Argentina",earthquake,8.4,8.255,0.109,24,reviewed,us,us
+2025-03-29T08:01:19.962Z,-26.4522,-71.4293,46.884,4.2,mb,20,141,0.805,0.43,us,us7000pnk3,2025-06-06T21:12:27.040Z,"138 km W of Diego de Almagro, Chile",earthquake,5.79,9.171,0.199,7,reviewed,us,us
+2025-03-29T07:20:25.729Z,-34.9358,-73.5769,10,4.1,mb,20,146,1.948,0.79,us,us7000pnjq,2025-06-06T21:12:27.040Z,"114 km WNW of Constitución, Chile",earthquake,7.21,1.941,0.234,5,reviewed,us,us
+2025-03-28T18:54:19.043Z,-30.752,-67.3423,10,4.3,mb,28,167,1.387,0.8,us,us7000pnft,2025-06-06T21:12:26.040Z,"17 km SE of San Agustín de Valle Fértil, Argentina",earthquake,7.19,1.949,0.377,3,reviewed,us,us
+2025-03-28T05:17:13.140Z,-31.7224,-69.2335,125.938,4.2,mb,36,46,0.511,1.14,us,us7000pn9d,2025-06-06T21:12:25.040Z,"46 km SSE of Calingasta, Argentina",earthquake,4.38,3.556,0.152,12,reviewed,us,us
+2025-03-27T07:12:09.383Z,-16.1399,-69.7718,213.696,4.4,mb,64,124,1.584,0.7,us,us7000pmzv,2025-06-06T21:12:25.040Z,"12 km WSW of Ilave, Peru",earthquake,8.34,6.956,0.065,68,reviewed,us,us
+2025-03-26T10:35:46.628Z,-23.1321,-68.4203,121.072,4.1,mb,19,91,0.286,0.62,us,us7000pmqb,2025-06-06T21:12:24.040Z,"33 km SW of San Pedro de Atacama, Chile",earthquake,6.87,4.9,0.151,12,reviewed,us,us
+2025-03-26T09:29:38.330Z,-16.4074,-72.3849,108.49,4.1,mb,13,185,2.76,0.79,us,us7000pmq3,2025-06-06T21:12:24.040Z,"21 km WSW of El Pedregal, Peru",earthquake,6.04,17.562,0.135,15,reviewed,us,us
+2025-03-26T07:16:17.809Z,-52.3996,-71.6814,13.919,4.5,mb,26,164,0.463,0.87,us,us7000pmpf,2025-06-06T21:12:24.040Z,"93 km SE of Puerto Natales, Chile",earthquake,5.15,5.051,0.121,20,reviewed,us,us
+2025-03-25T22:55:53.097Z,-20.2166,-69.1246,99.584,5.3,mww,107,43,0.08,0.61,us,us7000pmm9,2025-05-29T17:36:33.040Z,"57 km ENE of La Tirana, Chile",earthquake,4.94,3.505,0.06,27,reviewed,us,us
+2025-03-25T22:50:57.548Z,-22.8276,-68.6992,105.536,4.1,mb,16,75,0.496,0.37,us,us7000pmm6,2025-05-29T17:36:33.040Z,"47 km SSE of Calama, Chile",earthquake,4.71,5.088,0.214,6,reviewed,us,us
+2025-03-24T17:17:21.440Z,-40.0437,-74.9994,15.872,4.5,mb,40,149,1.22,0.51,us,us7000pmak,2025-05-29T17:36:31.040Z,"135 km W of Corral, Chile",earthquake,7.43,4.888,0.14,15,reviewed,us,us
+2025-03-24T06:39:08.408Z,-31.5905,-69.6748,118.185,4.2,mb,42,83,0.858,0.99,us,us7000pm6a,2025-05-29T17:36:30.040Z,"37 km SW of Calingasta, Argentina",earthquake,5.83,6.646,0.128,17,reviewed,us,us
+2025-03-24T04:35:09.150Z,-29.7106,-71.3044,79.842,5.1,mww,200,70,0.215,0.67,us,us7000pm5f,2025-05-29T17:36:30.040Z,"22 km NNW of La Serena, Chile",earthquake,5.98,3.915,0.063,24,reviewed,us,us
+2025-03-24T03:37:45.277Z,-36.8733,-73.4641,26.862,4.4,mb,38,147,1.772,0.46,us,us7000pm53,2025-05-29T17:36:30.040Z,"33 km WNW of Coronel, Chile",earthquake,6.74,5.578,0.115,22,reviewed,us,us
+2025-03-24T01:26:40.850Z,-20.7806,-67.3821,191.355,4.1,mb,26,92,1.778,0.62,us,us7000pm4n,2025-05-29T17:36:30.040Z,"68 km WSW of Uyuni, Bolivia",earthquake,7.85,10.048,0.124,18,reviewed,us,us
+2025-03-22T07:29:44.065Z,-21.0508,-68.6335,145.066,4.1,mb,16,73,0.798,0.63,us,us7000plth,2025-05-29T17:36:28.040Z,"43 km WNW of Ollagüe, Chile",earthquake,6.7,6.445,0.151,12,reviewed,us,us
+2025-03-21T13:59:03.311Z,-20.4447,-69.0793,101.265,4.5,mwr,55,72,0.31,1.13,us,us7000pllj,2025-05-29T17:36:27.040Z,"61 km E of La Tirana, Chile",earthquake,5.52,2.826,0.078,16,reviewed,us,us
+2025-03-21T01:04:18.465Z,-15.658,-71.7564,10,4.6,mb,33,125,3.018,1.06,us,us7000plh1,2025-05-29T17:36:27.040Z,"2 km SE of Maca, Peru",earthquake,7.63,1.926,0.097,32,reviewed,us,us
+2025-03-20T07:35:08.318Z,-18.718,-69.7153,119.83,4,mb,16,108,0.687,0.41,us,us6000pzy1,2025-05-29T17:36:25.040Z,"67 km ESE of Arica, Chile",earthquake,6.11,6.454,0.139,14,reviewed,us,us
+2025-03-20T07:19:04.006Z,-27.1931,-69.6166,104.45,4.4,mb,23,86,0.677,0.99,us,us6000pzxw,2025-05-29T17:36:25.040Z,"73 km ENE of Copiapó, Chile",earthquake,6.08,4.742,0.138,15,reviewed,us,us
+2025-03-20T04:35:26.326Z,-30.0605,-71.4079,72.593,4.2,mb,29,131,0.204,0.87,us,us6000pzwd,2025-05-29T17:36:24.040Z,"13 km SSW of Coquimbo, Chile",earthquake,4.88,5.286,0.235,5,reviewed,us,us
+2025-03-20T03:34:31.526Z,-16.9425,-69.5275,177.739,4.1,mb,15,153,1.385,0.76,us,us6000pzvx,2025-05-29T17:36:24.040Z,"29 km SE of Mazo Cruz, Peru",earthquake,9.66,6.476,0.151,12,reviewed,us,us
+2025-03-19T12:31:09.089Z,-15.8546,-69.6066,239.823,4.1,mb,19,128,1.483,0.41,us,us7000pn46,2025-05-29T17:36:34.040Z,"12 km SE of Taquile, Peru",earthquake,14.35,12.852,0.135,15,reviewed,us,us
+2025-03-18T22:51:26.624Z,-35.9492,-72.4603,51.532,4.2,mb,37,101,0.867,0.57,us,us6000pzni,2025-05-17T19:20:01.040Z,"12 km W of Cauquenes, Chile",earthquake,3.79,10.463,0.187,8,reviewed,us,us
+2025-03-18T21:17:48.760Z,-30.0662,-71.283,68.436,5.3,mww,129,64,0.152,0.83,us,us6000pzn5,2025-05-17T19:20:01.040Z,"13 km SSE of Coquimbo, Chile",earthquake,4.61,3.532,0.068,21,reviewed,us,us
+2025-03-18T20:25:38.494Z,-28.405,-69.1048,98.524,4.8,mb,100,40,1.521,0.88,us,us6000pzn1,2025-05-17T19:20:01.040Z,"96 km WNW of Vinchina, Argentina",earthquake,6.6,5.29,0.075,56,reviewed,us,us
+2025-03-18T05:30:55.010Z,-22.1115,-67.2329,184.688,4.6,mb,87,30,1.21,0.95,us,us6000pzif,2025-05-17T19:20:00.040Z,"133 km NE of San Pedro de Atacama, Chile",earthquake,6.56,6.415,0.043,158,reviewed,us,us
+2025-03-16T21:50:23.560Z,-29.2657,-69.5687,104.6,4.8,mwr,120,58,0.844,0.7,us,us6000pz83,2025-05-17T19:19:59.040Z,"134 km NW of San José de Jáchal, Argentina",earthquake,6.22,4.064,0.073,18,reviewed,us,us
+2025-03-16T02:20:52.177Z,-16.0227,-73.3889,84.259,4.6,mb,45,139,3.733,0.83,us,us6000pz40,2025-05-17T19:19:59.040Z,"23 km W of Urasqui, Peru",earthquake,10.06,8.304,0.06,82,reviewed,us,us
+2025-03-16T01:27:09.144Z,-20.1839,-69.2154,102.502,4.8,mww,55,82,0.072,0.94,us,us6000pz3q,2025-05-17T19:19:59.040Z,"49 km ENE of La Tirana, Chile",earthquake,5.27,4.535,0.086,13,reviewed,us,us
+2025-03-16T00:22:23.047Z,-32.4537,-71.6882,55.149,4.3,mb,49,73,0.568,0.55,us,us6000pz3h,2025-05-17T19:19:59.040Z,"42 km W of La Ligua, Chile",earthquake,4.64,7.542,0.148,13,reviewed,us,us
+2025-03-16T00:16:08.395Z,-27.6058,-66.0228,10,4.5,mb,46,44,3.856,0.94,us,us6000pz3g,2025-05-17T19:19:59.040Z,"29 km E of Andalgalá, Argentina",earthquake,7.33,1.899,0.164,11,reviewed,us,us
+2025-03-15T14:09:41.952Z,-24.1412,-67.4669,192.792,4.5,mb,19,164,1.352,0.69,us,us6000pz1f,2025-05-17T19:19:58.040Z,"116 km W of San Antonio de los Cobres, Argentina",earthquake,11.65,10.173,0.156,12,reviewed,us,us
+2025-03-15T12:50:54.338Z,-24.0262,-67.1102,199.306,4.3,mb,20,120,1.451,0.75,us,us6000pz17,2025-05-17T19:19:58.040Z,"83 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.85,11.813,0.201,7,reviewed,us,us
+2025-03-15T03:36:38.701Z,-21.8461,-68.4767,118.278,4.6,mwr,60,43,0.713,0.97,us,us6000pyz7,2025-05-17T19:19:58.040Z,"72 km SSW of Ollagüe, Chile",earthquake,6.75,5.425,0.066,22,reviewed,us,us
+2025-03-14T22:48:37.687Z,-30.4413,-72.1808,10,3.9,mwr,37,156,0.525,0.84,us,us6000pyxm,2025-05-17T19:19:58.040Z,"95 km W of Ovalle, Chile",earthquake,3.78,1.9,0.052,36,reviewed,us,us
+2025-03-14T13:35:04.643Z,-20.3166,-70.0683,49.867,3.6,ml,11,163,0.508,0.94,us,us6000pyt4,2025-05-17T19:19:58.040Z,"6 km SE of Alto Hospicio, Chile",earthquake,4.41,10.141,0.077,22,reviewed,us,us
+2025-03-14T11:36:37.710Z,-21.3739,-68.5945,132.869,4.3,mb,43,48,0.735,0.72,us,us6000pysl,2025-05-17T19:19:58.040Z,"39 km WSW of Ollagüe, Chile",earthquake,5.63,5.553,0.105,27,reviewed,us,us
+2025-03-14T07:58:27.103Z,-21.0609,-68.524,132.949,4.4,mb,26,92,0.9,0.74,us,us6000pys2,2025-05-17T19:19:57.040Z,"33 km WNW of Ollagüe, Chile",earthquake,6,6.726,0.13,17,reviewed,us,us
+2025-03-14T06:06:11.479Z,-17.5706,-69.4693,154.597,4.4,mb,39,98,1.15,0.87,us,us6000pyrr,2025-05-17T19:19:57.040Z,"56 km ENE of Palca, Peru",earthquake,7.52,2.341,0.083,42,reviewed,us,us
+2025-03-14T04:04:40.421Z,-14.0067,-72.8231,91.567,4.8,mb,63,77,4.401,1.06,us,us6000pyr6,2025-05-17T19:19:57.040Z,"15 km SSE of Circa, Peru",earthquake,8.74,6.488,0.046,147,reviewed,us,us
+2025-03-13T20:00:27.883Z,-21.4876,-67.5115,219.976,4,mb,30,47,1.583,0.82,us,us6000pynp,2025-05-17T19:19:57.040Z,"82 km ESE of Ollagüe, Chile",earthquake,8.28,7.701,0.196,7,reviewed,us,us
+2025-03-13T11:14:43.565Z,-30.8882,-71.6689,53.615,4.2,mb,33,96,0.216,1.13,us,us6000pyju,2025-05-17T19:19:57.040Z,"55 km SW of Ovalle, Chile",earthquake,6.13,5.165,0.263,7,reviewed,us,us
+2025-03-13T08:54:35.756Z,-24.2118,-67.1382,189.485,4.1,mb,17,165,1.576,1.13,us,us6000pyj9,2025-05-17T19:19:57.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,10.94,10.017,0.234,5,reviewed,us,us
+2025-03-13T08:15:29.706Z,-36.2357,-73.5044,30.679,3.9,mwr,22,201,1.756,0.48,us,us6000pyiv,2025-05-17T19:19:57.040Z,"64 km NNW of Talcahuano, Chile",earthquake,6.98,8.443,0.062,25,reviewed,us,us
+2025-03-13T00:13:33.568Z,-41.5641,-88.7134,10,4.4,mb,24,155,12.58,0.63,us,us7000plmg,2025-05-17T19:20:02.040Z,"West Chile Rise",earthquake,14.67,1.899,0.139,15,reviewed,us,us
+2025-03-12T23:53:33.422Z,-27.7822,-66.5799,165.538,4.2,mb,17,105,3.377,0.95,us,us6000pyh5,2025-05-17T19:19:57.040Z,"34 km SW of Andalgalá, Argentina",earthquake,7.94,11.964,0.176,9,reviewed,us,us
+2025-03-12T17:12:46.126Z,-20.2831,-69.2551,96.353,4.1,mb,21,60,0.171,0.74,us,us6000pyd9,2025-05-17T19:19:57.040Z,"42 km E of La Tirana, Chile",earthquake,4.66,4.94,0.233,5,reviewed,us,us
+2025-03-11T03:36:31.743Z,-20.4682,-68.0993,186.645,4.2,mb,22,82,1.041,0.76,us,us6000py2m,2025-05-16T17:30:05.040Z,"85 km N of Ollagüe, Chile",earthquake,8.95,8.416,0.158,11,reviewed,us,us
+2025-03-11T03:03:22.655Z,-21.221,-68.565,130.563,4.2,mb,29,67,0.851,0.77,us,us6000py2i,2025-05-16T17:30:05.040Z,"32 km W of Ollagüe, Chile",earthquake,5.87,5.729,0.121,19,reviewed,us,us
+2025-03-11T02:28:10.943Z,-22.8133,-63.7787,530.579,4.7,mb,121,39,4.06,0.64,us,us6000py2e,2025-05-16T17:30:05.040Z,"24 km S of General Mosconi, Argentina",earthquake,10.97,4.094,0.058,91,reviewed,us,us
+2025-03-10T22:53:13.832Z,-24.1022,-66.886,181.984,4.8,mb,118,52,1.649,0.67,us,us6000py1p,2025-05-16T17:30:05.040Z,"59 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.77,4.86,0.036,245,reviewed,us,us
+2025-03-10T05:04:53.262Z,-30.8579,-71.4622,59.472,4.7,mb,88,136,0.236,0.76,us,us6000pxwh,2025-05-16T17:30:04.040Z,"38 km SW of Ovalle, Chile",earthquake,5.03,4.882,0.061,81,reviewed,us,us
+2025-03-09T21:59:11.627Z,-15.8213,-69.573,259.892,4.5,mb,19,127,1.462,0.7,us,us6000pxus,2025-05-16T17:30:04.040Z,"13 km ESE of Taquile, Peru",earthquake,12.22,9.501,0.127,18,reviewed,us,us
+2025-03-09T21:37:36.311Z,-15.3594,-71.8491,132.442,4.2,mb,17,113,3.324,0.41,us,us6000pzly,2025-05-16T17:30:06.040Z,"26 km NNE of Tapay, Peru",earthquake,9.1,6.739,0.16,11,reviewed,us,us
+2025-03-09T19:08:17.020Z,-29.8441,-72.1268,15.254,4.3,mb,29,145,0.775,0.75,us,us6000pxtx,2025-05-16T17:30:04.040Z,"77 km W of Coquimbo, Chile",earthquake,4.06,5.386,0.202,7,reviewed,us,us
+2025-03-09T11:03:04.291Z,-18.6092,-71.1124,53.177,4.2,mb,18,161,0.769,0.92,us,us6000pxsa,2025-05-16T17:30:04.040Z,"87 km W of Arica, Chile",earthquake,7.11,11.439,0.199,7,reviewed,us,us
+2025-03-09T08:06:32.935Z,-17.9698,-70.0764,107.738,4.7,mb,42,129,0.472,1.05,us,us6000pxry,2025-05-16T17:30:03.040Z,"12 km ESE of Calana, Peru",earthquake,9.01,6.477,0.07,63,reviewed,us,us
+2025-03-09T01:14:44.817Z,-28.7748,-71.5321,35,4.3,mb,28,162,0.697,0.83,us,us6000pxqe,2025-05-16T17:30:03.040Z,"78 km WSW of Vallenar, Chile",earthquake,3.84,1.689,0.188,8,reviewed,us,us
+2025-03-08T10:35:54.933Z,-24.1935,-67.5366,193.429,4.4,mb,17,101,1.369,1.11,us,us6000pxm6,2025-05-16T17:30:03.040Z,"123 km W of San Antonio de los Cobres, Argentina",earthquake,11.27,8.278,0.144,15,reviewed,us,us
+2025-03-08T08:57:44.535Z,-22.9462,-68.9604,112.978,4.3,mb,21,98,0.613,0.61,us,us6000pxlw,2025-05-16T17:30:03.040Z,"54 km S of Calama, Chile",earthquake,6.4,7.241,0.129,17,reviewed,us,us
+2025-03-08T06:49:28.373Z,-20.2809,-69.01,104.629,4.1,mb,15,74,0.194,0.43,us,us6000pxlj,2025-05-16T17:30:02.040Z,"67 km E of La Tirana, Chile",earthquake,7.51,4.679,0.157,11,reviewed,us,us
+2025-03-08T03:04:12.311Z,-19.1258,-69.3754,107.462,4.1,mb,23,105,0.566,0.87,us,us6000pxkm,2025-05-16T17:30:02.040Z,"21 km NNE of Camiña, Chile",earthquake,7.55,4.416,0.174,10,reviewed,us,us
+2025-03-08T02:25:40.436Z,-24.0276,-66.9424,225.543,4.2,mb,23,72,1.56,0.85,us,us6000pxkh,2025-05-16T17:30:02.040Z,"66 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.35,11.562,0.214,6,reviewed,us,us
+2025-03-08T00:13:31.223Z,-17.6306,-69.6521,152.365,4.7,mb,50,91,0.986,0.72,us,us6000pxk5,2025-05-16T17:30:02.040Z,"36 km ENE of Palca, Peru",earthquake,7.57,6.362,0.058,90,reviewed,us,us
+2025-03-07T13:08:10.125Z,-19.6847,-69.1931,105.72,4.2,mb,41,101,0.016,1.14,us,us6000pxei,2025-05-16T17:30:02.040Z,"47 km SSE of Camiña, Chile",earthquake,5.42,4.066,0.132,16,reviewed,us,us
+2025-03-07T12:17:52.410Z,-14.5617,-72.0456,114.325,5.4,mww,133,54,4.125,1.16,us,us6000pxeb,2025-05-16T17:30:02.040Z,"12 km NNW of Cayarani, Peru",earthquake,7.83,4.221,0.049,40,reviewed,us,us
+2025-03-07T04:27:52.636Z,-23.8444,-66.658,187.052,4.9,mww,90,36,1.656,1.24,us,us6000pxcz,2025-05-16T17:30:02.040Z,"53 km NW of San Antonio de los Cobres, Argentina",earthquake,6.45,6.238,0.068,21,reviewed,us,us
+2025-03-06T16:21:39.333Z,-23.3399,-69.0636,96,6,mww,137,26,0.786,0.81,us,us6000px89,2025-05-16T17:30:02.040Z,"98 km S of Calama, Chile",earthquake,6.32,1.836,0.037,72,reviewed,us,us
+2025-03-06T04:02:22.118Z,-15.4071,-73.9926,69.899,4.2,mb,29,143,4.384,0.86,us,us6000px5b,2025-05-16T17:30:01.040Z,"28 km SW of Pullo, Peru",earthquake,9.88,10.232,0.132,16,reviewed,us,us
+2025-03-06T01:59:07.785Z,-22.2586,-68.6514,108.792,4.2,mb,15,110,0.715,0.48,us,us6000px4z,2025-05-16T17:30:01.040Z,"35 km NE of Calama, Chile",earthquake,4.19,6.386,0.199,7,reviewed,us,us
+2025-03-05T14:10:50.280Z,-29.2907,-71.2772,64.867,4.4,mb,47,136,0.576,0.51,us,us6000px12,2025-05-16T17:30:01.040Z,"68 km N of La Serena, Chile",earthquake,4.48,5.65,0.123,23,reviewed,us,us
+2025-03-05T13:53:32.427Z,-23.2233,-67.0978,238.635,4,mb,14,170,1.031,0.51,us,us6000px11,2025-05-16T17:30:01.040Z,"118 km ESE of San Pedro de Atacama, Chile",earthquake,10.43,11.812,0.367,2,reviewed,us,us
+2025-03-05T10:01:59.466Z,-31.5462,-71.4709,49.791,4.8,mwr,78,137,0.528,0.61,us,us6000px0b,2025-05-16T17:30:01.040Z,"30 km WNW of Illapel, Chile",earthquake,3.95,5.205,0.053,34,reviewed,us,us
+2025-03-05T04:06:01.872Z,-19.9851,-70.0884,51.782,4.3,mb,28,141,0.833,0.91,us,us6000pwyv,2025-05-16T17:30:01.040Z,"24 km NNE of Barrio Industrial, Chile",earthquake,3.13,7.999,0.116,21,reviewed,us,us
+2025-03-05T00:21:00.319Z,-24.5029,-69.0109,98.188,4.3,mb,28,105,0.842,0.98,us,us6000pwy0,2025-05-16T17:30:00.040Z,"169 km ESE of Antofagasta, Chile",earthquake,7.22,6.388,0.109,24,reviewed,us,us
+2025-03-04T19:33:19.668Z,-20.0021,-67.9373,176.335,4.2,mb,25,72,1.151,0.65,us,us6000pwve,2025-05-08T19:24:47.040Z,"108 km SE of Colchane, Chile",earthquake,6.44,8.379,0.176,9,reviewed,us,us
+2025-03-04T14:11:54.003Z,-23.0337,-67.0449,267.62,4.3,mb,23,87,1.048,0.65,us,us6000pwsw,2025-05-08T19:24:46.040Z,"119 km E of San Pedro de Atacama, Chile",earthquake,6.2,8.792,0.217,6,reviewed,us,us
+2025-03-03T19:16:43.595Z,-33.9171,-72.466,18.572,4.4,mwr,45,144,1.012,0.98,us,us6000pwp4,2025-05-08T19:24:46.040Z,"87 km WSW of San Antonio, Chile",earthquake,4.93,2.428,0.044,50,reviewed,us,us
+2025-03-03T15:18:32.869Z,-12.4827,-77.2118,47.341,4.6,mb,39,148,0.611,0.51,us,us6000pwn2,2025-05-08T19:24:46.040Z,"44 km SSW of Santiago de Surco, Peru",earthquake,9.53,4.95,0.094,34,reviewed,us,us
+2025-03-03T09:30:08.269Z,-16.7402,-69.6685,163.009,4.6,mb,63,118,1.542,0.73,us,us6000pwks,2025-05-08T19:24:45.040Z,"5 km E of Mazo Cruz, Peru",earthquake,5.76,7.66,0.072,58,reviewed,us,us
+2025-03-03T04:40:34.305Z,-22.7866,-66.951,200.505,4.6,mb,32,71,1.144,1.21,us,us6000pwjp,2025-05-08T19:24:45.040Z,"129 km W of Abra Pampa, Argentina",earthquake,9.12,8.017,0.111,24,reviewed,us,us
+2025-03-02T22:23:18.415Z,-20.701,-69.5885,89.351,4.6,mb,46,52,0.353,0.63,us,us6000pwi1,2025-05-08T19:24:45.040Z,"41 km S of La Tirana, Chile",earthquake,3.89,5.085,0.067,67,reviewed,us,us
+2025-03-02T05:59:05.586Z,-22.4324,-68.6523,115.197,4.3,mb,18,57,0.677,0.82,us,us6000pweg,2025-05-08T19:24:44.040Z,"28 km E of Calama, Chile",earthquake,4.5,5.432,0.187,8,reviewed,us,us
+2025-03-01T09:22:15.960Z,-33.2049,-71.2698,61.251,4.2,mb,30,115,0.123,0.44,us,us6000pw96,2025-05-08T19:24:43.040Z,"20 km SSE of Villa Alemana, Chile",earthquake,2.9,4.578,0.199,7,reviewed,us,us
+2025-03-01T07:15:55.197Z,-21.7883,-68.546,123.298,4.4,mb,33,75,0.647,0.67,us,us6000pw8e,2025-05-08T19:24:43.040Z,"69 km SSW of Ollagüe, Chile",earthquake,5.33,5.127,0.089,37,reviewed,us,us
+2025-02-28T16:25:11.126Z,-42.6731,-83.3087,10,4.9,mb,32,71,7.495,0.56,us,us6000pxgp,2025-05-08T19:24:48.040Z,"West Chile Rise",earthquake,11.65,1.819,0.071,69,reviewed,us,us
+2025-02-27T15:59:03.806Z,-23.1848,-68.7823,98.318,4.2,mb,21,80,0.602,0.76,us,us6000pvu4,2025-05-08T19:24:42.040Z,"66 km WSW of San Pedro de Atacama, Chile",earthquake,3.74,6.881,0.176,9,reviewed,us,us
+2025-02-27T01:30:29.817Z,-14.5518,-77.241,10,4.6,mb,53,153,2.578,0.94,us,us6000pvqt,2025-05-08T19:24:41.040Z,"129 km SW of Paracas, Peru",earthquake,9.37,1.912,0.084,42,reviewed,us,us
+2025-02-26T21:23:52.453Z,-28.4493,-68.8684,114.5,4.3,mb,31,81,1.703,0.74,us,us6000pvpj,2025-05-08T19:24:41.040Z,"73 km WNW of Vinchina, Argentina",earthquake,7.45,8.23,0.119,20,reviewed,us,us
+2025-02-26T10:44:26.160Z,-23.5218,-67.9465,129.264,4.2,mb,15,99,0.606,0.53,us,us6000pvkm,2025-05-08T19:24:41.040Z,"72 km SSE of San Pedro de Atacama, Chile",earthquake,6.6,8.479,0.147,13,reviewed,us,us
+2025-02-26T10:13:00.293Z,-23.9826,-66.9868,211.158,4.1,mb,12,208,1.5,0.5,us,us6000pvkj,2025-05-08T19:24:41.040Z,"72 km WNW of San Antonio de los Cobres, Argentina",earthquake,13.94,11.968,0.26,4,reviewed,us,us
+2025-02-26T10:01:54.500Z,-20.4576,-67.2666,256.572,4.1,mb,15,163,1.799,0.38,us,us6000pvkg,2025-05-08T19:24:41.040Z,"38 km WSW of Colchani, Bolivia",earthquake,13.14,9.777,0.198,7,reviewed,us,us
+2025-02-26T05:53:41.563Z,-19.6868,-69.2398,110.238,4.1,mb,34,104,0.047,0.73,us,us6000pvj4,2025-05-08T19:24:40.040Z,"45 km SSE of Camiña, Chile",earthquake,6.88,4.43,0.131,16,reviewed,us,us
+2025-02-25T21:10:34.266Z,-27.5244,-69.6524,112.172,4.5,mb,15,75,1.144,0.62,us,us6000pvfy,2025-05-06T21:39:13.040Z,"69 km ESE of Copiapó, Chile",earthquake,7.28,3.596,0.204,7,reviewed,us,us
+2025-02-25T20:41:15.255Z,-33.3259,-72.9705,10,4.6,mb,55,147,1.15,0.73,us,us6000pvfs,2025-05-06T21:39:13.040Z,"129 km WSW of Valparaíso, Chile",earthquake,5.82,1.905,0.102,29,reviewed,us,us
+2025-02-25T14:54:17.529Z,-23.9019,-66.9048,213.706,4.3,mb,25,88,1.504,0.7,us,us6000pvcm,2025-05-06T21:39:13.040Z,"69 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.25,10.598,0.189,9,reviewed,us,us
+2025-02-25T05:41:00.002Z,-12.0643,-71.5358,10,4.6,mb,84,90,4.458,0.95,us,us6000pvah,2025-05-06T21:39:13.040Z,"87 km NNW of Salvación, Peru",earthquake,7.7,1.879,0.053,108,reviewed,us,us
+2025-02-24T21:03:12.019Z,-31.3001,-68.1647,109.666,4.1,mb,23,73,0.507,0.73,us,us6000pv7n,2025-05-06T21:39:12.040Z,"35 km ENE of San Martín, Argentina",earthquake,7.86,4.001,0.233,5,reviewed,us,us
+2025-02-24T21:00:08.013Z,-22.569,-66.3512,279.6,4.2,mb,25,60,1.729,0.6,us,us6000pv7m,2025-05-06T21:39:12.040Z,"69 km WNW of Abra Pampa, Argentina",earthquake,9.22,11.128,0.264,4,reviewed,us,us
+2025-02-24T15:48:26.117Z,-45.6531,-77.5526,10,4.2,mb,24,216,2.89,0.55,us,us7000pftz,2025-05-06T21:39:20.040Z,"Off the coast of Aisen, Chile",earthquake,8.85,2,0.237,5,reviewed,us,us
+2025-02-24T12:30:42.398Z,-45.6926,-77.5378,10,4.6,mb,40,141,2.886,0.76,us,us7000pfsl,2025-05-06T21:39:20.040Z,"Off the coast of Aisen, Chile",earthquake,8.62,1.907,0.101,29,reviewed,us,us
+2025-02-24T12:26:00.881Z,-45.7286,-77.296,10,5.1,mww,110,142,2.726,0.86,us,us7000pfsi,2025-05-06T21:39:20.040Z,"Off the coast of Aisen, Chile",earthquake,8.41,1.827,0.063,24,reviewed,us,us
+2025-02-23T23:07:34.928Z,-24.0241,-69.0331,102.212,4.3,mb,15,88,1.242,0.79,us,us7000pfpf,2025-05-06T21:39:19.040Z,"144 km ESE of Antofagasta, Chile",earthquake,6.22,9.386,0.142,14,reviewed,us,us
+2025-02-23T04:44:27.363Z,-22.8392,-68.5934,114.094,4.1,mb,23,70,0.398,0.59,us,us7000pfjv,2025-05-06T21:39:19.040Z,"41 km WNW of San Pedro de Atacama, Chile",earthquake,5.3,4.506,0.165,10,reviewed,us,us
+2025-02-22T22:20:25.318Z,-45.5785,-76.6977,10,5.4,mww,54,115,2.286,0.87,us,us7000pfih,2025-05-06T21:39:19.040Z,"Off the coast of Aisen, Chile",earthquake,8.71,1.843,0.054,33,reviewed,us,us
+2025-02-22T00:07:15.392Z,-31.7577,-71.9821,39.323,4.2,mb,38,80,1.004,0.5,us,us7000pfcn,2025-05-06T21:39:18.040Z,"78 km W of Illapel, Chile",earthquake,5.12,8.791,0.175,9,reviewed,us,us
+2025-02-21T08:17:39.347Z,-37.6225,-73.2455,45.269,4.1,mb,27,191,1.844,0.56,us,us7000pf6m,2025-05-06T21:39:17.040Z,"18 km SSE of Curanilahue, Chile",earthquake,7.72,11.784,0.158,11,reviewed,us,us
+2025-02-20T22:09:17.249Z,-30.7624,-70.3982,109.154,4.2,mb,34,59,0.262,0.44,us,us7000pf3z,2025-05-06T21:39:17.040Z,"54 km E of Monte Patria, Chile",earthquake,4.24,6.909,0.215,6,reviewed,us,us
+2025-02-20T11:30:51.390Z,-42.9086,-82.9086,10,5.4,mww,34,153,7.134,0.96,us,us7000pexi,2025-05-06T21:39:17.040Z,"West Chile Rise",earthquake,11.5,1.924,0.052,36,reviewed,us,us
+2025-02-20T06:22:04.592Z,-19.7324,-69.2635,108.7,4.8,mww,87,86,0.091,1.27,us,us7000pewh,2025-05-06T21:39:16.040Z,"49 km SSE of Camiña, Chile",earthquake,7.84,5.544,0.066,22,reviewed,us,us
+2025-02-19T18:57:43.168Z,-30.0251,-71.4075,42.84,4.2,mb,28,132,0.181,1.14,us,us7000perw,2025-05-06T21:39:16.040Z,"10 km SW of Coquimbo, Chile",earthquake,6.07,8.705,0.372,2,reviewed,us,us
+2025-02-19T16:06:07.056Z,-52.4245,-72.1227,10,4.4,mb,16,175,0.549,0.95,us,us7000perb,2025-05-06T21:39:16.040Z,"81 km SSE of Puerto Natales, Chile",earthquake,8.09,1.953,0.148,13,reviewed,us,us
+2025-02-19T06:46:16.408Z,-19.3516,-70.1333,57.272,4.3,mwr,52,133,0.94,1.3,us,us7000pep7,2025-05-06T21:39:16.040Z,"21 km SSE of Cuya, Chile",earthquake,5.77,6.365,0.063,24,reviewed,us,us
+2025-02-19T05:40:17.102Z,-26.2255,-71.0697,19.18,4.1,mwr,31,160,0.43,1.15,us,us7000penw,2025-05-06T21:39:16.040Z,"103 km W of Diego de Almagro, Chile",earthquake,4.87,4.523,0.046,45,reviewed,us,us
+2025-02-19T02:49:24.518Z,-26.2998,-70.7683,26.203,4.1,mb,19,129,0.215,1.13,us,us7000peni,2025-05-06T21:39:16.040Z,"72 km W of Diego de Almagro, Chile",earthquake,6.69,7.793,0.151,12,reviewed,us,us
+2025-02-18T19:49:19.657Z,-24.2802,-67.1293,196.298,4.2,mb,27,136,1.636,0.55,us,us7000pekv,2025-05-02T16:26:22.040Z,"82 km W of San Antonio de los Cobres, Argentina",earthquake,7.97,11.314,0.529,1,reviewed,us,us
+2025-02-18T17:18:48.127Z,-26.2533,-70.9825,31,5.6,mww,101,75,0.36,0.77,us,us7000peiq,2025-05-02T16:26:21.040Z,"94 km W of Diego de Almagro, Chile",earthquake,6.18,1.778,0.057,30,reviewed,us,us
+2025-02-18T14:40:58.777Z,-22.9817,-69.0424,109.682,4.1,mb,22,71,0.56,0.71,us,us7000pei7,2025-05-02T16:26:21.040Z,"59 km SSW of Calama, Chile",earthquake,5.46,4.832,0.213,6,reviewed,us,us
+2025-02-17T17:01:46.381Z,-37.8258,-72.6428,59.911,4.4,mb,35,111,1.594,0.44,us,us7000pe9i,2025-05-02T16:26:20.040Z,"7 km ESE of Angol, Chile",earthquake,5.95,9.114,0.179,9,reviewed,us,us
+2025-02-17T16:34:09.098Z,-15.6692,-69.3928,262.315,4.7,mb,112,103,1.361,0.79,us,us7000pe99,2025-05-02T16:26:20.040Z,"21 km SSE of Putina, Peru",earthquake,10.74,5.757,0.045,151,reviewed,us,us
+2025-02-17T06:04:05.363Z,-15.809,-74.5712,37.251,4.3,mb,29,142,4.392,0.57,us,us6000pve0,2025-05-02T16:26:13.040Z,"22 km W of Atiquipa, Peru",earthquake,11.98,8.092,0.107,25,reviewed,us,us
+2025-02-17T04:30:56.551Z,-15.9621,-75.1169,10,5.5,mww,157,86,4.291,0.81,us,us7000pe6v,2025-05-02T16:26:20.040Z,"66 km S of San Juan, Peru",earthquake,8.02,1.635,0.053,34,reviewed,us,us
+2025-02-16T23:25:52.620Z,-30.1096,-71.3255,67.529,4.3,mwr,40,124,0.205,0.62,us,us7000pe5v,2025-05-02T16:26:20.040Z,"17 km S of Coquimbo, Chile",earthquake,5.09,5.012,0.075,17,reviewed,us,us
+2025-02-16T21:00:57.040Z,-19.4293,-69.6235,117.932,4.6,mb,39,112,0.47,0.76,us,us7000pe5e,2025-05-02T16:26:20.040Z,"24 km WSW of Camiña, Chile",earthquake,4.78,5.067,0.1,30,reviewed,us,us
+2025-02-16T07:08:44.554Z,-38.4993,-73.7663,20.394,5,mww,61,141,1.404,0.85,us,us7000pe2h,2025-05-02T16:26:19.040Z,"57 km WNW of Carahue, Chile",earthquake,7.03,4.807,0.071,19,reviewed,us,us
+2025-02-15T13:13:43.470Z,-24.2791,-67.3844,208.222,4.2,mb,25,85,1.509,0.8,us,us7000pdz2,2025-05-02T16:26:18.040Z,"108 km W of San Antonio de los Cobres, Argentina",earthquake,11.46,5.402,0.264,4,reviewed,us,us
+2025-02-13T15:04:07.533Z,-15.5481,-74.1432,56.295,4.6,mb,38,143,4.405,1,us,us7000pddt,2025-05-02T16:26:16.040Z,"13 km NNW of Tocota, Peru",earthquake,9.16,7.897,0.07,69,reviewed,us,us
+2025-02-13T10:46:59.260Z,-24.948,-70.9566,20.645,4.9,mb,58,144,1.238,0.73,us,us7000pdcv,2025-05-02T16:26:16.040Z,"69 km NW of Taltal, Chile",earthquake,6.4,2.877,0.07,64,reviewed,us,us
+2025-02-13T08:30:21.928Z,-32.0937,-71.8388,35.476,3.9,mwr,31,139,0.735,0.82,us,us7000pdch,2025-05-02T16:26:16.040Z,"69 km NW of La Ligua, Chile",earthquake,3.36,6.193,0.046,46,reviewed,us,us
+2025-02-13T07:11:30.403Z,-29.005,-71.3564,35.338,4.7,mwr,100,136,0.575,0.65,us,us7000pdc7,2025-05-02T16:26:16.040Z,"75 km SW of Vallenar, Chile",earthquake,4.61,5.542,0.047,43,reviewed,us,us
+2025-02-12T23:15:56.114Z,-36.8127,-75.1546,10,4.2,mb,21,130,3.121,0.55,us,us7000pd9c,2025-05-02T16:26:16.040Z,"159 km NW of Lebu, Chile",earthquake,7.78,1.964,0.264,4,reviewed,us,us
+2025-02-12T21:32:40.874Z,-24.0084,-66.9877,223.01,4.2,mb,16,205,1.517,0.8,us,us7000pd8t,2025-05-02T16:26:16.040Z,"71 km WNW of San Antonio de los Cobres, Argentina",earthquake,7.95,12.082,0.236,5,reviewed,us,us
+2025-02-12T17:43:26.192Z,-24.235,-66.9598,181.596,4.2,mb,27,62,1.698,0.82,us,us7000pd6h,2025-05-02T16:26:16.040Z,"65 km W of San Antonio de los Cobres, Argentina",earthquake,6.65,12.007,0.215,6,reviewed,us,us
+2025-02-11T18:43:07.331Z,-16.6948,-70.1806,10,4.3,mb,35,139,1.674,0.97,us,us7000petd,2025-04-26T14:47:11.040Z,"49 km W of Mazo Cruz, Peru",earthquake,6.24,1.867,0.119,20,reviewed,us,us
+2025-02-11T02:24:06.725Z,-37.2309,-75.0333,13.661,5.2,mww,136,61,2.93,0.71,us,us7000pcsz,2025-04-26T14:47:07.040Z,"129 km WNW of Lebu, Chile",earthquake,7,3.334,0.042,54,reviewed,us,us
+2025-02-11T02:00:26.735Z,-18.2696,-69.7635,114.016,4.6,mww,102,69,0.558,0.93,us,us7000pcsw,2025-04-26T14:47:07.040Z,"57 km SE of Calana, Peru",earthquake,6.84,5.002,0.08,15,reviewed,us,us
+2025-02-11T00:10:36.532Z,-24.1233,-67.0206,212.052,4.4,mb,25,92,1.578,0.6,us,us7000pcsm,2025-04-26T14:47:07.040Z,"72 km W of San Antonio de los Cobres, Argentina",earthquake,9.68,9.247,0.179,9,reviewed,us,us
+2025-02-10T22:47:05.979Z,-23.085,-66.7622,204.667,4.7,mb,45,44,1.312,0.69,us,us7000pcs9,2025-04-26T14:47:07.040Z,"111 km W of El Aguilar, Argentina",earthquake,9.86,6.708,0.053,108,reviewed,us,us
+2025-02-10T17:06:16.270Z,-22.2461,-68.6557,115.479,4.1,mwr,25,80,0.704,0.67,us,us7000pcnr,2025-04-26T14:47:06.040Z,"36 km NE of Calama, Chile",earthquake,2.91,5.552,0.083,14,reviewed,us,us
+2025-02-10T14:47:54.543Z,-28.3208,-71.0878,57.258,4.3,mb,30,174,0.116,0.55,us,us7000pcn6,2025-04-26T14:47:06.040Z,"42 km NW of Vallenar, Chile",earthquake,8.7,3.868,0.267,4,reviewed,us,us
+2025-02-10T12:37:10.592Z,-32.1858,-71.5489,62.793,4.3,mb,32,144,0.508,0.61,us,us7000pcmu,2025-04-26T14:47:06.040Z,"42 km NW of La Ligua, Chile",earthquake,5.88,7.763,0.168,10,reviewed,us,us
+2025-02-10T09:30:43.181Z,-27.0087,-72.3317,10,4.5,mb,31,144,1.318,0.86,us,us7000pclz,2025-04-26T14:47:06.040Z,"202 km WNW of Copiapó, Chile",earthquake,6.25,1.898,0.132,22,reviewed,us,us
+2025-02-09T02:17:06.751Z,-16.2998,-73.9945,35,4.6,mb,44,146,4.051,0.75,us,us7000pcec,2025-04-26T14:47:05.040Z,"41 km WSW of Atico, Peru",earthquake,8.85,1.918,0.074,55,reviewed,us,us
+2025-02-08T21:06:35.716Z,-38.2474,-72.6809,57.818,4.3,mb,33,133,1.634,0.54,us,us7000pcde,2025-04-26T14:47:05.040Z,"0 km WNW of Traiguén, Chile",earthquake,7.4,10.796,0.218,6,reviewed,us,us
+2025-02-08T14:21:48.416Z,-19.7048,-69.2105,102.543,4,mb,24,84,0.039,0.66,us,us7000pcbt,2025-04-26T14:47:05.040Z,"48 km SSE of Camiña, Chile",earthquake,6.67,5.565,0.149,12,reviewed,us,us
+2025-02-08T08:49:17.744Z,-21.0843,-67.1527,202.826,4.2,mb,39,113,2.071,0.73,us,us7000pcae,2025-04-26T14:47:04.040Z,"77 km SSW of Uyuni, Bolivia",earthquake,8.21,8.034,0.098,29,reviewed,us,us
+2025-02-08T05:19:35.845Z,-21.1409,-68.8748,128.748,4.1,mb,14,108,0.58,0.58,us,us7000pc9h,2025-04-26T14:47:04.040Z,"65 km W of Ollagüe, Chile",earthquake,6.46,7.34,0.165,10,reviewed,us,us
+2025-02-08T03:16:17.957Z,-29.4714,-71.9488,10,4.3,mb,30,148,0.762,0.86,us,us7000pc8y,2025-04-26T14:47:04.040Z,"79 km NW of Coquimbo, Chile",earthquake,4.19,1.886,0.169,10,reviewed,us,us
+2025-02-07T20:56:14.203Z,-30.2826,-69.2322,18.817,4.3,mb,36,163,0.806,1.11,us,us7000pc6w,2025-04-26T14:47:04.040Z,"46 km W of San José de Jáchal, Argentina",earthquake,4.73,4.806,0.178,9,reviewed,us,us
+2025-02-07T10:00:37.804Z,-21.0932,-68.6016,139.058,4.3,mb,24,61,0.829,0.45,us,us7000pc2i,2025-04-26T14:47:04.040Z,"38 km WNW of Ollagüe, Chile",earthquake,5.81,7.838,0.178,9,reviewed,us,us
+2025-02-07T07:24:41.861Z,-15.5911,-70.0892,210.048,4.9,mb,90,134,2.008,1.13,us,us7000pc27,2025-04-26T14:47:04.040Z,"2 km SSE of Caracoto, Peru",earthquake,10.21,8.232,0.033,302,reviewed,us,us
+2025-02-07T06:28:11.888Z,-15.58,-70.5977,200.547,4.3,mb,35,148,2.475,0.98,us,us7000pc1r,2025-04-26T14:47:03.040Z,"13 km N of Santa Lucía, Peru",earthquake,11.14,5.102,0.089,36,reviewed,us,us
+2025-02-06T22:07:38.129Z,-20.2874,-69.0488,100.809,4,mb,21,73,0.176,0.45,us,us7000pby6,2025-04-26T14:47:03.040Z,"63 km E of La Tirana, Chile",earthquake,4.7,3.918,0.195,7,reviewed,us,us
+2025-02-06T12:21:30.509Z,-42.4627,-74.2127,38.582,4.3,mwr,39,147,1.336,0.85,us,us7000pbsy,2025-06-07T02:56:38.219Z,"36 km W of Castro, Chile",earthquake,7.4,7.305,0.071,19,reviewed,us,us
+2025-02-06T10:19:03.895Z,-20.13,-69.2198,93.772,4.3,mb,19,96,0.063,0.56,us,us7000pbsl,2025-04-26T14:47:03.040Z,"51 km ENE of La Tirana, Chile",earthquake,6.41,5.734,0.237,5,reviewed,us,us
+2025-02-06T06:02:59.469Z,-18.1946,-69.8671,108.112,4.3,mb,32,75,0.484,0.88,us,us7000pbrv,2025-04-26T14:47:03.040Z,"43 km SE of Calana, Peru",earthquake,7.35,6.909,0.105,26,reviewed,us,us
+2025-02-06T04:15:13.434Z,-30.0051,-71.3177,51.085,4.4,mwr,79,127,0.11,0.67,us,us7000pbr1,2025-04-26T14:47:03.040Z,"6 km SSE of Coquimbo, Chile",earthquake,4.94,6.346,0.056,31,reviewed,us,us
+2025-02-05T23:08:06.138Z,-22.1244,-68.6522,129.874,4.3,mb,27,76,0.637,0.68,us,us7000pbp6,2025-04-26T14:47:02.040Z,"46 km NE of Calama, Chile",earthquake,5.41,5.251,0.148,13,reviewed,us,us
+2025-02-05T14:11:19.619Z,-18.2733,-69.4416,135.314,4.2,mb,38,68,0.861,0.6,us,us7000pbk1,2025-04-26T14:47:02.040Z,"77 km SE of Palca, Peru",earthquake,5.03,8.537,0.102,27,reviewed,us,us
+2025-02-05T12:37:02.127Z,-33.8151,-72.0357,28.63,4.4,mwr,37,146,0.385,0.7,us,us7000pbjd,2025-04-26T14:47:02.040Z,"46 km WSW of San Antonio, Chile",earthquake,3.22,4.742,0.047,44,reviewed,us,us
+2025-02-05T10:50:04.183Z,-24.2851,-67.5153,212.715,4.6,mb,16,102,1.46,0.47,us,us7000pbim,2025-04-26T14:47:02.040Z,"121 km W of San Antonio de los Cobres, Argentina",earthquake,5.06,12.577,0.172,10,reviewed,us,us
+2025-02-05T10:49:21.760Z,-17.538,-64.1322,10,4.5,mb,36,119,1.031,0.84,us,us7000pdff,2025-04-26T14:47:08.040Z,"35 km WSW of Villa Yapacaní, Bolivia",earthquake,4.07,1.931,0.102,28,reviewed,us,us
+2025-02-05T09:08:13.269Z,-20.2899,-69.1757,98.423,4.8,mb,117,85,0.15,0.56,us,us7000pbgu,2025-04-26T14:47:02.040Z,"50 km E of La Tirana, Chile",earthquake,5.23,5.091,0.053,109,reviewed,us,us
+2025-02-05T01:22:19.160Z,-19.3884,-69.4481,91.934,4.3,mb,32,103,0.367,0.52,us,us7000pbdc,2025-04-26T14:47:01.040Z,"8 km SSW of Camiña, Chile",earthquake,2.63,5.424,0.111,23,reviewed,us,us
+2025-02-05T01:18:47.929Z,-21.1828,-68.5153,144.152,4.2,mb,26,76,0.911,0.98,us,us7000pbda,2025-04-26T14:47:01.040Z,"27 km W of Ollagüe, Chile",earthquake,5.72,7.301,0.141,14,reviewed,us,us
+2025-02-04T14:53:31.328Z,-15.1555,-74.3206,73.227,4.3,mb,48,141,3.991,0.89,us,us7000pb8g,2025-04-15T20:55:32.040Z,"43 km NE of Acarí, Peru",earthquake,8.65,7.798,0.088,39,reviewed,us,us
+2025-02-04T05:14:13.151Z,-25.007,-70.9444,24.767,4.5,mb,29,141,1.237,0.73,us,us7000pb63,2025-04-15T20:55:31.040Z,"64 km NW of Taltal, Chile",earthquake,5.76,5.7,0.171,10,reviewed,us,us
+2025-02-02T15:00:58.738Z,-33.8155,-72.0293,10,4.4,mb,28,150,0.38,0.84,us,us7000patu,2025-04-15T20:55:28.040Z,"46 km WSW of San Antonio, Chile",earthquake,3.43,1.484,0.179,9,reviewed,us,us
+2025-02-02T13:54:17.046Z,-30.6865,-71.3921,49.159,4.7,mwr,62,52,0.21,0.8,us,us7000patn,2025-04-15T20:55:28.040Z,"20 km WSW of Ovalle, Chile",earthquake,4.87,5.282,0.053,34,reviewed,us,us
+2025-02-02T12:47:39.496Z,-18.7955,-69.5034,108.959,4,mb,18,95,0.9,0.65,us,us7000pat8,2025-04-15T20:55:28.040Z,"57 km N of Camiña, Chile",earthquake,5.77,9.64,0.232,5,reviewed,us,us
+2025-02-02T10:25:28.358Z,-44.4772,-79.4775,10,4.6,mb,32,187,4.298,0.54,us,us7000pasr,2025-04-15T20:55:28.040Z,"Off the coast of Aisen, Chile",earthquake,12.11,1.956,0.125,19,reviewed,us,us
+2025-02-01T20:27:23.465Z,-18.1185,-69.8135,131.531,4.6,mb,50,75,0.561,0.89,us,us7000papd,2025-04-15T20:55:27.040Z,"41 km SSE of Palca, Peru",earthquake,6.8,6.275,0.071,59,reviewed,us,us
+2025-02-01T16:28:55.992Z,-31.4645,-68.7614,112.143,4.8,mb,95,44,0.104,0.72,us,us7000panb,2025-04-15T20:55:27.040Z,"9 km NNW of Villa Basilio Nievas, Argentina",earthquake,7.37,6.73,0.05,129,reviewed,us,us
+2025-02-01T11:28:26.193Z,-21.2389,-68.8373,118.977,4.4,mb,33,66,0.637,0.6,us,us7000pam4,2025-04-15T20:55:26.040Z,"60 km W of Ollagüe, Chile",earthquake,5.52,4.808,0.1,29,reviewed,us,us
+2025-02-01T08:37:31.297Z,-24.2946,-67.2771,220.449,4.3,mb,16,156,1.572,0.31,us,us7000pali,2025-04-15T20:55:26.040Z,"97 km W of San Antonio de los Cobres, Argentina",earthquake,10.43,9.943,0.237,5,reviewed,us,us
+2025-01-31T22:19:16.925Z,-29.284,-69.2716,113.792,4.4,mb,38,37,0.995,0.84,us,us7000pahs,2025-04-15T20:55:26.040Z,"117 km NNW of San José de Jáchal, Argentina",earthquake,5.97,8.168,0.135,16,reviewed,us,us
+2025-01-31T18:16:04.138Z,-20.2994,-69.0312,100.93,4,mb,29,66,0.195,0.5,us,us7000pafd,2025-04-15T20:55:25.040Z,"65 km E of La Tirana, Chile",earthquake,5.3,4.631,0.144,14,reviewed,us,us
+2025-01-30T22:17:13.762Z,-16.7049,-69.8548,168.741,4.5,mb,57,122,1.705,1.35,us,us7000pa6e,2025-04-15T20:55:25.040Z,"15 km WNW of Mazo Cruz, Peru",earthquake,6.9,6.336,0.075,52,reviewed,us,us
+2025-01-29T08:48:31.022Z,-18.5518,-69.3008,123.754,4.1,mb,30,80,1.004,1.24,us,us7000p9t3,2025-04-15T20:55:24.040Z,"85 km N of Camiña, Chile",earthquake,5.22,6.597,0.151,14,reviewed,us,us
+2025-01-29T03:44:21.407Z,-21.1063,-68.9996,116.703,4.2,mb,20,89,0.46,0.82,us,us7000p9rg,2025-04-15T20:55:23.040Z,"78 km W of Ollagüe, Chile",earthquake,5.2,5.824,0.158,11,reviewed,us,us
+2025-01-28T19:39:55.659Z,-41.26,-90.293,10,4.5,mb,25,158,13.806,1.11,us,us7000pbm4,2025-04-08T22:01:04.040Z,"southeast of Easter Island",earthquake,15.09,1.882,0.145,14,reviewed,us,us
+2025-01-28T16:51:17.502Z,-31.6816,-69.0539,110.024,4.8,mww,115,41,0.343,0.63,us,us7000p9n5,2025-04-08T22:01:02.040Z,"33 km WSW of Villa Basilio Nievas, Argentina",earthquake,5.22,2.989,0.127,6,reviewed,us,us
+2025-01-28T14:16:21.696Z,-31.3285,-70.7324,106.288,4.4,mb,42,93,0.261,0.64,us,us6000pmsi,2025-04-08T22:01:02.040Z,"53 km NE of Illapel, Chile",earthquake,3.3,6.622,0.126,18,reviewed,us,us
+2025-01-28T12:26:19.970Z,-22.7513,-69.106,107.768,4.4,mb,38,51,0.432,0.73,us,us6000pms8,2025-04-08T22:01:02.040Z,"37 km SSW of Calama, Chile",earthquake,4.71,4.994,0.112,23,reviewed,us,us
+2025-01-28T06:49:17.727Z,-41.616,-88.5616,10,4.7,mb,24,180,13.6,0.57,us,us6000pmqy,2025-04-08T22:01:02.040Z,"West Chile Rise",earthquake,8.78,1.955,0.12,22,reviewed,us,us
+2025-01-28T05:09:28.930Z,-14.3941,-76.2983,12.355,5,mww,84,83,2.45,0.81,us,us6000pmqh,2025-04-08T22:01:02.040Z,"58 km S of Paracas, Peru",earthquake,9.07,3.782,0.08,15,reviewed,us,us
+2025-01-28T02:41:48.860Z,-24.0925,-67.0556,214.347,4,mb,20,134,1.534,0.59,us,us6000pmpz,2025-04-08T22:01:02.040Z,"76 km W of San Antonio de los Cobres, Argentina",earthquake,6.14,14.551,0.231,5,reviewed,us,us
+2025-01-28T00:59:48.054Z,-41.1978,-90.224,10,5.6,mww,97,26,11.778,0.59,us,us6000pmpq,2025-04-08T22:01:02.040Z,"southeast of Easter Island",earthquake,10.5,1.728,0.04,61,reviewed,us,us
+2025-01-28T00:29:10.021Z,-41.1647,-90.539,10,5.1,mww,70,58,14.622,0.88,us,us6000pmpi,2025-04-08T22:01:02.040Z,"southeast of Easter Island",earthquake,13.79,1.808,0.065,23,reviewed,us,us
+2025-01-26T20:54:31.400Z,-30.6929,-71.7612,32.492,4.2,mwr,40,147,0.11,0.73,us,us6000pmgi,2025-04-08T22:01:01.040Z,"54 km W of Ovalle, Chile",earthquake,4.4,4.786,0.046,46,reviewed,us,us
+2025-01-26T09:59:59.149Z,-30.6132,-69.2889,120.522,4.3,mb,19,135,0.941,0.66,us,us6000pmew,2025-04-08T22:01:00.040Z,"66 km SW of San José de Jáchal, Argentina",earthquake,5,6.767,0.177,9,reviewed,us,us
+2025-01-26T09:34:02.930Z,-20.1415,-68.9677,108.808,4.1,mb,15,86,0.174,0.43,us,us6000pmeu,2025-04-08T22:01:00.040Z,"75 km ENE of La Tirana, Chile",earthquake,7.16,4.731,0.151,12,reviewed,us,us
+2025-01-25T13:13:10.291Z,-21.2604,-68.6534,134.128,4.3,mb,26,71,0.765,0.76,us,us6000pmap,2025-04-08T22:01:00.040Z,"41 km W of Ollagüe, Chile",earthquake,6.19,4.83,0.133,16,reviewed,us,us
+2025-01-25T03:39:34.846Z,-27.5731,-72.2501,10,4.6,mb,37,144,1.216,1.14,us,us6000pm8t,2025-04-08T22:00:59.040Z,"183 km NW of Vallenar, Chile",earthquake,5.7,1.886,0.093,35,reviewed,us,us
+2025-01-25T02:35:15.476Z,-24.359,-67.2258,190.794,4.2,mb,22,71,1.651,0.45,us,us7000pb24,2025-04-08T22:01:03.040Z,"93 km W of San Antonio de los Cobres, Argentina",earthquake,7.16,17.513,0.236,5,reviewed,us,us
+2025-01-24T16:19:05.056Z,-18.0678,-69.3145,122.665,5.3,mww,114,56,1.022,1.09,us,us6000pm4b,2025-04-08T22:00:59.040Z,"75 km ESE of Palca, Peru",earthquake,6.47,4.96,0.047,44,reviewed,us,us
+2025-01-24T04:26:55.449Z,-41.4878,-86.0291,10,5,mb,32,146,9.69,0.82,us,us6000plzg,2025-04-08T22:00:59.040Z,"West Chile Rise",earthquake,13.22,1.905,0.06,87,reviewed,us,us
+2025-01-24T03:26:10.744Z,-45.7294,-77.516,10,4.4,mb,22,204,2.877,0.82,us,us6000plz9,2025-04-08T22:00:59.040Z,"Off the coast of Aisen, Chile",earthquake,8.96,1.94,0.202,8,reviewed,us,us
+2025-01-23T07:38:45.482Z,-32.042,-71.2597,85.344,4.4,mb,54,132,0.242,0.69,us,us6000pls1,2025-04-08T22:00:58.040Z,"40 km SW of Salamanca, Chile",earthquake,6.27,6.832,0.092,34,reviewed,us,us
+2025-01-22T22:47:25.737Z,-29.4383,-71.0888,56.478,4.4,mb,33,128,0.496,0.58,us,us6000plqc,2025-04-08T22:00:57.040Z,"53 km NNE of La Serena, Chile",earthquake,3.99,5.73,0.169,10,reviewed,us,us
+2025-01-22T04:01:52.334Z,-17.6508,-69.3389,159.515,4.1,mb,23,100,0.148,0.95,us,us7000pac9,2025-04-08T22:01:03.040Z,"67 km ENE of Palca, Peru",earthquake,8.68,8.2,0.174,9,reviewed,us,us
+2025-01-21T16:58:16.853Z,-21.356,-68.5821,117.181,4.7,mww,103,45,0.754,0.86,us,us6000plfq,2025-03-29T22:12:46.040Z,"37 km WSW of Ollagüe, Chile",earthquake,5.14,5.386,0.103,9,reviewed,us,us
+2025-01-21T16:06:15.646Z,-21.986,-68.6192,116.031,4.2,mb,30,44,0.608,1.05,us,us6000plfl,2025-03-29T22:12:46.040Z,"60 km NNE of Calama, Chile",earthquake,5.88,7.026,0.147,15,reviewed,us,us
+2025-01-21T01:57:43.842Z,-24.1917,-67.2082,222.147,4,mb,18,134,1.522,0.4,us,us6000plcm,2025-03-29T22:12:45.040Z,"90 km W of San Antonio de los Cobres, Argentina",earthquake,10.03,16.427,0.232,5,reviewed,us,us
+2025-01-20T09:24:47.285Z,-21.2777,-68.8827,115.791,4,mb,21,58,0.611,0.64,us,us6000pl70,2025-03-29T22:12:44.040Z,"65 km W of Ollagüe, Chile",earthquake,5.61,6.634,0.211,6,reviewed,us,us
+2025-01-20T07:37:17.728Z,-20.573,-69.956,64.62,3.7,mb,13,114,0.308,0.54,us,us6000pl6j,2025-03-29T22:12:39.040Z,"36 km SSE of La Tirana, Chile",earthquake,4.04,5.782,0.292,3,reviewed,us,us
+2025-01-19T21:51:09.560Z,-28.7247,-68.6109,97.354,4.3,mwr,31,71,1.798,0.68,us,us6000pl4x,2025-03-29T22:12:44.040Z,"39 km W of Vinchina, Argentina",earthquake,8.26,7.947,0.08,15,reviewed,us,us
+2025-01-19T19:25:30.979Z,-31.3222,-68.1023,103.165,4.4,mwr,77,49,0.545,0.89,us,us6000pl44,2025-03-29T22:12:44.040Z,"39 km ENE of San Martín, Argentina",earthquake,6.4,3.358,0.065,23,reviewed,us,us
+2025-01-19T13:24:07.759Z,-50.4998,-71.9994,10,4.4,mb,28,111,2.069,0.69,us,us7000p9v4,2025-03-29T22:12:47.040Z,"26 km SE of El Calafate, Argentina",earthquake,7.95,1.883,0.13,21,reviewed,us,us
+2025-01-19T06:39:15.330Z,-32.2865,-73.1785,10,4.2,mb,33,103,1.486,1.06,us,us6000pl23,2025-03-29T22:12:43.040Z,"167 km WNW of Valparaíso, Chile",earthquake,6.66,1.956,0.14,14,reviewed,us,us
+2025-01-18T21:40:15.763Z,-17.5079,-73.419,10,4.3,mb,16,144,3.052,0.99,us,us7000p9mx,2025-03-29T22:12:47.040Z,"123 km SW of Camaná, Peru",earthquake,4.75,1.955,0.266,4,reviewed,us,us
+2025-01-18T15:55:24.505Z,-31.2736,-68.8776,115.729,4.2,mb,31,123,0.318,1.14,us,us6000pkya,2025-03-29T22:12:42.040Z,"33 km NNW of Villa Basilio Nievas, Argentina",earthquake,4.84,8.116,0.263,5,reviewed,us,us
+2025-01-18T14:14:47.456Z,-16.3074,-74.4369,39.534,4.3,mb,19,144,4.416,0.44,us,us6000pky0,2025-03-29T22:12:42.040Z,"57 km S of Atiquipa, Peru",earthquake,10.54,3.838,0.187,10,reviewed,us,us
+2025-01-18T02:19:01.457Z,-16.364,-69.0381,235.03,4.5,mb,46,99,0.875,0.63,us,us6000pkvp,2025-03-29T22:12:42.040Z,"13 km SSE of Yunguyo, Peru",earthquake,9.21,6.155,0.091,36,reviewed,us,us
+2025-01-17T20:39:42.689Z,-17.4445,-69.8235,140.75,4.3,mb,30,116,0.358,1.1,us,us6000pkte,2025-03-29T22:12:42.040Z,"22 km E of Tarata, Peru",earthquake,7.57,4.672,0.119,23,reviewed,us,us
+2025-01-17T16:56:01.429Z,-35.121,-72.2896,35,4.3,mwr,44,139,0.957,0.7,us,us6000pkpb,2025-03-29T22:12:42.040Z,"26 km NNE of Constitución, Chile",earthquake,4.73,1.911,0.04,60,reviewed,us,us
+2025-01-17T02:32:41.382Z,-44.9791,-74.5206,35,4.2,mb,13,211,0.735,0.87,us,us6000pkk0,2025-03-29T22:12:41.040Z,"144 km WNW of Puerto Chacabuco, Chile",earthquake,7.45,2.002,0.186,8,reviewed,us,us
+2025-01-15T10:49:32.281Z,-22.9203,-70.0577,67.284,4.1,mb,16,139,0.497,0.7,us,us6000pk4q,2025-03-29T22:12:40.040Z,"44 km ENE of Mejillones, Chile",earthquake,4.3,4.995,0.262,4,reviewed,us,us
+2025-01-14T00:23:29.517Z,-20.2622,-69.2372,91.224,4.6,mb,44,144,0.592,0.53,us,us6000pjue,2025-03-20T20:55:25.040Z,"44 km E of La Tirana, Chile",earthquake,5.35,3.813,0.077,50,reviewed,us,us
+2025-01-13T22:23:31.029Z,-21.2918,-67.7803,182.978,4.5,mb,29,108,1.45,0.81,us,us6000pjtr,2025-03-20T20:55:24.040Z,"49 km E of Ollagüe, Chile",earthquake,6.44,7.94,0.121,20,reviewed,us,us
+2025-01-13T06:00:02.970Z,-33.7376,-71.866,35,3.3,ml,22,186,0.527,0.84,us,us6000pjmz,2025-03-20T20:55:19.040Z,"28 km WSW of San Antonio, Chile",earthquake,3.17,2.004,0.056,42,reviewed,us,us
+2025-01-12T18:06:50.868Z,-31.0486,-70.2643,114.004,4.5,mb,38,48,0.421,0.89,us,us6000pjkt,2025-03-20T20:55:15.040Z,"77 km ESE of Monte Patria, Chile",earthquake,3.78,5.095,0.118,21,reviewed,us,us
+2025-01-12T16:35:03.879Z,-17.6551,-70.8317,86.794,4.4,mb,32,74,0.851,1.15,us,us6000pjkd,2025-03-20T20:55:14.040Z,"8 km WSW of Locumba, Peru",earthquake,5.64,6.946,0.097,31,reviewed,us,us
+2025-01-12T15:51:18.220Z,-21.4734,-67.0094,253.297,4.3,mb,27,91,1.827,0.74,us,us6000pjk9,2025-03-20T20:55:14.040Z,"101 km SW of Atocha, Bolivia",earthquake,10.32,5.849,0.154,12,reviewed,us,us
+2025-01-12T01:10:27.760Z,-21.5145,-68.4002,130.464,4.1,mb,23,55,0.832,0.53,us,us6000pjhk,2025-03-20T20:55:10.040Z,"35 km SSW of Ollagüe, Chile",earthquake,6.64,8.291,0.13,16,reviewed,us,us
+2025-01-12T00:13:47.333Z,-21.2542,-68.5244,142.964,4.1,mb,21,91,0.859,0.59,us,us6000pjha,2025-03-20T20:55:10.040Z,"28 km W of Ollagüe, Chile",earthquake,7.41,7.958,0.185,8,reviewed,us,us
+2025-01-10T02:16:38.691Z,-19.3582,-69.2166,120.975,4.4,mb,46,89,0.309,0.91,us,us6000pj3c,2025-03-20T20:54:58.040Z,"22 km ESE of Camiña, Chile",earthquake,6.7,5.418,0.092,36,reviewed,us,us
+2025-01-09T20:52:31.016Z,-19.0283,-69.5232,103.324,4.7,mwr,40,105,0.69,0.91,us,us6000pj17,2025-03-20T20:54:57.040Z,"33 km NNW of Camiña, Chile",earthquake,4.54,4.323,0.068,21,reviewed,us,us
+2025-01-09T07:24:20.134Z,-21.7423,-68.4795,122.943,4.4,mb,41,44,0.711,0.71,us,us6000piup,2025-03-20T20:54:54.040Z,"61 km SSW of Ollagüe, Chile",earthquake,5.32,6.354,0.115,22,reviewed,us,us
+2025-01-08T20:30:19.542Z,-23.1684,-70.7958,23.388,4.6,mwr,78,143,0.409,0.9,us,us6000piqd,2025-03-20T20:54:50.040Z,"36 km WSW of Mejillones, Chile",earthquake,6.04,4.952,0.05,38,reviewed,us,us
+2025-01-08T07:23:50.828Z,-44.413,-78.1001,10,4.6,mb,46,143,3.349,1.06,us,us6000pij7,2025-03-20T20:54:46.040Z,"Off the coast of Aisen, Chile",earthquake,8.49,1.829,0.114,23,reviewed,us,us
+2025-01-07T16:47:12.852Z,-25.4818,-69.7963,129.802,4.1,mb,20,149,0.368,1.04,us,us6000pifa,2025-03-17T21:35:11.040Z,"69 km E of Taltal, Chile",earthquake,8.85,8.144,0.234,5,reviewed,us,us
+2025-01-07T05:33:57.811Z,-20.6659,-67.815,164.865,4.4,mb,43,57,1.608,0.75,us,us6000pich,2025-03-17T21:35:06.040Z,"76 km NE of Ollagüe, Chile",earthquake,5.56,7.195,0.115,22,reviewed,us,us
+2025-01-07T03:39:37.531Z,-32.5349,-71.7761,28.054,4.3,mb,29,162,0.498,0.75,us,us6000pibz,2025-03-17T21:35:05.040Z,"52 km W of La Ligua, Chile",earthquake,5.91,7.059,0.217,6,reviewed,us,us
+2025-01-07T02:21:20.747Z,-24.051,-66.9513,237.111,4,mb,14,106,1.571,0.45,us,us6000pibb,2025-03-17T21:35:03.040Z,"66 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.33,17.789,0.3,3,reviewed,us,us
+2025-01-06T06:46:24.431Z,-27.9389,-67.3707,228.858,4.2,mb,19,145,2.709,0.64,us,us6000pi4f,2025-03-17T21:34:53.040Z,"23 km NE of Tinogasta, Argentina",earthquake,11.7,18.034,0.186,8,reviewed,us,us
+2025-01-04T09:03:41.336Z,-20.0844,-70.3319,43.309,3.9,mb,12,170,0.264,0.45,us,us6000phty,2025-03-17T21:34:35.040Z,"23 km NW of Puerto, Chile",earthquake,4.01,5.909,0.256,4,reviewed,us,us
+2025-01-04T04:59:48.927Z,-16.6381,-69.7129,193.829,4.3,mb,24,103,0.972,0.86,us,us6000phsr,2025-03-17T21:34:33.040Z,"11 km N of Mazo Cruz, Peru",earthquake,8.92,7.056,0.138,15,reviewed,us,us
+2025-01-03T20:51:43.421Z,-28.0469,-66.9328,222.355,4.1,mb,18,135,3.111,0.68,us,us6000phq6,2025-03-17T21:34:30.040Z,"41 km SSE of Londres, Argentina",earthquake,9.88,18.682,0.301,3,reviewed,us,us
+2025-01-03T18:52:10.708Z,-31.7813,-71.4698,51.338,4.3,mb,51,138,0.495,0.73,us,us6000phph,2025-03-17T21:34:29.040Z,"32 km WSW of Illapel, Chile",earthquake,4.06,6.743,0.098,32,reviewed,us,us
+2025-01-03T15:06:23.177Z,-20.9783,-68.8067,111.232,4.1,mb,24,85,0.639,0.83,us,us6000phla,2025-03-17T21:34:27.040Z,"63 km WNW of Ollagüe, Chile",earthquake,6.67,7.213,0.127,17,reviewed,us,us
+2025-01-03T09:55:58.968Z,-21.7065,-68.5432,128.318,4.5,mb,80,51,0.656,0.78,us,us6000phem,2025-03-17T21:34:25.040Z,"61 km SSW of Ollagüe, Chile",earthquake,4.61,6.725,0.066,74,reviewed,us,us
+2025-01-03T01:02:51.258Z,-15.1737,-75.8487,10,4.2,mb,21,167,3.311,1.05,us,us6000pk6c,2025-03-17T21:34:21.040Z,"76 km WNW of San Juan, Peru",earthquake,10.63,1.926,0.199,7,reviewed,us,us
+2025-01-03T00:55:08.465Z,-20.5147,-68.6026,135.38,4.5,mb,28,73,0.981,0.83,us,us6000phbz,2025-03-17T21:34:21.040Z,"86 km NNW of Ollagüe, Chile",earthquake,6.05,6.594,0.136,16,reviewed,us,us
+2025-01-02T20:43:35.253Z,-21.7109,-69.1069,99,6.1,mww,106,57,0.152,1.03,us,us6000phap,2025-03-17T21:34:19.040Z,"84 km NNW of Calama, Chile",earthquake,4.9,1.884,0.035,79,reviewed,us,us
+2025-01-02T06:09:04.775Z,-24.3527,-66.9032,166.879,4.9,mb,104,94,1.82,0.71,us,us6000ph0l,2025-03-17T21:34:14.040Z,"61 km WSW of San Antonio de los Cobres, Argentina",earthquake,10.5,8.056,0.056,100,reviewed,us,us
+2025-01-01T18:36:35.521Z,-28.1086,-69.1908,150.572,4,mb,29,82,1.275,0.61,us,us6000pgx4,2025-03-17T21:34:08.040Z,"120 km NW of Vinchina, Argentina",earthquake,8.94,14.701,0.259,4,reviewed,us,us
+2025-01-01T18:32:01.507Z,-13.2362,-74.8856,85.033,4.5,mb,57,122,2.278,0.64,us,us6000pjrn,2025-03-17T21:34:08.040Z,"16 km NE of Pilpichaca, Peru",earthquake,6.79,5.372,0.085,41,reviewed,us,us
+2025-01-01T09:09:01.697Z,-32.4128,-69.7916,118.551,4.5,mb,36,87,0.73,0.52,us,us6000pgtu,2025-03-17T21:34:02.040Z,"88 km ENE of Los Andes, Chile",earthquake,6.62,2.961,0.132,17,reviewed,us,us
+2025-01-01T08:08:31.981Z,-22.5896,-68.9338,109.052,4.1,mb,21,66,0.601,0.99,us,us6000pgti,2025-03-17T21:34:01.040Z,"14 km S of Calama, Chile",earthquake,3.03,7.563,0.213,6,reviewed,us,us
+2025-01-01T03:56:39.832Z,-23.0291,-66.6081,208.974,4.9,mww,90,43,1.449,0.92,us,us6000pgs2,2025-03-17T21:33:59.040Z,"97 km WNW of El Aguilar, Argentina",earthquake,9.81,6.217,0.057,30,reviewed,us,us

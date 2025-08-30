@@ -1,0 +1,105 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1935-08-05T23:50:15.980Z,-35.251,-71.882,35,6.07,mw,,,,,iscgem,iscgem904453,2022-04-25T21:35:23.948Z,"28 km NW of Talca, Chile",earthquake,,30,0.2,,reviewed,iscgem,iscgem
+1935-07-09T12:21:33.060Z,-27.588,-71.336,35,6.23,mw,,,,,iscgem,iscgem904383,2022-04-25T21:34:16.973Z,"102 km WSW of Copiapó, Chile",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1935-07-09T06:41:06.800Z,-26.981,-70.722,35,5.94,mw,,,,,iscgem,iscgem904381,2022-04-25T21:34:11.812Z,"57 km NW of Copiapó, Chile",earthquake,,28.6,0.2,,reviewed,iscgem,iscgem
+1935-06-28T02:00:26.140Z,-36.368,-74.18,15,6.04,mw,,,,,iscgem,iscgem904359,2022-04-25T21:33:46.936Z,"103 km WNW of Talcahuano, Chile",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1934-12-23T09:52:20.290Z,-20.61,-67.772,15,6.09,mw,,,,,iscgem,iscgem905317,2022-04-25T21:50:44.469Z,"93 km WSW of Colchani, Bolivia",earthquake,,12.9,0.2,,reviewed,iscgem,iscgem
+1934-03-01T21:45:15.730Z,-40.387,-72.497,15,6.63,mw,,,,,iscgem,iscgem904821,2022-04-25T21:43:04.881Z,"31 km NNE of Puyehue, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1933-02-23T08:09:19.490Z,-20.521,-70.192,35,7.28,mw,,,,,iscgem,iscgem905405,2022-04-25T21:51:54.418Z,"34 km S of Iquique, Chile",earthquake,,20.9,0.27,,reviewed,iscgem,iscgem
+1932-11-29T11:11:00.000Z,-32.177,-71.331,35,6.59,mw,,,,,iscgem,iscgem906476,2022-04-25T22:09:47.773Z,"31 km NNW of La Ligua, Chile",earthquake,,25.2,0.21,,reviewed,iscgem,iscgem
+1932-06-09T06:30:42.140Z,-27.446,-70.996,35,5.83,mw,,,,,iscgem,iscgem906215,2022-04-25T22:06:00.359Z,"66 km W of Copiapó, Chile",earthquake,,11.6,0.2,,reviewed,iscgem,iscgem
+1932-04-26T07:54:51.750Z,-25.564,-69.875,60,6.27,mw,,,,,iscgem,iscgem906118,2022-04-25T22:03:49.063Z,"63 km ESE of Taltal, Chile",earthquake,,4.9,0.2,,reviewed,iscgem,iscgem
+1931-06-29T20:24:12.350Z,-29.674,-70.934,25,6.01,mw,,,,,iscgem,iscgem906840,2022-04-25T22:18:57.789Z,"39 km NE of La Serena, Chile",earthquake,,19.1,0.2,,reviewed,iscgem,iscgem
+1931-05-20T21:53:53.780Z,-29.067,-72.542,15,6.11,mw,,,,,iscgem,iscgem906787,2022-04-25T22:17:32.367Z,"152 km NW of Coquimbo, Chile",earthquake,,25,0.44,,reviewed,iscgem,iscgem
+1931-03-18T08:02:24.590Z,-33.926,-71.556,35,7.2,mw,,,,,iscgem,iscgem906680,2022-04-25T22:15:00.137Z,"37 km S of San Antonio, Chile",earthquake,,10.9,0.26,,reviewed,iscgem,iscgem
+1930-12-24T06:02:46.520Z,-25.102,-65.419,15,6.12,mw,,,,,iscgem,iscgem907833,2022-04-25T22:35:41.540Z,"7 km ESE of El Carril, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1930-10-17T08:46:38.750Z,-32.632,-71.177,35,6.45,mw,,,,,iscgem,iscgem907651,2022-04-25T22:33:10.603Z,"17 km NNE of Hacienda La Calera, Chile",earthquake,,21.5,0.2,,reviewed,iscgem,iscgem
+1930-09-23T23:34:01.140Z,-25.894,-65.602,15,5.99,mw,,,,,iscgem,iscgem907608,2022-04-25T22:32:27.809Z,"42 km ENE of Cafayate, Argentina",earthquake,,25,0.47,,reviewed,iscgem,iscgem
+1930-07-13T01:12:09.400Z,-56.21,-70.637,10,6.28,mw,,,,,iscgem,iscgem907493,2022-04-25T22:30:21.290Z,"213 km SW of Ushuaia, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1930-06-22T18:24:45.110Z,-45.385,-79.283,10,5.98,mw,,,,,iscgem,iscgem907460,2022-04-25T22:29:50.660Z,"Off the coast of Aisen, Chile",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1929-07-15T14:29:46.950Z,-31.425,-71.105,35,5.67,mw,,,,,iscgem,iscgem908216,2022-04-25T22:42:27.097Z,"23 km NNE of Illapel, Chile",earthquake,,26.2,0.37,,reviewed,iscgem,iscgem
+1929-05-30T12:10:50.330Z,-35.02,-68.061,10,5.95,mw,,,,,iscgem,iscgem908110,2022-04-25T22:40:07.870Z,"50 km SSE of San Rafael, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1929-05-30T09:43:26.560Z,-34.858,-67.692,10,6.68,mw,,,,,iscgem,iscgem908107,2022-04-25T22:40:06.717Z,"64 km ESE of San Rafael, Argentina",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1929-04-16T14:02:50.260Z,-31.32,-72.367,15,5.96,mw,,,,,iscgem,iscgem908017,2022-04-25T22:39:01.754Z,"118 km WNW of Illapel, Chile",earthquake,,11.3,0.35,,reviewed,iscgem,iscgem
+1928-12-20T06:34:54.740Z,-35.385,-71.897,35,5.68,mw,,,,,iscgem,iscgem909025,2022-04-25T23:00:41.827Z,"22 km WNW of Talca, Chile",earthquake,,30,0.41,,reviewed,iscgem,iscgem
+1928-12-16T18:43:17.620Z,-35.198,-73.523,15,5.63,mw,,,,,iscgem,iscgem909019,2022-04-25T23:00:30.404Z,"102 km W of Constitución, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-12-08T13:23:37.020Z,-35.872,-72.295,35,5.48,mw,,,,,iscgem,iscgem909001,2022-04-25T22:59:51.709Z,"10 km NNE of Cauquenes, Chile",earthquake,,35.5,0.2,,reviewed,iscgem,iscgem
+1928-12-03T11:31:36.130Z,-35.11,-72.195,35,5.27,mw,,,,,iscgemsup,iscgemsup908995,2022-05-09T17:41:43.038Z,"31 km NE of Constitución, Chile",earthquake,,22.9,0.2,,reviewed,iscgemsup,iscgemsup
+1928-12-02T23:16:00.970Z,-35.146,-72.72,35,5.52,mw,,,,,iscgem,iscgem908991,2022-04-25T22:59:37.799Z,"34 km NW of Constitución, Chile",earthquake,,7.3,0.2,,reviewed,iscgem,iscgem
+1928-12-02T04:20:26.070Z,-35.712,-72.74,30,7.23,mw,,,,,iscgem,iscgem908989,2022-04-25T22:59:32.657Z,"47 km NW of Cauquenes, Chile",earthquake,,12.8,0.33,,reviewed,iscgem,iscgem
+1928-12-01T18:32:26.100Z,-35.453,-72.429,35,6.17,mw,,,,,iscgem,iscgem908988,2022-04-25T22:59:27.510Z,"13 km S of Constitución, Chile",earthquake,,12.8,0.26,,reviewed,iscgem,iscgem
+1928-12-01T09:19:23.380Z,-36.025,-73.224,35,6.02,mw,,,,,iscgem,iscgem908987,2022-04-25T22:59:22.104Z,"67 km WNW of Quirihue, Chile",earthquake,,7.6,0.21,,reviewed,iscgem,iscgem
+1928-12-01T04:06:17.600Z,-35.084,-72.267,35,7.7,mw,,,,,iscgem,iscgem908986,2022-04-25T22:59:16.733Z,"30 km NNE of Constitución, Chile",earthquake,,7.3,0.4,,reviewed,iscgem,iscgem
+1928-11-29T12:23:35.360Z,-23.878,-70.743,15,5.91,mw,,,,,iscgem,iscgem908982,2022-04-25T21:12:16.814Z,"43 km SW of Antofagasta, Chile",earthquake,,4.6,0.34,,reviewed,iscgem,iscgem
+1928-11-20T20:35:12.480Z,-23.157,-70.057,45,7.03,mw,,,,,iscgem,iscgem908971,2022-04-25T21:12:01.223Z,"64 km NNE of Antofagasta, Chile",earthquake,,20.4,0.35,,reviewed,iscgem,iscgem
+1928-07-28T19:50:13.230Z,-31.26,-72.208,15,6.04,mw,,,,,iscgem,iscgem908802,2022-04-25T22:55:19.320Z,"107 km WNW of Illapel, Chile",earthquake,,11.3,0.21,,reviewed,iscgem,iscgem
+1928-06-25T07:20:53.450Z,-20.273,-71.227,15,5.65,mw,,,,,iscgem,iscgem908756,2022-04-25T22:54:03.963Z,"112 km W of Iquique, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-05-01T00:11:27.820Z,-35.488,-72.399,35,6.07,mw,,,,,iscgem,iscgem908654,2022-04-25T22:52:04.702Z,"17 km S of Constitución, Chile",earthquake,,12.8,0.2,,reviewed,iscgem,iscgem
+1928-04-12T18:08:34.850Z,-27.77,-73.877,10,5.91,mw,,,,,iscgem,iscgem908594,2022-04-25T22:50:59.948Z,"Off the coast of Atacama, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-04-02T04:37:52.070Z,-25.149,-67.846,15,5.55,mw,,,,,iscgem,iscgem908582,2022-04-25T22:50:45.160Z,"110 km NNW of Antofagasta de la Sierra, Argentina",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1928-01-14T12:58:25.030Z,-28.66,-71.075,35,5.74,mw,,,,,iscgem,iscgem908459,2022-04-25T22:47:28.321Z,"32 km WSW of Vallenar, Chile",earthquake,,13.8,0.2,,reviewed,iscgem,iscgem
+1928-01-12T13:06:43.250Z,-29.861,-71.809,30,6.47,mw,,,,,iscgem,iscgem908457,2022-04-25T22:47:26.983Z,"46 km WNW of Coquimbo, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1927-11-21T23:12:33.660Z,-44.861,-72.686,15,7.04,mw,,,,,iscgem,iscgem909648,2022-04-25T23:12:16.274Z,"12 km S of Puerto Cisnes, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1927-11-14T07:19:30.460Z,-30.825,-70.742,50,6.72,mw,,,,,iscgem,iscgem909624,2022-04-25T23:11:46.321Z,"25 km SE of Monte Patria, Chile",earthquake,,17.1,0.31,,reviewed,iscgem,iscgem
+1927-11-02T06:09:45.530Z,-20.519,-68.476,15,5.34,mw,,,,,iscgemsup,iscgemsup909601,2022-05-09T17:44:54.055Z,"162 km W of Colchani, Bolivia",earthquake,,10.9,0.25,,reviewed,iscgemsup,iscgemsup
+1927-06-25T08:20:21.480Z,-30.041,-73.168,15,5.75,mw,,,,,iscgem,iscgem909349,2022-04-25T23:06:00.478Z,"176 km W of Coquimbo, Chile",earthquake,,25,0.36,,reviewed,iscgem,iscgem
+1927-03-14T07:43:09.230Z,-25.469,-69.801,15,5.5,mw,,,,,iscgemsup,iscgemsup909138,2022-05-09T17:42:15.234Z,"69 km E of Taltal, Chile",earthquake,,4.9,0.2,,reviewed,iscgemsup,iscgemsup
+1927-02-28T14:07:56.700Z,-28.697,-71.095,35,6.49,mw,,,,,iscgem,iscgem909122,2022-04-25T23:03:10.532Z,"35 km WSW of Vallenar, Chile",earthquake,,13.8,0.32,,reviewed,iscgem,iscgem
+1926-12-03T05:19:15.640Z,-34.968,-74.013,15,5.79,mw,,,,,iscgem,iscgem910263,2022-04-25T23:22:57.607Z,"151 km WNW of Constitución, Chile",earthquake,,25,0.3,,reviewed,iscgem,iscgem
+1926-11-13T13:40:20.050Z,-31.348,-72.653,15,5.44,mw,,,,,iscgemsup,iscgemsup910238,2022-05-09T17:47:48.164Z,"144 km WNW of Illapel, Chile",earthquake,,11.3,0.23,,reviewed,iscgemsup,iscgemsup
+1926-10-27T14:13:50.330Z,-23.91,-66.362,15,5.65,mw,,,,,iscgemsup,iscgemsup910199,2022-05-09T17:47:36.587Z,"34 km N of San Antonio de los Cobres, Argentina",earthquake,,13.6,0.2,,reviewed,iscgemsup,iscgemsup
+1926-10-25T15:38:55.880Z,-33.804,-72.729,15,5.74,mw,,,,,iscgem,iscgem910189,2022-04-25T23:21:00.760Z,"106 km WSW of San Antonio, Chile",earthquake,,10.3,0.4,,reviewed,iscgem,iscgem
+1926-09-10T08:26:53.380Z,-44.684,-79.209,10,5.89,mw,,,,,iscgem,iscgem910099,2022-04-25T23:19:22.093Z,"Off the coast of Aisen, Chile",earthquake,,25,0.5,,reviewed,iscgem,iscgem
+1926-09-06T00:49:57.080Z,-34.339,-73.836,15,5.83,mw,,,,,iscgem,iscgem910085,2022-04-25T23:19:07.266Z,"170 km NW of Constitución, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-09-06T00:16:26.690Z,-34.669,-74.572,15,6.31,mw,,,,,iscgem,iscgem910084,2022-04-25T23:19:05.583Z,"210 km WNW of Constitución, Chile",earthquake,,25,0.22,,reviewed,iscgem,iscgem
+1926-08-09T21:40:16.670Z,-28.753,-71.292,35,5.83,mw,,,,,iscgemsup,iscgemsup910045,2022-05-09T17:47:02.418Z,"55 km WSW of Vallenar, Chile",earthquake,,17.2,0.2,,reviewed,iscgemsup,iscgemsup
+1926-08-09T01:00:40.430Z,-40.357,-73.742,35,5.53,mw,,,,,iscgemsup,iscgemsup910039,2022-05-09T17:46:55.164Z,"56 km W of La Unión, Chile",earthquake,,25,0.51,,reviewed,iscgemsup,iscgemsup
+1926-05-13T13:43:59.850Z,-30.045,-74.452,10,5.9,mw,,,,,iscgemsup,iscgemsup909838,2022-05-09T17:46:06.487Z,"Off the coast of Coquimbo, Chile",earthquake,,25,0.23,,reviewed,iscgemsup,iscgemsup
+1926-05-12T03:45:35.160Z,-30.816,-72.866,15,5.77,mw,,,,,iscgem,iscgem909836,2022-04-25T23:16:23.963Z,"161 km W of Ovalle, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1926-05-07T21:09:04.730Z,-38.14,-73.007,35,5.38,mw,,,,,iscgemsup,iscgemsup909831,2022-05-09T17:46:05.258Z,"31 km WNW of Traiguén, Chile",earthquake,,5.8,0.4,,reviewed,iscgemsup,iscgemsup
+1926-01-01T21:37:19.380Z,-23.508,-70.539,35,6.19,mw,,,,,iscgem,iscgem909699,2022-04-25T23:12:58.215Z,"21 km NW of Antofagasta, Chile",earthquake,,7.8,0.2,,reviewed,iscgem,iscgem
+1925-08-11T19:41:36.980Z,-35.538,-72.381,35,6.05,mw,,,,,iscgem,iscgem910642,2022-04-25T23:27:33.155Z,"22 km S of Constitución, Chile",earthquake,,12.8,0.46,,reviewed,iscgem,iscgem
+1925-05-15T11:57:05.280Z,-25.468,-70.445,30,6.31,mw,,,,,iscgem,iscgem910497,2022-04-25T23:25:54.251Z,"7 km SSE of Taltal, Chile",earthquake,,23,0.29,,reviewed,iscgem,iscgem
+1924-01-29T01:54:58.960Z,-28.183,-70.715,45,6.8,mw,,,,,iscgem,iscgem910820,2022-04-25T23:29:25.973Z,"43 km N of Vallenar, Chile",earthquake,,12.8,0.4,,reviewed,iscgem,iscgem
+1923-11-06T17:15:23.250Z,-38.708,-73.182,35,6.16,mw,,,,,iscgem,iscgem911723,2022-04-25T23:39:16.690Z,"1 km W of Carahue, Chile",earthquake,,9.4,0.38,,reviewed,iscgem,iscgem
+1923-08-17T01:05:11.140Z,-25.164,-70.926,35,6.18,mw,,,,,iscgem,iscgem911507,2022-04-25T23:37:40.446Z,"51 km WNW of Taltal, Chile",earthquake,,10.8,0.2,,reviewed,iscgem,iscgem
+1923-07-10T00:29:17.240Z,-30.207,-71.799,35,6.4,mw,,,,,iscgem,iscgem911441,2022-04-25T23:36:23.773Z,"52 km WSW of Coquimbo, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1923-05-04T22:26:51.220Z,-28.89,-71.405,35,6.56,mw,,,,,iscgem,iscgem911356,2022-05-09T22:48:50.685Z,"72 km WSW of Vallenar, Chile",earthquake,,17.2,0.2,,reviewed,iscgem,iscgem
+1922-11-26T13:30:00.810Z,-29.85,-71.474,35,6.21,mw,,,,,iscgem,iscgem912092,2022-04-25T23:42:31.451Z,"17 km NW of Coquimbo, Chile",earthquake,,20.3,0.39,,reviewed,iscgem,iscgem
+1922-11-17T11:02:54.010Z,-30.42,-72.486,15,6.76,mw,,,,,iscgem,iscgem912083,2022-04-25T23:42:30.344Z,"121 km WSW of Coquimbo, Chile",earthquake,,14.3,0.29,,reviewed,iscgem,iscgem
+1922-11-11T18:09:35.450Z,-28.037,-71.482,35,6.71,mw,,,,,iscgem,iscgem912063,2022-04-25T23:42:29.229Z,"92 km NW of Vallenar, Chile",earthquake,,14.8,0.2,,reviewed,iscgem,iscgem
+1922-11-11T04:32:51.000Z,-28.293,-69.852,70,8.5,mw,,,,,official,official19221111043251_30,2022-04-25T23:42:28.127Z,"94 km ENE of Vallenar, Chile",earthquake,,,,,automatic,iscgem,official
+1922-11-07T23:00:17.680Z,-28.369,-71.942,25,6.99,mw,,,,,iscgem,iscgem912057,2022-04-25T21:14:18.405Z,"118 km WNW of Vallenar, Chile",earthquake,,6.7,0.4,,reviewed,iscgem,iscgem
+1922-05-21T15:40:42.150Z,-34.101,-73.819,15,6.1,mw,,,,,iscgemsup,iscgemsup911903,2022-05-09T17:56:50.931Z,"187 km NW of Constitución, Chile",earthquake,,25,0.44,,reviewed,iscgemsup,iscgemsup
+1922-03-12T16:51:54.650Z,-39.205,-73.714,35,6.56,mw,,,,,iscgemsup,iscgemsup911840,2022-05-09T17:56:33.266Z,"72 km SW of Carahue, Chile",earthquake,,25,1.02,,reviewed,iscgemsup,iscgemsup
+1920-12-17T19:00:04.570Z,-31.905,-68.412,15,6.74,mw,,,,,iscgem,iscgem912690,2022-04-25T23:50:16.141Z,"26 km S of Nueve de Julio, Argentina",earthquake,,12.8,0.2,,reviewed,iscgem,iscgem
+1920-12-10T04:25:49.770Z,-39.102,-73.462,25,7.29,mw,,,,,iscgem,iscgem912683,2022-04-25T23:49:53.813Z,"50 km SSW of Carahue, Chile",earthquake,,25,0.56,,reviewed,iscgem,iscgem
+1920-10-22T12:09:55.010Z,-21.602,-71.579,15,6.59,mw,,,,,iscgem,iscgem912646,2022-04-25T23:49:34.838Z,"152 km WNW of Tocopilla, Chile",earthquake,,25,0.2,,reviewed,iscgem,iscgem
+1920-08-20T16:15:42.640Z,-37.911,-72.887,15,6.95,mw,,,,,iscgem,iscgem16958437,2022-04-25T20:34:36.680Z,"19 km SW of Angol, Chile",earthquake,,5.8,0.2,,reviewed,iscgem,iscgem
+1920-08-03T19:57:22.090Z,-27.475,-67.867,15,7.03,mw,,,,,iscgem,iscgem912573,2022-04-25T23:47:31.464Z,"32 km NW of Fiambalá, Argentina",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1919-03-09T03:16:58.860Z,-41.422,-74.365,15,6.85,mw,,,,,iscgem,iscgem912740,2022-04-25T23:51:15.992Z,"67 km NW of Ancud, Chile",earthquake,,25,0.5,,reviewed,iscgem,iscgem
+1919-03-02T11:45:15.190Z,-43.038,-71.306,15,7.18,mw,,,,,iscgem,iscgem912735,2022-04-25T23:51:14.383Z,"13 km ENE of Trevelin, Argentina",earthquake,,25,0.42,,reviewed,iscgem,iscgem
+1919-03-02T03:26:35.610Z,-43.814,-78.294,15,7.28,mw,,,,,iscgem,iscgem912734,2022-04-25T23:51:13.426Z,"Off the coast of Los Lagos, Chile",earthquake,,25,0.35,,reviewed,iscgem,iscgem
+1919-01-05T19:52:34.830Z,-26.039,-70.675,35,6.42,mw,,,,,iscgem,iscgem912703,2022-04-25T23:50:45.328Z,"72 km WNW of Diego de Almagro, Chile",earthquake,,20.1,0.2,,reviewed,iscgem,iscgem
+1918-12-04T17:42:00.890Z,-26.697,-67.881,35,6.4,mw,,,,,iscgemsup,iscgemsup913363,2022-05-09T18:05:38.222Z,"85 km SW of Antofagasta de la Sierra, Argentina",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1918-12-04T11:47:51.310Z,-26.462,-70.65,40,8.01,mw,,,,,iscgem,iscgem913362,2022-04-25T23:57:50.315Z,"60 km W of Diego de Almagro, Chile",earthquake,,19.5,0.2,,reviewed,iscgem,iscgem
+1918-05-20T17:55:07.790Z,-29.178,-71.93,20,6.92,mw,,,,,iscgem,iscgem913147,2022-04-25T23:55:31.853Z,"103 km NNW of Coquimbo, Chile",earthquake,,16,0.23,,reviewed,iscgem,iscgem
+1917-02-22T09:11:49.050Z,-30.754,-78.354,10,6.52,mw,,,,,iscgemsup,iscgemsup16958319,2022-05-09T15:18:06.180Z,"southeast central Pacific Ocean",earthquake,,25,0.24,,reviewed,iscgemsup,iscgemsup
+1917-02-21T09:41:13.070Z,-28.238,-79.266,10,6.37,mw,,,,,iscgemsup,iscgemsup16958317,2022-05-09T15:18:00.505Z,"southeast central Pacific Ocean",earthquake,,25,0.44,,reviewed,iscgemsup,iscgemsup
+1917-02-15T00:48:28.160Z,-30.519,-71.789,35,6.9,mw,,,,,iscgem,iscgem913410,2022-04-25T23:58:05.599Z,"57 km W of Ovalle, Chile",earthquake,,13.4,0.2,,reviewed,iscgem,iscgem
+1916-12-23T09:24:33.710Z,-22.762,-69.642,75,6.81,mw,,,,,iscgem,iscgem913875,2022-04-26T00:03:36.361Z,"81 km WSW of Calama, Chile",earthquake,,21.4,0.2,,reviewed,iscgem,iscgem
+1916-08-25T09:44:21.560Z,-20.162,-71.886,15,6.86,mw,,,,,iscgem,iscgem913840,2022-04-26T00:02:47.074Z,"181 km W of Iquique, Chile",earthquake,,25,0.21,,reviewed,iscgem,iscgem
+1914-01-30T07:35:45.040Z,-34.951,-69.989,15,6.53,mw,,,,,iscgemsup,iscgemsup913966,2022-05-09T18:09:16.506Z,"99 km SE of Rengo, Chile",earthquake,,25,0.26,,reviewed,iscgemsup,iscgemsup
+1914-01-30T03:36:06.550Z,-34.763,-73.309,15,7.69,mw,,,,,iscgem,iscgem913964,2022-04-26T00:06:25.010Z,"103 km NW of Constitución, Chile",earthquake,,25,0.41,,reviewed,iscgem,iscgem
+1913-05-24T23:24:54.790Z,-25.619,-72.245,15,6.89,mw,,,,,iscgem,iscgem914071,2022-04-26T00:09:01.441Z,"178 km W of Taltal, Chile",earthquake,,25,0.23,,reviewed,iscgem,iscgem
+1911-09-15T13:09:56.230Z,-20.18,-71.292,15,6.92,mw,,,,,iscgem,iscgem16958162,2022-04-25T20:33:19.027Z,"119 km W of Iquique, Chile",earthquake,,25,0.26,,reviewed,iscgem,iscgem
+1910-10-04T23:00:19.040Z,-20.735,-67.532,120,7.2,mB,,,,,iscgemsup,iscgemsup16958111,2025-08-04T23:35:46.676Z,"78 km SW of Colchani, Bolivia",earthquake,,25,,,reviewed,iscgemsup,official
+1910-09-06T20:03:01.840Z,-27.421,-70.699,35,6.88,mw,,,,,iscgem,iscgem16958105,2022-04-25T20:31:45.645Z,"36 km W of Copiapó, Chile",earthquake,,6.5,0.2,,reviewed,iscgem,iscgem
+1909-06-08T05:46:37.330Z,-26.154,-70.502,35,7.48,mw,,,,,iscgem,iscgem16958039,2022-04-25T20:25:07.690Z,"50 km WNW of Diego de Almagro, Chile",earthquake,,20.1,0.58,,reviewed,iscgem,iscgem
+1909-05-17T08:02:57.860Z,-20.28,-65.755,255,7,mb,,,,,iscgemsup,iscgemsup16958034,2025-07-15T00:28:53.775Z,"69 km NW of Camargo, Bolivia",earthquake,,25,,,reviewed,iscgemsup,official
+1907-08-05T06:39:00.260Z,-24.365,-70.966,15,6.56,mw,,,,,iscgem,iscgem610548694,2022-04-25T20:41:30.091Z,"97 km SW of Antofagasta, Chile",earthquake,,6.8,0.33,,reviewed,iscgem,iscgem
+1907-06-13T09:18:10.970Z,-40.055,-72.153,15,6.9,mw,,,,,iscgem,iscgem16957963,2022-04-25T20:29:03.998Z,"48 km SSE of Panguipulli, Chile",earthquake,,25,0.28,,reviewed,iscgem,iscgem
+1906-11-28T09:01:35.530Z,-29.568,-72.69,15,6.35,mw,,,,,iscgemsup,iscgemsup610548673,2022-05-09T15:24:50.399Z,"137 km WNW of Coquimbo, Chile",earthquake,,11.1,0.46,,reviewed,iscgemsup,iscgemsup
+1906-10-02T14:33:45.430Z,-32.175,-71.763,15,6.35,mw,,,,,iscgem,iscgem610548661,2022-04-25T20:40:47.117Z,"58 km WNW of La Ligua, Chile",earthquake,,13.1,0.2,,reviewed,iscgem,iscgem
+1906-08-19T09:34:08.360Z,-39.228,-72.721,15,6.74,mw,,,,,iscgemsup,iscgemsup16957914,2022-05-09T15:12:00.619Z,"17 km NNW of Loncoche, Chile",earthquake,,25,0.2,,reviewed,iscgemsup,iscgemsup
+1906-08-17T00:40:04.250Z,-32.4,-71.4,35,8.2,mw,,,,,iscgemsup,iscgemsup16957911,2024-12-13T06:53:22.309Z,"The 1906 Valparaiso, Chile Earthquake",earthquake,,11.1,0.2,,reviewed,iscgemsup,iscgemsup
