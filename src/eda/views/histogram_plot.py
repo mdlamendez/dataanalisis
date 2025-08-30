@@ -3,6 +3,9 @@ from ..views import (prepare_plot, render_or_save_plot)
 from ..utils import is_numeric_column
 
 # Principio Abierto/Cerrado
+data = {
+    "title": []
+}
 
 """
 SOLID
@@ -13,8 +16,7 @@ L: Liskov Substitution
 I: Interface Segregation -> Segregación de interfaces
 D: Dependency Inversion
 """
-
-                            # Este config es un diccionario con la configuración
+# Este config es un diccionario con la configuración
 def plot_histogram(df, column, config): # Los histogramas solo funciona con valores numéricos
     """_summary_
 
@@ -40,10 +42,10 @@ def plot_histogram(df, column, config): # Los histogramas solo funciona con valo
     format = config.get('format', 'png')
     dpi = config.get('dpi', 300)
     output_dir = config.get('output_dir', None)
-    filename = config.get('filename', f"{column}_histogram.{format}")
+    filename = config.get('filename', "histogram_"+column)
     
     
-    sns.histplot(df[column], bins=bins, kde=kde) # Kernel Density Estimation -> Define la curva de densidad de probabilidad
+    sns.histplot(df, x=column, bins=bins, kde=kde) # Kernel Density Estimation -> Define la curva de densidad de probabilidad
     prepare_plot(title, xlabel, ylabel, show_grid, linestyle, alpha)
     render_or_save_plot(output_dir, filename, format, dpi)
 

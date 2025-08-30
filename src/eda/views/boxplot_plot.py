@@ -32,7 +32,7 @@ def plot_boxplot(df, column, config):
     format = config.get('format', 'png')
     dpi = config.get('dpi', 300)
     output_dir = config.get('output_dir', None)
-    filename = config.get('filename', f"{column}_histogram.{format}")
+    filename = config.get('filename', f"{column}_boxplot.{format}")
     
     sns.boxplot(df, x=column, orient=orientation)
     prepare_plot(title, xlabel, ylabel, show_grid, linestyle, alpha)

@@ -32,8 +32,8 @@ dfb["dias"] = dias
 dfb["daysofweek"] = diasemana
 dfb["meses"] = meses
 dfb["años"] = anno
-dfb["Retención"]  = (dfb["Minutos visualizados"] / dfb["Minutos de emisión"])
-dfb["poremición"] = ( dfb["Minutos de emisión"]/dfb["Minutos visualizados"] )
+dfb["Retencion"]  = (dfb["Minutos visualizados"] / dfb["Minutos de emisión"])
+dfb["poremicion"] = ( dfb["Minutos de emisión"]/dfb["Minutos visualizados"] )
 dfb["horas_emitidas"] = dfb["Minutos de emisión"]/60
 dfb["horas_visualizadas"] = dfb["Minutos visualizados"]/60
     

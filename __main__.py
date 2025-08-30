@@ -71,8 +71,8 @@ def main():
     
     plot_factory(df, "regression", ("Minutos de emisión", "Minutos visualizados"), default_regression_config)
     plot_factory(df, "scatter", ("Minutos de emisión", "Minutos visualizados"), default_scatter_config)
-    plot_factory(df, "histogram", "poremición" , default_histogram_config)
-    plot_factory(df, "boxplot",  "Retención" , default_boxplot_config)
+    plot_factory(df, "histogram", "poremicion" , default_histogram_config)
+    plot_factory(df, "boxplot",  "Retencion" , default_boxplot_config)
     col_select = [2,3,4,5,6,7,11,22,23]
     df_temp = select_columns_df(df, col_select)
     plot_factory(df_temp, "heatmap", None, default_heatmap_config)
