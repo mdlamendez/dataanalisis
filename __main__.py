@@ -58,7 +58,13 @@ def main():
     print("Mediana de visualizaciones: " , tendency_visualizaciones["mediana"])
     print("Moda de visualizaciones: " , tendency_visualizaciones["moda"])
     print("Maximo de espectadores: ", df["Espectadores máximos"].max())
-    print(type(df["Fecha"]))
+    tendency_espectadores = central_tendency(df, "Espectadores máximos")
+    print("Promedio de visualizaciones: " , tendency_espectadores["promedio"])
+    print("Mediana de visualizaciones: " , tendency_espectadores["mediana"])
+    print("Moda de visualizaciones: " , tendency_espectadores["moda"])
+    print("Maximo de espectadores: ", df["Espectadores máximos"].max())
+    print("Minutos de emisión:", df["Minutos de emisión"].mean())
+    print("Minutos de visualización:", df["Minutos visualizados"].mean())
 
     print('#' * 50)
     print("Dispersión de visualizaciones")
@@ -71,6 +77,7 @@ def main():
     
     plot_factory(df, "regression", ("Minutos de emisión", "Minutos visualizados"), default_regression_config)
     plot_factory(df, "scatter", ("Minutos de emisión", "Minutos visualizados"), default_scatter_config)
+    plot_factory(df, "histogram", "poremicion" , default_histogram_config)
     plot_factory(df, "histogram", "poremicion" , default_histogram_config)
     plot_factory(df, "boxplot",  "Retencion" , default_boxplot_config)
     col_select = [2,3,4,5,6,7,11,22,23]

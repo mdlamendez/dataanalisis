@@ -16,7 +16,6 @@ default_histogram_config = {
     "output_dir": HISTOGRAM_DIR,
 }
 
-default_histogram_config["filename"] = f"histogram.{default_histogram_config['format']}"
 
 ingresos_histogram_config = {
     **default_histogram_config,

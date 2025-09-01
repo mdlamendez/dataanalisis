@@ -36,9 +36,6 @@ def prepare_plot(
         plt.ylabel(ylabel)
     if show_grid:
         plt.grid(True, linestyle=linestyle, alpha=alpha)
-        
-    if legend:
-        plt.legend()
     
     plt.tight_layout()
 

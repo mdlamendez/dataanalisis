@@ -15,4 +15,3 @@ default_regression_config = {
     "output_dir": REGRESSION_DIR,
 }
 
-default_regression_config["filename"] = f"regresion_lineal.{default_regression_config['format']}"

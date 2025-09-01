@@ -38,4 +38,4 @@ dfb["horas_emitidas"] = dfb["Minutos de emisión"]/60
 dfb["horas_visualizadas"] = dfb["Minutos visualizados"]/60
     
 
-dfb.to_csv("/home/mmendez/dataanalisis/data/processed/twitchstats/data_procesada.csv")
+dfb.to_csv("/home/mmendez/dataanalisis/data/processed/twitchstats/data_procesada.csv",index=False)

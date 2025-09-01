@@ -42,7 +42,7 @@ def plot_histogram(df, column, config): # Los histogramas solo funciona con valo
     format = config.get('format', 'png')
     dpi = config.get('dpi', 300)
     output_dir = config.get('output_dir', None)
-    filename = config.get('filename', "histogram_"+column)
+    filename = config.get('filename', f"histo_{column}.{format}")
     
     
     sns.histplot(df, x=column, bins=bins, kde=kde) # Kernel Density Estimation -> Define la curva de densidad de probabilidad
